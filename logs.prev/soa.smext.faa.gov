@@ -1,8 +1,0 @@
-
-
-;soa.smext.faa.gov.		IN	ANY
-
-soa.smext.faa.gov.	30	IN	RRSIG	A 8 4 30 20190206225726 20190130225726 18693 smext.faa.gov. rnG0z+VqyUIExfAyDEFipsm1L+SAkibbqdazsqzwhIozPALmfouO3ktk NI04jX/KLHEUD3o5psYguCRiyfxTvMbRFTBa6Gz4i7wTN5PLdGRO+F6k SAD0SpGY0HIWWBkq+aeQFBu+7z2O2tz/Yz/Wq1ooHHYT7MZfasI2xS0i mngd6dtSLxODOElnHxkgurxCNzZxrokiNCTtuZJHyqppnfNbjaWbtCmF UMBxVfRBnB0I3EWNidmERuULhJoI9PVxdCpmhZnHFWlEAzFEurOBGgnn IKdhp74sHdhe9O19bkCMgoUHPxga0U3HgWM9Yf7a/3+w3jg9Ps1UdCCc ORqCFA==
-soa.smext.faa.gov.	30	IN	A	155.178.203.64
-
-

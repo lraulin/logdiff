@@ -1,7 +1,0 @@
-
-
-;FAA-domains-list.txt.		IN	ANY
-
-.			9282	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2019013100 1800 900 604800 86400
-
-

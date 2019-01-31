@@ -1,8 +1,0 @@
-
-
-;icsodiw.nhtsa.gov.		IN	ANY
-
-icsodiw.nhtsa.gov.	313	IN	NSEC	icsw.nhtsa.gov. A RRSIG NSEC
-icsodiw.nhtsa.gov.	313	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. s+M8M3lhUQ3d2ZPMNoODqJoqM5uvIJHCtgXyMjbwSuwodqCTHKaUZj9Y 4HEG8V//27xsfeIC4aVD2UgLSG4vJTfnfJL1iAqsPaR7XdYZNm+kbiBU U4VEQ4r011dDRyiHDMF3eEgNu06X6JWmq2TNk5OjV5AcYHXYKyzjmCAg a14=
-
-

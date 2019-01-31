@@ -1,7 +1,0 @@
-
-
-;sapttest.faa.gov.		IN	ANY
-
-sapttest.faa.gov.	7200	IN	CNAME	sapttest.faa.gov.edgekey.net.
-
-

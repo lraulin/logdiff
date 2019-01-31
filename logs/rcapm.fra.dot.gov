@@ -1,7 +1,0 @@
-
-
-;rcapm.fra.dot.gov.		IN	ANY
-
-rcapm.fra.dot.gov.	1500	IN	CNAME	f5-fra-rcapm.website.dot.gov.
-
-

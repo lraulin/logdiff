@@ -1,7 +1,0 @@
-
-
-;dev.explore.dot.gov.		IN	ANY
-
-dev.explore.dot.gov.	3600	IN	CNAME	OSTRAZEDWWS001.ext.dot.gov.
-
-

@@ -1,7 +1,0 @@
-
-
-;origin-saptdev.faa.gov.		IN	ANY
-
-faa.gov.		0	IN	SOA	imns1.faa.gov. helpdesk.faa.gov. 2019013100 10800 1800 604800 1800
-
-

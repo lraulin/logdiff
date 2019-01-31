@@ -1,8 +1,0 @@
-
-
-;authtest.smext.faa.gov.		IN	ANY
-
-authtest.smext.faa.gov.	30	IN	RRSIG	A 8 4 30 20190207094742 20190131094742 18693 smext.faa.gov. blKwh6U8R5KOuZORlOIREn26w6RkoxdAJxtnye5W/UEHHLb4OwGsXFkV k/960hzJbtE2JMvFL6iAL7YsgMmFU1dN3Kvj4mk4sgy6XNegWVSL/KYp DCGr+M0Yp7E9twMpCM53lrTCxEnE+ngpGlCrsim8Rc+RPUmqyLRFxANb tUyJ8FqMo5wrIgJx1Up23u9ePemrb2gGew2r28OxG+af8/etYdGbUYcx YlL+RZZjF/IQzPLyMWH+w0UVuh1vCJTtr9JGLwMGZRu32kbFPnWybFAC 2GU2YxKJezHKdUx/u7uRqINNKzwqSyqRQoGXEPhASZAcaK3TjZBoxTtg XhHsLA==
-authtest.smext.faa.gov.	30	IN	A	162.58.33.116
-
-

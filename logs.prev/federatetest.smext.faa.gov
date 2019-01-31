@@ -1,8 +1,0 @@
-
-
-;federatetest.smext.faa.gov.	IN	ANY
-
-federatetest.smext.faa.gov. 30	IN	RRSIG	A 8 4 30 20190203052137 20190127052137 18693 smext.faa.gov. LOZSmdMGyIJ/odNUNqgApR/nxwv+QYUm2a6/9CeFBizK1/yxByXVQ08n 5dDE2sH/GOdlKWMsGUISuKPRXntysJKWNsJTafxPH+XZwSDYqoo6XOYH yDuhMXk/2ev3tYpRHUhBYlXf6FsYs9hZrbWbsd/cfkxHYuz97cp/2kq9 lUw9Tv5x9eonO1rnFBStkRhZ15yZLbsN5CX6PjuBPUAZpLPzLFIdMMuO k3LiJVwGnakTYqvAityLz9s1BSVfulOZrDW/6KruCSK+ZVdSwFFbCspI 3HNn4EnSJhlVVB9psJgWWCNr8Gl2r5Oz2F1t/iifgfGxTh0Boxgp+ZnD 2ZvETA==
-federatetest.smext.faa.gov. 30	IN	A	162.58.33.163
-
-

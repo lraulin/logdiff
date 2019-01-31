@@ -1,7 +1,0 @@
-
-
-;npms.phmsa.dot.gov.		IN	ANY
-
-phmsa.dot.gov.		86400	IN	SOA	mdns1.dot.gov. hostmaster.dot.gov. 2010413721 21600 3600 604800 86400
-
-

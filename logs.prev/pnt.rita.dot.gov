@@ -1,7 +1,0 @@
-
-
-;pnt.rita.dot.gov.		IN	ANY
-
-pnt.rita.dot.gov.	300	IN	CNAME	www.redirect.dot.gov.edgekey.net.
-
-

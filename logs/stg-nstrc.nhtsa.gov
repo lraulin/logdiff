@@ -1,8 +1,0 @@
-
-
-;stg-nstrc.nhtsa.gov.		IN	ANY
-
-stg-nstrc.nhtsa.gov.	384	IN	NSEC	stn.nhtsa.gov. CNAME RRSIG NSEC
-stg-nstrc.nhtsa.gov.	384	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. qczpCWiqNMbSKAb7HS6uVuFbtWfg155e0TjaRqpAejMz426CdI1iEntz dkDIkaX0Uy0TVuGnzHMF+5cwqZWAsXPy4hWbPVktpCdrV2uLooZiewUy J4ei+eHI4DA05Tn7rB/DduauDSPfKn65htrxC3Zw04uKB3Dh/Cno9xmv /YY=
-
-

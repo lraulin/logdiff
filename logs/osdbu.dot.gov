@@ -1,7 +1,0 @@
-
-
-;osdbu.dot.gov.			IN	ANY
-
-osdbu.dot.gov.		3600	IN	CNAME	www.redirect.dot.gov.edgekey.net.
-
-

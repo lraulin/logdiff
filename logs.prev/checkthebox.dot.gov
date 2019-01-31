@@ -1,7 +1,0 @@
-
-
-;checkthebox.dot.gov.		IN	ANY
-
-checkthebox.dot.gov.	3600	IN	CNAME	www.dot.gov.edgekey.net.
-
-

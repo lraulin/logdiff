@@ -1,8 +1,0 @@
-
-
-;map.safercar.gov.		IN	ANY
-
-map.safercar.gov.	225	IN	A	204.68.194.253
-map.safercar.gov.	225	IN	RRSIG	A 8 3 900 20190726230000 20190109010000 7284 safercar.gov. S9zpdMBaf2OY2LFqIyHCcQGxq4tBh5CrzKjI9qdksey/wJMvnmL7etrM Hi8h2q2RLsVIRNwtucoj7/lGUhEssKDD6zkrx5Zy9RujogKspH4f/67s ibtywyvA27D/Y8KLEFdwKMr+ALu5dSy4IWjXwh4mgMVIISRessPoBl4p OxA=
-
-

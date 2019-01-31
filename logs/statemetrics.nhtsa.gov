@@ -1,8 +1,0 @@
-
-
-;statemetrics.nhtsa.gov.		IN	ANY
-
-statemetrics.nhtsa.gov.	1786	IN	CNAME	statemetrics.azurewebsites.net.
-statemetrics.nhtsa.gov.	1786	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 5286 nhtsa.gov. sGzSd9JU2v68+w7XlX7FLWaxd+hkc11sOLopmqt3v8cf9/A6Ddrgm5eO iGLIHCUV+UmdtKSnGJUv8LkXXisV8dNrvxEXxvEjwLryDANZ1eQ1Lg+x bjXMASFnzTHR4wjh4baxIex8xrVjzzoA3Qsix8cFnZAwBSQoYhSQfMLC iFc=
-
-

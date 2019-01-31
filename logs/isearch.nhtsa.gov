@@ -1,8 +1,0 @@
-
-
-;isearch.nhtsa.gov.		IN	ANY
-
-isearch.nhtsa.gov.	382	IN	NSEC	ivtds.nhtsa.gov. CNAME RRSIG NSEC
-isearch.nhtsa.gov.	382	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. EIE3x5/X1vRcIQ426PzRW9H2hWpBijuY62vrfrj4hXY3iTH4gSUOwcJx cu1z82hl0idYkVKq/jtmd/vB7EIq88NFDv97agEEM2GMXfS/+6qfjhE5 uVT0DYevUU3dOJr/GRfHAkhPa3vPikz4pAVIjGxNNDwNUqxdGl3hV4sT +n0=
-
-

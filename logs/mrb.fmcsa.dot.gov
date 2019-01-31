@@ -1,7 +1,0 @@
-
-
-;mrb.fmcsa.dot.gov.		IN	ANY
-
-mrb.fmcsa.dot.gov.	60	IN	CNAME	natss-prod-fmcsapublic-ws.fmcsa.dot.gov.
-
-

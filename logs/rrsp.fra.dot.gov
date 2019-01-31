@@ -1,7 +1,0 @@
-
-
-;rrsp.fra.dot.gov.		IN	ANY
-
-rrsp.fra.dot.gov.	1500	IN	CNAME	fra-global.fra.dot.gov.
-
-

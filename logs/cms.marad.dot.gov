@@ -1,7 +1,0 @@
-
-
-;cms.marad.dot.gov.		IN	ANY
-
-cms.marad.dot.gov.	3600	IN	CNAME	admin.dot.gov.edgekey.net.
-
-

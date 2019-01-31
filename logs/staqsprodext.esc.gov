@@ -1,9 +1,0 @@
-
-
-;staqsprodext.esc.gov.		IN	ANY
-
-staqsprodext.esc.gov.	71368	IN	A	162.58.38.42
-staqsprodext.esc.gov.	71368	IN	RRSIG	A 8 3 86400 20190218074626 20190130132425 54276 esc.gov. e1TweCCzdynivu1hBCiSsJglzXlFDDBuBGPQyeMpebqw5F+PzJ8DDX2w kc4Ow2+HfER1AUUxKA9pE7SANpHUyAAA7FtrUldV6yiyioH1MVh0Ikz2 bTLfYO8ZK9kpupmDLPucukWGPqBEexIFTTflXPwnK7OjobItpu7hCHlz aEM=
-staqsprodext.esc.gov.	71368	IN	RRSIG	A 8 3 86400 20190223193744 20190130132423 62184 esc.gov. jPhN86+z0Ktt1oGMgZGXHyfrRpU8YpjEiBTbiM4fD5Huqu5lPoPxNQgv nyZiKYDRopqr2p9Uzqn1RaYKtot6+UoW4cOTKBtDxBYwva950995IBIJ Lbjbk9GAzLAxl0/m7HpMSjPtCJLb6CNsa13j3fPXwqz8QlnK5VpQSal/ vP8=
-
-

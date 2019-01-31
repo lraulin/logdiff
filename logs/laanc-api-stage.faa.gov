@@ -1,7 +1,0 @@
-
-
-;laanc-api-stage.faa.gov.	IN	ANY
-
-laanc-api-stage.faa.gov. 7200	IN	CNAME	d3197xtv5ppd98.cloudfront.net.
-
-

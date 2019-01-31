@@ -1,7 +1,0 @@
-
-
-;nyapio.faa.gov.			IN	ANY
-
-nyapio.faa.gov.		7200	IN	CNAME	vanity-redirect.faa.gov.edgesuite.net.
-
-

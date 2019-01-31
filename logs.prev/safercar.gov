@@ -1,8 +1,0 @@
-
-
-;safercar.gov.			IN	ANY
-
-safercar.gov.		729	IN	RRSIG	A 8 2 900 20190726230000 20190109010000 7284 safercar.gov. gFnB8TQ4YkwkYx9I26O75uwl7Tt3Yuy/PZxLz6xOzZypQF73ZexdhHN1 8WDcwNQCBglXqtaL/3bJue3zbaLGczCtbP9/RAhCGQc/KCuxZzsk2VzR YxU3Bmzd+LjlOuhrCuUkPzKZYytDiKGj1viZ9fYBxfDeLkRRZphi9kWr rkI=
-safercar.gov.		729	IN	A	204.68.194.196
-
-

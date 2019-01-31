@@ -1,8 +1,0 @@
-
-
-;tankcar.bts.gov.		IN	ANY
-
-tankcar.bts.gov.	1788	IN	CNAME	ccdp.bts.gov.
-tankcar.bts.gov.	1788	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 45363 bts.gov. Wi4/Gc7WxduNbhbWBjUiBqYwy6tc+9A9AVDbThRmdcGTuGN5oUD2oH/w 5CRX+GpitMKirwC17aLrNu/Yv+f8Cfi3XLRlBVKc2HI7XhzkgViecLNk TfHJUG/1IuQJwMwYsnkEN9CRX5MWgDFXdfV3yTvQi5Yd87JE1WDl900n Uh4=
-
-

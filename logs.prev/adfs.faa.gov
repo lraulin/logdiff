@@ -1,7 +1,0 @@
-
-
-;adfs.faa.gov.			IN	ANY
-
-adfs.faa.gov.		300	IN	CNAME	adfs.edc.faa.gov.
-
-

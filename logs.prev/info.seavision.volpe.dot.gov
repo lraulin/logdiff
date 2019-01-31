@@ -1,7 +1,0 @@
-
-
-;info.seavision.volpe.dot.gov.	IN	ANY
-
-info.seavision.volpe.dot.gov. 3600 IN	CNAME	sv2-prod-external-drupal-512515883.us-east-1.elb.amazonaws.com.
-
-

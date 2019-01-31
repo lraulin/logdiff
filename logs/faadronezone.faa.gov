@@ -1,7 +1,0 @@
-
-
-;faadronezone.faa.gov.		IN	ANY
-
-faadronezone.faa.gov.	7200	IN	CNAME	dco420afrnesw.cloudfront.net.
-
-

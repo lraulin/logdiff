@@ -1,8 +1,0 @@
-
-
-;hvedata.nhtsa.gov.		IN	ANY
-
-hvedata.nhtsa.gov.	382	IN	NSEC	ice.nhtsa.gov. A RRSIG NSEC
-hvedata.nhtsa.gov.	382	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. fQnmQvKNN2kcBHMOoJFsobr437xM9pdhgQcIJmxurcBNLl6Y+sgMZ3a5 GzzunbUF3GveTzrFcjq2GogUnUMMJfqpDVVhlSMvqhNt9Rfca0VVAsQ6 B75A+0SodsS2uQojhFx804x4Pk08CBRxmmVmg5hUJ70Np6ZBuKPgiUVA +wU=
-
-

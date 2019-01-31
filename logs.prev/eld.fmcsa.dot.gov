@@ -1,7 +1,0 @@
-
-
-;eld.fmcsa.dot.gov.		IN	ANY
-
-eld.fmcsa.dot.gov.	60	IN	CNAME	eldenf-prod-710696995.us-east-1.elb.amazonaws.com.
-
-

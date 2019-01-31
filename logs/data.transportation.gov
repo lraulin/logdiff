@@ -1,8 +1,0 @@
-
-
-;data.transportation.gov.	IN	ANY
-
-data.transportation.gov. 381	IN	NSEC	Ironpoint-GW.transportation.gov. CNAME RRSIG NSEC
-data.transportation.gov. 381	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 42633 transportation.gov. p/ea2ADt8QB/D6e0Z/YEt2VyC4eYVcW/LLaAff8v2aSe9qSILRz3fQKt MfSwVZOH1wqT4JYHidBzu/RYQtVWTQMpcthRczhZm25fJv30YXWwPbre Lfcto2reyBT5w63KdYfOI49vrlCQBxyVRacVG6+iODkU2aZhtKv1BD0q SHo=
-
-

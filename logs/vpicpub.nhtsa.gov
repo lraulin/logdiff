@@ -1,8 +1,0 @@
-
-
-;vpicpub.nhtsa.gov.		IN	ANY
-
-vpicpub.nhtsa.gov.	384	IN	NSEC	vpicpubportal.nhtsa.gov. CNAME RRSIG NSEC
-vpicpub.nhtsa.gov.	384	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. ile/Evfn4SIOTOQh+QlfpsOk8kvE2PnBc6rOvA4lpPdLmXr/VhsWiS0F uh+YrYWuvjZFkobJr4wZYy/AfC9r4C+jFqvOOH5iNsMmQLczdiJ9kC8X VLVGnJ+SaOuSVUSs/az5INTpd0pZzh/8TsWcBOdVKkv10xH9OHbXPlJK VAo=
-
-

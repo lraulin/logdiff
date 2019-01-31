@@ -1,7 +1,0 @@
-
-
-;jobsearch.dot.gov.		IN	ANY
-
-jobsearch.dot.gov.	3600	IN	CNAME	jsearch.monster.com.
-
-

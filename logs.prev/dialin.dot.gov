@@ -1,7 +1,0 @@
-
-
-;dialin.dot.gov.			IN	ANY
-
-dialin.dot.gov.		3600	IN	CNAME	lyncdiscover.dot.gov.
-
-

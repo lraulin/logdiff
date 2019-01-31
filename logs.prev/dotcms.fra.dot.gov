@@ -1,7 +1,0 @@
-
-
-;dotcms.fra.dot.gov.		IN	ANY
-
-dotcms.fra.dot.gov.	86400	IN	CNAME	admin.dot.gov.edgekey.net.
-
-

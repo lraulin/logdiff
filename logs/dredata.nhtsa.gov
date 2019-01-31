@@ -1,8 +1,0 @@
-
-
-;dredata.nhtsa.gov.		IN	ANY
-
-dredata.nhtsa.gov.	382	IN	NSEC	drivesober.nhtsa.gov. CNAME RRSIG NSEC
-dredata.nhtsa.gov.	382	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. qzXWxCD1FlwT6wIWbAnFtzBjdTiTzgES1AOahaVtEor4yQmY7xTSFKzu wgsdPzUpR3zA+YCyV1+67kpMwLF46deHRQhPUeD9L4x1xH/FK888sNH8 Jg1bzdZLp8Lv4tJcXxmcDPDf+R4WXVvX9ysnkBimvf6Dfr2Vc7r0HYoq tz4=
-
-

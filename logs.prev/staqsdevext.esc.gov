@@ -1,9 +1,0 @@
-
-
-;staqsdevext.esc.gov.		IN	ANY
-
-staqsdevext.esc.gov.	73057	IN	A	162.58.38.43
-staqsdevext.esc.gov.	73057	IN	RRSIG	A 8 3 86400 20190214140939 20190130132425 54276 esc.gov. Y4T0VdajlFOHxNxlnQIqbnJpvbMDrLYczTFok+5cI6BihyBsNrcly3KE +CnhUWmo8NIYmVrZrTOgk5JqQhMAHZO0oyypScFTB79zHL/6/albntX3 00SYo1HuKQWs5PeyXeEvupuDL4CTtZ1Qenl5Fp4oSVfSDDElto2NnJxX WBs=
-staqsdevext.esc.gov.	73057	IN	RRSIG	A 8 3 86400 20190226203733 20190130132423 62184 esc.gov. iZcOMFqSxWapMOgvLzjmU5wkq7IVTevtpbkejf0kL0xF9xUEF4z+LzLL kkEn8uhoB3zqzHeDlToNM1w0lDlVDqPOvidYPr2MZ8JSMZlbB0PLmjyX TR6q5aBXCcI9ZoWMMmS4PeoUesY8j5+XnD3p6oc1wQ6o/nX+qDPArHrS rIw=
-
-

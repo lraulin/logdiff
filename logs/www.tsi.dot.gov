@@ -1,7 +1,0 @@
-
-
-;www.tsi.dot.gov.		IN	ANY
-
-www.tsi.dot.gov.	86400	IN	CNAME	www.redirect.dot.gov.edgekey.net.
-
-

@@ -1,8 +1,0 @@
-
-
-;stg-dredata.nhtsa.gov.		IN	ANY
-
-stg-dredata.nhtsa.gov.	383	IN	NSEC	stg-nstrc.nhtsa.gov. CNAME RRSIG NSEC
-stg-dredata.nhtsa.gov.	383	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. DPaC2GZoBMBNjIZzR4o4G4bakqC6htz3JkQiTRNgXEaGARakamre4Hr4 OHbSaS8k8BBP8g4OBnodFQvaAu2/jS3ZrUWDZEF2C4Vatw2yHNI7mN01 9C3yA6j5NQp9Pr02UIBkKyY1VGQMv5yFXkPf6O/X77Htt6gww/j1GOIx Si8=
-
-

@@ -1,8 +1,0 @@
-
-
-;ccdp.bts.gov.			IN	ANY
-
-ccdp.bts.gov.		1778	IN	A	199.79.178.200
-ccdp.bts.gov.		1778	IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 45363 bts.gov. LdLO56ElXMFndSIQZKr2lLlbpJkNGeqzGEcmdQlu/dXlFsUPiyxknK3c 5tcSJBo4Xak0xux/Ak2BYVhskI/hFGBLyH5vuX0/tlZMo52cve5gqxyR Xv1rjYiqdthKdU3CrvG5pg8PsabO1tHN7Ms/MXLMun590qaMHgPgqsCO Iig=
-
-

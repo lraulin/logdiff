@@ -1,8 +1,0 @@
-
-
-;transtats.bts.gov.		IN	ANY
-
-transtats.bts.gov.	1116	IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 45363 bts.gov. YGcLiwPozd2/8d64oFc8W2b8do0qrugeMub7mgdb04SfmYJ9rSJb20B8 ajrJfLP1Zm1a2qYGhUm6Mby4UpiDokwk3MStzD/FNJL8P/OJKxFzZgf4 MBSp9MpOA7oeCPITnAtSOaEGIC0ifz3bRiZBxSG2Oi3fokdKN/JvCihN eqE=
-transtats.bts.gov.	1116	IN	A	204.68.194.70
-
-

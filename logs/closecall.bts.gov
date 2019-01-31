@@ -1,8 +1,0 @@
-
-
-;closecall.bts.gov.		IN	ANY
-
-closecall.bts.gov.	1778	IN	CNAME	ccdp.bts.gov.
-closecall.bts.gov.	1778	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 45363 bts.gov. lXi8qfaNjZN/J0hSr8JwBywWz0ddiAdC5WKec7GIkt3Jh+t7OrEDUTQ/ auSne4R5hu+qzZG9TN+xjVlxZHldlvwmscuGhKisaoFUUbk8lSLxkscd idMymIxizAOV/KReEFlIwLEXzO/MSGc93Y8JH+5sk3vLFs21fCLzzTK/ u8M=
-
-

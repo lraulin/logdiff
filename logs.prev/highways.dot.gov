@@ -1,7 +1,0 @@
-
-
-;highways.dot.gov.		IN	ANY
-
-highways.dot.gov.	3600	IN	CNAME	www.fhwa.dot.gov.edgekey.net.
-
-

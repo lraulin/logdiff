@@ -1,9 +1,0 @@
-
-
-;fhwa.dot.gov.			IN	ANY
-
-fhwa.dot.gov.		73048	IN	MX	10 smtp10.dot.gov.
-fhwa.dot.gov.		73048	IN	MX	10 smtp08.dot.gov.
-fhwa.dot.gov.		73048	IN	MX	10 smtp09.dot.gov.
-
-

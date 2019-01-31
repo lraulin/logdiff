@@ -1,7 +1,0 @@
-
-
-;vdi.dot.gov.			IN	ANY
-
-vdi.dot.gov.		3600	IN	CNAME	vdi-prod.dot.gov.
-
-

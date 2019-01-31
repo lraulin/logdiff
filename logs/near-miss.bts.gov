@@ -1,8 +1,0 @@
-
-
-;near-miss.bts.gov.		IN	ANY
-
-near-miss.bts.gov.	1781	IN	CNAME	safeocs.gov.
-near-miss.bts.gov.	1781	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 45363 bts.gov. Vbzj6txDKLqO6cDFYAyaYNhucGp8k3owCkCzg1GLvt7/hj67yov1qUfR sU19ZnfX9BE3u9AEbbf/eqyDQfX5vN63/FbtyfyJUqDCTHSWiI3OEK0l 8L1tIgZf2kMLoAUXhwsCX6yTnqWn6qaRiA4K27QJVk2SIoqe9lIWTJmw 1T8=
-
-

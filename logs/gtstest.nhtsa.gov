@@ -1,8 +1,0 @@
-
-
-;gtstest.nhtsa.gov.		IN	ANY
-
-gtstest.nhtsa.gov.	1781	IN	A	204.68.194.196
-gtstest.nhtsa.gov.	1781	IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 5286 nhtsa.gov. qc7DzJ6jqfmjiiGoUn6FNkDteC91TDW8G43AELL08vgJ5Wz8eJB2KQMB eImhf8Sr2em+fEmJCHLNHT5Hdn/Ye/BYolI/jPFWINZZxH5sKL04SSN4 HWmX7KNS2Pi2FlGqkRlBuadT/Caa9S1T7HegkIaqidWEqZOT+zOpDE+1 5oA=
-
-

@@ -1,7 +1,0 @@
-
-
-;transerve.dot.gov.		IN	ANY
-
-transerve.dot.gov.	3600	IN	CNAME	www.redirect.dot.gov.edgekey.net.
-
-

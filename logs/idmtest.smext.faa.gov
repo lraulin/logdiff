@@ -1,8 +1,0 @@
-
-
-;idmtest.smext.faa.gov.		IN	ANY
-
-idmtest.smext.faa.gov.	30	IN	RRSIG	A 8 4 30 20190203051345 20190127051345 18693 smext.faa.gov. PUr8rvK+Ao27QUBsd+5YELTCI+53s9/T1UUz5fYwx8PEZ1YyehCqUhWs xV/bXG+10IgFllEPtbc7qwtcb6Sc/sE2kHuav+IbdNs7UAlomCRoQheL OxsIyfwUOZbbHVs/PxYdtCI2NPoPfhTgoWwsH9OEX5iXsp0qW64vJVW8 yUSHMWSTGtm6z4E0YN+biFPm7GDUMeZvbtNEFScJ2x0f2jhG98iAyj6F AztGMP0nP85kuKywbu1w8z85KOZIImbYz9hqOK4PWb1OJrzOYPLs1vEy vXLW0MYaozwvppMgE5pjADaC+P6jGvI28W5kujk1x1BVXuW4FAQo9FMG Im4KFQ==
-idmtest.smext.faa.gov.	30	IN	A	162.58.33.144
-
-

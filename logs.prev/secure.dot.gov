@@ -1,7 +1,0 @@
-
-
-;secure.dot.gov.			IN	ANY
-
-secure.dot.gov.		54000	IN	CNAME	www.secure.dot.gov.edgekey.net.
-
-

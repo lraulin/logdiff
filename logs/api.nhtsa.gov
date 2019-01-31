@@ -1,8 +1,0 @@
-
-
-;api.nhtsa.gov.			IN	ANY
-
-api.nhtsa.gov.		1776	IN	CNAME	d2bgzzm2bkb8ja.cloudfront.net.
-api.nhtsa.gov.		1776	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 5286 nhtsa.gov. eTxDaDRNbAgRTkBxm5dQBbefqKvMTRcQMOwfh7b6uXAYM/h4bLMOeMJr Zd2EXw/7mkbiVQ5jhM4Xg5OvjDgM6Oot5in28C8XKkESf+aKIv4Xj+++ KIyqycZsWf2ryoeOBmdCMbcxqUjshwvdL68ZysrRfyTp2/lzfPn2WPCY sOw=
-
-
