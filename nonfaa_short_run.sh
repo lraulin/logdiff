@@ -1,0 +1,1 @@
+awk -F . '{print $(NF-1) "." $NF}' domains.lst | sort | uniq | while read quid; do dig -t SOA "$quid" | sed '/^;;/d; /^; EDNS/d; /^; <<>>/d' ;done >> /Users/leeraulin/Projects/logdiff/SOA_ALL-nonFAA<Paste>
