@@ -1,0 +1,7 @@
+
+
+;score.fmcsa.dot.gov.		IN	ANY
+
+score.fmcsa.dot.gov.	3600	IN	CNAME	fmcsa.portal.dot.gov.
+
+

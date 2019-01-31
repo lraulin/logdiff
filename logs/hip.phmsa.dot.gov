@@ -1,0 +1,7 @@
+
+
+;hip.phmsa.dot.gov.		IN	ANY
+
+hip.phmsa.dot.gov.	86400	IN	CNAME	PHMHQNWAS036.phmsa.dot.gov.
+
+

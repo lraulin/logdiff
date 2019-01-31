@@ -1,0 +1,10 @@
+
+
+;secure.dot.gov.			IN	ANY
+
+secure.dot.gov.		900	IN	CNAME	www.secure.dot.gov.edgekey.net.
+secure.dot.gov.		900	IN	RRSIG	CNAME 8 3 900 20190726230000 20190109010000 61893 dot.gov. CQHYka5/u1Kfq3Di9NrAXg+ySarmAnbFDBk6+PpBxkG+S5HuIG9Ig0uw eaffUk/dsXEL+5k5Qvku+U9F8BfMsMi6dp/GHmUYYe/82JxZaq5VQ3nS Tr6yOnOXBMYodOzahE6ZeKmmCsw3tLXmkiPuRYz1O2DJKHD4UjGk1ObQ eSo=
+secure.dot.gov.		900	IN	NSEC	acquia-origin.secure.dot.gov. CNAME RRSIG NSEC
+secure.dot.gov.		900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. CzBQoYOqGKWeVD4NK+OuxlhO8fXYLdwiRjDV+KzV41o/6o1LyWz/NvA0 GdvkhPkKEbYbvVeGBLZ1kq50+vBuGrbrQtCxyLvvD1uYiD85QLIDWrcF BwGN9ZXJkXCZWFF7bpwkQJQHeRrF6SGAiAUk7pjw7u+DRwOPmLPnwfyp 4MM=
+
+

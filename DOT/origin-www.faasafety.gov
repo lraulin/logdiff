@@ -1,0 +1,10 @@
+
+
+;origin-www.faasafety.gov.	IN	ANY
+
+origin-www.faasafety.gov. 86400	IN	A	162.58.33.240
+origin-www.faasafety.gov. 86400	IN	RRSIG	A 8 3 86400 20190208154607 20190125145729 15144 faasafety.gov. jpxWcrf1Qld9gshn2Q5ykyouY7r4ws6wqKv/7+TQfb65Z+/r8oLpVV2v c7M8+485jLi3w9KHFWvEgMdYRcAe6HuXPe/awir9yTiOQdkfSQ8MFyxj Sboj8k/U4/mTgQRPJRN0SydsAf2v7+ic2P9OsNQO85ZijNbIU9XX0wx/ Fnk=
+origin-www.faasafety.gov. 3600	IN	NSEC	preprod.faasafety.gov. A RRSIG NSEC
+origin-www.faasafety.gov. 3600	IN	RRSIG	NSEC 8 3 3600 20190208154607 20190125145729 15144 faasafety.gov. w/8pVmHqbSOw9EWGJL0lFjNEI956UiZ1EDMBa6FsOOU4JJj5wn35no7O fMOYjSf1M/f7f51dcJISOCwpGXJeaSWEaQvGqYCK4JugJSNLAoolCx61 9rrR3JQQM/Ee0WTLnqG1A7SgEvUqxMdLQCTy+ZpxMkhVL+8Nz5m4X3k+ Ob0=
+
+

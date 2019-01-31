@@ -1,0 +1,7 @@
+
+
+;cms.seaway.dot.gov.		IN	ANY
+
+cms.seaway.dot.gov.	3600	IN	CNAME	admin.dot.gov.edgekey.net.
+
+

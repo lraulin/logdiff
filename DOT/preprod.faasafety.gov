@@ -1,0 +1,10 @@
+
+
+;preprod.faasafety.gov.		IN	ANY
+
+preprod.faasafety.gov.	86400	IN	CNAME	preprod.faasafety.gov.edgekey.net.
+preprod.faasafety.gov.	86400	IN	RRSIG	CNAME 8 3 86400 20190208154607 20190125145729 15144 faasafety.gov. JVUNJFHY9T9hiy0LQgd4jXJl+IxPF4r7al/u6k+eXtotpGC2J7qJSRMC /nIHSzbbLSqEepoacDAWsBkiRvG7CP1P8jiMzLF6tDq5wqu1F8KXJvUI /Ho+9bX6oj7Qgv6YAwMJ6WN6qdXqh7N4nNYD1dOjFTspZyyxinrqF7JH 27o=
+preprod.faasafety.gov.	3600	IN	NSEC	www.faasafety.gov. CNAME RRSIG NSEC
+preprod.faasafety.gov.	3600	IN	RRSIG	NSEC 8 3 3600 20190208154607 20190125145729 15144 faasafety.gov. l9N706fttD6MTp9ympn+pBdAGKoqD8gVLxiskZGJ5y27iTOMC2+EVIgD rdQWQtO/8eCm+UvsNoNzpt3E7qtsZY4enK3wyP/NYFHQEC5zqTx1XEQ7 pZ9OLWE2TOzgcvOYeEe91ldcYj0JVrwmbZjznJCwFZB7WA1sT58y+/IC pbA=
+
+

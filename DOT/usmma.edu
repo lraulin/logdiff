@@ -1,0 +1,27 @@
+
+
+;usmma.edu.			IN	ANY
+
+usmma.edu.		86400	IN	NS	ns14.dnsmadeeasy.com.
+usmma.edu.		86400	IN	NS	ns12.dnsmadeeasy.com.
+usmma.edu.		86400	IN	NS	ns11.dnsmadeeasy.com.
+usmma.edu.		86400	IN	NS	ns10.dnsmadeeasy.com.
+usmma.edu.		86400	IN	NS	ns13.dnsmadeeasy.com.
+usmma.edu.		86400	IN	NS	ns15.dnsmadeeasy.com.
+usmma.edu.		1800	IN	TXT	"v=spf1 mx -all"
+usmma.edu.		1800	IN	TXT	"MS=ms10367252"
+usmma.edu.		1800	IN	TXT	"6G1-BRS-NTE"
+usmma.edu.		1800	IN	TXT	"MS=AE3345040E090527B7FEDA88858817078DB395C6 "
+usmma.edu.		86400	IN	SOA	ns10.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2009010497 43200 3600 1209600 180
+usmma.edu.		60	IN	MX	10 smtp01.usmma.edu.
+usmma.edu.		60	IN	MX	30 smtp03.usmma.edu.
+usmma.edu.		60	IN	MX	20 smtp02.usmma.edu.
+
+ns12.dnsmadeeasy.com.	28942	IN	A	208.80.126.4
+ns11.dnsmadeeasy.com.	34427	IN	A	208.80.124.4
+ns10.dnsmadeeasy.com.	27841	IN	A	208.94.148.4
+ns13.dnsmadeeasy.com.	84327	IN	A	208.80.125.4
+ns15.dnsmadeeasy.com.	39298	IN	A	208.94.149.4
+ns14.dnsmadeeasy.com.	50719	IN	A	208.80.127.4
+
+

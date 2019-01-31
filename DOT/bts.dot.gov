@@ -1,0 +1,14 @@
+
+
+;bts.dot.gov.			IN	ANY
+
+bts.dot.gov.		3600	IN	NS	edns3.dot.gov.
+bts.dot.gov.		3600	IN	NS	edns2.dot.gov.
+bts.dot.gov.		3600	IN	NS	edns1.dot.gov.
+bts.dot.gov.		3600	IN	TXT	"v=spf1 mx include:_ip4SPF.dot.gov include:_ip6SPF.dot.gov include:_O365SPF.dot.gov ~all"
+bts.dot.gov.		3600	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2010152841 3600 1200 604800 900
+bts.dot.gov.		300	IN	MX	10 SMTP09.dot.gov.
+bts.dot.gov.		300	IN	MX	10 SMTP10.dot.gov.
+bts.dot.gov.		300	IN	MX	10 SMTP08.dot.gov.
+
+

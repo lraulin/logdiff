@@ -1,0 +1,10 @@
+
+
+;legacy-dredata.nhtsa.gov.	IN	ANY
+
+legacy-dredata.nhtsa.gov. 900	IN	NSEC	mcp.nhtsa.gov. CNAME RRSIG NSEC
+legacy-dredata.nhtsa.gov. 900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. VN3op10n2lGLMXQO0Yd9Q0NzxAUZjCPMt7kiOU3djHw1esyzgE+1b8o3 1DXJuKUpcRPTSEAoyFZbS4nMh+ehfqAI4bhLT0LC831wNh1+/zsLhfkD 6kkJG7jmAvmVERBDIhLpgb6qXLc4WbQdgnkkVSCw61xCVQnBTO3/YYmX ViM=
+legacy-dredata.nhtsa.gov. 3600	IN	CNAME	dredata.nhtsa.gov.edgekey.net.
+legacy-dredata.nhtsa.gov. 3600	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 5286 nhtsa.gov. qDK4oqkNNK9AxV5AepqzbpU9eBOxjlVfqWbDrNDGIEQU7yUFIaxc6ARn eI+REeoO6ZenA+WxkdfXfKIidXN9U7T4KIrMjjxfCsXEN2Rf61kK2FeJ 9BncV0pZ5+IZWUj5xcmTK8st+8AXat+mS2OsKwit390MUZ41lm/PY3/V OFo=
+
+

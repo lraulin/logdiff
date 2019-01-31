@@ -1,0 +1,10 @@
+
+
+;osdbu.dot.gov.			IN	ANY
+
+osdbu.dot.gov.		900	IN	NSEC	www.osdbu.dot.gov. CNAME RRSIG NSEC
+osdbu.dot.gov.		900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. ro6peBgUcTpuh9BqB7yCA+GN+p2gRtLpgK1sHzOFKe4V7IIWJoO9IX2M Ckop+sg7AWceC1IcqF4HErMUUig9rwnjIFle/KTYt9/C/iy+anDOVHUy eM+eevS0ucrx17Bzw+l/8Uam2/f3mllNxVDVTJGCRsGofp9Jij54qlid GXk=
+osdbu.dot.gov.		3600	IN	CNAME	www.redirect.dot.gov.edgekey.net.
+osdbu.dot.gov.		3600	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 61893 dot.gov. hu5SIDKaaISJHzuYVh8PF0Kedi3m94VwTiGPsI1Xoa0dUmjRXsDTJQXn 5aAyL6fw0XWaJgywjEBl3QcJa9QaequgKVu7eBFKUKju2PJcZs01pFz6 JG7a+PnWUlh9Pns1oUoHai6m+a+EfMCY//AmTQ0Nh2/BRuL4+hIXaIln 7KM=
+
+

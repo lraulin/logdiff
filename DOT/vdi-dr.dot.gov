@@ -1,0 +1,10 @@
+
+
+;vdi-dr.dot.gov.			IN	ANY
+
+vdi-dr.dot.gov.		300	IN	A	204.152.44.6
+vdi-dr.dot.gov.		300	IN	RRSIG	A 8 3 300 20190726230000 20190109010000 61893 dot.gov. mLAt35wFTQ3qlK1/KMWlkoGgxuMlqK/vQoCuNfAze+pnq/LEDa1eUzGC 2mpECalWI2Pdts/GCVjNTwIdqhVVq1chjPI7kW+7nRhyqQJkXqBq6tLZ 1YfuK7ndwThV3maA+zVPdFYbtw366PEJ2b7R4t9YvfZXB7OXEkhmOvWW iLo=
+vdi-dr.dot.gov.		900	IN	NSEC	vdi-prod.dot.gov. A RRSIG NSEC
+vdi-dr.dot.gov.		900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. EIlqrtGhN/Q13SS8Bel2RaOh6/8Vvuv2Xej+yzv83z7u6YmmlbElnXR2 /Bd9i3P/PTUskt+nGDk0HvJzhs7agAhhJTc0yW+J63JpcnzYTor4F7vk o8cNALk+HukLH4uj1P5ymCxnU+EKg+E3ZEoMRBF6b6reycIxWTYNQDGI S5Q=
+
+

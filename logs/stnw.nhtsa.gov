@@ -1,0 +1,10 @@
+
+
+;stnw.nhtsa.gov.			IN	ANY
+
+stnw.nhtsa.gov.		900	IN	NSEC	stnwei.nhtsa.gov. CNAME RRSIG NSEC
+stnw.nhtsa.gov.		900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. YoT201FpVOf7T3fGVF4WNOXOv2edTVve/V/alhnGQRUeUu266Mm+IzTg qvup6axfp0eMYqgUNNnu+wP8/ktrxw+q81TML/jfstibbGq2lCJBDqhg jKYb0AW4/wgjXB3m7TrGldMWkM4UQU6B3Ncy98rR2ccXhD25xsJ6bPdS WZg=
+stnw.nhtsa.gov.		300	IN	CNAME	www.nhtsa.gov.edgekey.net.
+stnw.nhtsa.gov.		300	IN	RRSIG	CNAME 8 3 300 20190726230000 20190109010000 5286 nhtsa.gov. J2XTCMZb/C+P2W3mm9yCQ+6Dpw4oUyAI9id9xTsBPkamJFWTidZwgYgm NZR/Qu4XL+vZkLJICt22zy2kGUvtXqz2C1q0XFS/VxmJbCjIXVtrCrpk T+OQeXBtn4n0eOO0PctTz1Ug9pLYi75VfITfBh9l62Prml2YfcpWrjuY IR4=
+
+

@@ -1,0 +1,10 @@
+
+
+;nes-dr.notams.faa.gov.		IN	ANY
+
+nes-dr.notams.faa.gov.	3600	IN	NSEC	www.nescert.notams.faa.gov. A RRSIG NSEC
+nes-dr.notams.faa.gov.	3600	IN	RRSIG	NSEC 8 4 3600 20190203092503 20190124090054 60199 notams.faa.gov. Zuz/1bvzi74H9YAKHRqIrEpuHB0rlrby/ch/pQ9GAKoi5B2p2Ee6o4p7 EZ4LJgVs9+hCBnfY69ex6XR80rY+iy+/rnaiaeahleMQQGQ6iuQLOZEq iK5NxuYMzwZWnz8vowy5QPKNEUY/QQrLSYQNjUCuxDKYar4hD5RAQBKh 1ARnnJsrR2tIT1ygj6e/nl4/VFz8s0MVJbip8NKkvYqI8n9xiubI23pk oihY3tTrOTUDM1EvY7D51Q2K+acBdzzdk+pznG2cGV+C94iqasge2ovW ldzWv17MuM4R244QKaVMzGfci0GhAAR6tzeWqBjWjdwqq/T8xxpCRXUm D6h+0Q==
+nes-dr.notams.faa.gov.	300	IN	A	155.178.63.20
+nes-dr.notams.faa.gov.	300	IN	RRSIG	A 8 4 300 20190203093852 20190124090054 60199 notams.faa.gov. qsgHZ5GweM5rtAZ/MJVLqjmL2C02HRgfNUJlGlLk7LtNLnMBYgQrEOAZ nyXOb+LTxQbOEmsaoIJb+Ici2v8g8pge9kVtne8WB1jir0Li5Hy1mTu8 Uvs13D+ySoj1lwMpmSs4pAX/PWaXXBtvxj+GBgW0p6d5jPSHdeKyufMG snkRCaCcVKqnTDohZwlRKD7dQhncRDSEFXKdolqsB48v0J5wiHKpFwQB nm4HE93zIU7+BrndKuyEd6VQZ4AVlygsjW+iJN4uwqLEXcnIIUpe8CZu A4aaAZeeEFCsNMNfJc3diTeXnWvORb+txBSKHx00fOKwIiQWWknQCDv1 e9rpyA==
+
+

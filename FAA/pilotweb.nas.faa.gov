@@ -1,0 +1,10 @@
+
+
+;pilotweb.nas.faa.gov.		IN	ANY
+
+pilotweb.nas.faa.gov.	3600	IN	NSEC	pilotweb-dr.nas.faa.gov. CNAME RRSIG NSEC
+pilotweb.nas.faa.gov.	3600	IN	RRSIG	NSEC 8 4 3600 20190203091339 20190124090053 35008 nas.faa.gov. SuN+Pv69mgkGyTb6xk2xna0qQrYcgZWwzI7GQBckqBGJJU8WaOLuQP8h +2MXdUR77UoPanD6IA8T0PRlNsA74G1ztb1kqNvE89m2KP1txXViMncs dvEPvUOeY+2Gq4ibbTt80KvfHdX5ydObDPQAss7A61OUIQKQYlsrDqMp RF6bZoW6tdwmWquLKJ+db5RA2JPEMy5OwQzNfZ2wVviZyqtlTgjiZsTe Wl6t2wneRriF5h0iMRNyAqSbPZMO755iDRVtDkgYdH4W1jhMAvtxK2FN UKniNf67nhrt55wzNjYObHp+6/4cfSsbC1tCjDXKbrNL2+0Dnl+84kZ6 ti0Riw==
+pilotweb.nas.faa.gov.	900	IN	CNAME	pilotweb.nas.faa.gov.edgekey.net.
+pilotweb.nas.faa.gov.	900	IN	RRSIG	CNAME 8 4 900 20190203091604 20190124090053 35008 nas.faa.gov. gDg9kvhNNkvh0z74imgiODWtlezIz9uCPgNF+FQUuSEX2vzmu0P/yQqv ljtOF7gKg8Q9XVccn+W0LqFT/matYK+IwxtS5aF4buuMjHVWTOxSUTXY Y2DzeVol7K5dZMqCmgF/Gbv2nlWfq+X0Tr7zMRYF5dDv0zCybBr1o6LJ hTz7CcrzlvImqaN0F0KJZQSUZGQPOJr4UmoXhOOjsyxlffYXioBpI1Yl EOcL3QFya8I8/W8t230NzlE+L7rnVQDnM0Xekl4z2/wuCi8uHZKcWKn9 cKcvvbGOWcP0uAbB6mek64RQs9lJ/GZlTFhWbdRHGNKJ/w4MvIQtDzfb LgHhIw==
+
+

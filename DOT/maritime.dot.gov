@@ -1,0 +1,10 @@
+
+
+;maritime.dot.gov.		IN	ANY
+
+maritime.dot.gov.	1200	IN	CNAME	www.marad.dot.gov.edgekey.net.
+maritime.dot.gov.	1200	IN	RRSIG	CNAME 8 3 1200 20190726230000 20190109010000 61893 dot.gov. VjeoMqKqdQA1Ku8VbsZuW/MKSlYeY9jAEyTMJmuV/HSJ6lVQJWzrV7CN 285eIqFwew2eT9iB6f9bSMfrasnGatO70K1+cy2DjgK9EaigwKQrMttf jIR5gXIe5oD+D2fXcFAJGkT8XQt2pQ+WVfBSDbFYsOy2cVUqPMssTfrB JPY=
+maritime.dot.gov.	900	IN	NSEC	www.maritime.dot.gov. CNAME RRSIG NSEC
+maritime.dot.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. fhZvGAmgowtmiolJdeRYeA+Dh0ik1Sl3T2G7xaiGzNR+toD9aMwMzrn1 m1/C5jBrdLaGbv86POHwwdHvy1OdmEb1m4z8sMOqeuSlXoEXidfYlRCx n5CTCC60Z2CLYu1fMJbua2gkADpkIXidHygejAR7bDTlRJ6DtNZ3l8Qw qLA=
+
+

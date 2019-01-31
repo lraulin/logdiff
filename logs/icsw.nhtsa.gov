@@ -1,0 +1,8 @@
+
+
+;icsw.nhtsa.gov.			IN	ANY
+
+icsw.nhtsa.gov.		242	IN	RRSIG	CNAME 8 3 300 20190726230000 20190109010000 5286 nhtsa.gov. f6thVXu9Z+JD8YxC5MgZn2XzA5SOy4PCIPuNNExoVQS3UnNGzwdgaqHf z6xaGp0o30eC/yZ226aDPXXbGO4whnYwhBnakCr8xWCiXHtKDF5xOerY fF9iAs4WnkOA3GIjxDkp1DF8D8xsZajT/Q+Oau5ua7MO0wqrFmzeDMS0 rfc=
+icsw.nhtsa.gov.		242	IN	CNAME	www.nhtsa.gov.edgekey.net.
+
+

@@ -1,0 +1,10 @@
+
+
+;poolsfc.dot.gov.		IN	ANY
+
+poolsfc.dot.gov.	3600	IN	CNAME	meet.dot.gov.
+poolsfc.dot.gov.	3600	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 61893 dot.gov. qJrMrrDhNXTPjPSbO46RunrtO76Y96mY6QLcUQfO50zSsZmOlaivlF24 wROsqaYQsG+pODXv7DTuAKTMoXufw6Ius2/xhpEwkt5DeYoG2au6wBLX e3pVkIBzTfSbEKNlEFHbDD53UdPleDJrTlI6pS2mqoIhBosshNMChFk9 LEE=
+poolsfc.dot.gov.	900	IN	NSEC	portal.dot.gov. CNAME RRSIG NSEC
+poolsfc.dot.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. JmpAZRPn5Ldp0RNzDskVtpFZaAuHmxWVuLjNnFUC3gTo4jiE6E2ms6AX WTzwp9/t/O+rXRSIFRP6jEO2lp6hrAPdtLLu3NIXnFCQYdS9KGkLCrJn NVUpSSOKqZlb++4jR5L+WfAuOKvXlVG7Qhds5rEfEQphbAc6my6btoT1 7ac=
+
+

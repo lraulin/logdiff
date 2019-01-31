@@ -1,0 +1,10 @@
+
+
+;map.safercar.gov.		IN	ANY
+
+map.safercar.gov.	900	IN	A	204.68.194.253
+map.safercar.gov.	900	IN	RRSIG	A 8 3 900 20190726230000 20190109010000 7284 safercar.gov. S9zpdMBaf2OY2LFqIyHCcQGxq4tBh5CrzKjI9qdksey/wJMvnmL7etrM Hi8h2q2RLsVIRNwtucoj7/lGUhEssKDD6zkrx5Zy9RujogKspH4f/67s ibtywyvA27D/Y8KLEFdwKMr+ALu5dSy4IWjXwh4mgMVIISRessPoBl4p OxA=
+map.safercar.gov.	900	IN	NSEC	origin-dr-www.safercar.gov. A RRSIG NSEC
+map.safercar.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 7284 safercar.gov. gc31O4pilYWi45oCGuQeF50RrKWxQEifoY6Ygy2W0Ord9X+2zXs4OzPH AQSV++Lqzm1Q1/7b8zo9foTmPMWLkakmaMqtB04ph9A1dArH+UY8hN0D N6KTAwIUg37c1GbqMtz5bZ3MV95QOTU54mlTDoP1uq+6KoOIBjsRseDn VQM=
+
+

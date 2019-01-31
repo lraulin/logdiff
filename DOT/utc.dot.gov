@@ -1,0 +1,10 @@
+
+
+;utc.dot.gov.			IN	ANY
+
+utc.dot.gov.		300	IN	CNAME	www.redirect.dot.gov.edgekey.net.
+utc.dot.gov.		300	IN	RRSIG	CNAME 8 3 300 20190726230000 20190109010000 61893 dot.gov. DTtzxTWQRJ5v7GsOosyb9VE7r1kHBrHb6WHc0pxjCkZ6O59/bhyghV3m nWHi/VvmkPOG42wqQmg7LhlgdERXvMNixPwENH4gAocP8fC4WEfslrWT fA5fwtXsmHPnwEK5Yhx3S8vAiZAKyGse4fyt1VPzOtIeOx4F3vLFSZJa 4lk=
+utc.dot.gov.		900	IN	NSEC	ra.utc.dot.gov. CNAME RRSIG NSEC
+utc.dot.gov.		900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. Uj233Ic/O7Oyq3wtTe82CiblbEPgehIN3wk1ffV0Y2I7V6kYcdd66LyP hnRZMnlR3cDWXNS8z3IKD7k8/YnMnKwXOYt6ilTRSk0OZxfl3uoHVYuQ Ytpz2BIOp0mOXeot+Vb9ApJ+gPclRhpUYSc5zi5Mj37h9RZRkfseYVT8 cWY=
+
+

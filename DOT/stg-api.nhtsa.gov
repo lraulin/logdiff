@@ -1,0 +1,10 @@
+
+
+;stg-api.nhtsa.gov.		IN	ANY
+
+stg-api.nhtsa.gov.	900	IN	NSEC	stg-api-backend.nhtsa.gov. CNAME RRSIG NSEC
+stg-api.nhtsa.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. ihsgvJ2xcUADDNbcxbaHyWMRPrG7gjyL2ogKsJRt4IA/Z4Kuw0Ft40Jy trAwrUzL30VpNmbn+EQwtzK0Ncx4M1CuMeHu2KM4F8AJTD1DSmSU/ojY oT6SjNY/GRs4ni6OrueNy3Qp9pvrsax8X3yN74r5R2aDu6RMgR8D/Jk7 9bk=
+stg-api.nhtsa.gov.	3600	IN	CNAME	d9s9ikignjnf9.cloudfront.net.
+stg-api.nhtsa.gov.	3600	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 5286 nhtsa.gov. UFfuXRhvHuejJ4pvXDUfjWajvAMSD4M39abv7S1UM9mt592Va7XzxUqh Vjxtd4b9WdJK0ejIQq3LhmzuFndmEX5d+tV+iRy8FK4tR9GuRQve/OmN uZb1qxEnmgtILIBTVduQtebVXLjUqnn6NRUfKQ/3DyLOq20LZ9665mJm W9w=
+
+

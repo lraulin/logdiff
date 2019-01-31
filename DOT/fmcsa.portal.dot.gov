@@ -1,0 +1,10 @@
+
+
+;fmcsa.portal.dot.gov.		IN	ANY
+
+fmcsa.portal.dot.gov.	900	IN	NSEC	acquia-dev.fmcsa.portal.dot.gov. CNAME RRSIG NSEC
+fmcsa.portal.dot.gov.	900	IN	RRSIG	NSEC 8 4 900 20190726230000 20190109010000 61893 dot.gov. Sz5JFsT+IhHLZUCC1yglyDG/KN4cm2rxTrZ7djpmOYAiccnMMIGLfWTj wOUtQAmeE8Kwjhfo1ajWm8fEEIjW3Kv7GXd2AgyBZrClp2ovo6BW91KP r98uD3uGP5VuuJ6JjMfONZXCMXza5nmJnwVxXZ63EcGpqBqexW8llzx2 lrg=
+fmcsa.portal.dot.gov.	3600	IN	CNAME	www.portal.dot.gov.edgekey.net.
+fmcsa.portal.dot.gov.	3600	IN	RRSIG	CNAME 8 4 3600 20190726230000 20190109010000 61893 dot.gov. oKTPueSEF/WEEZ8Ryk64SkMRLGGtqz9eMZKq4p8S05OeO39tKDPbo9az qRAAfEmGdcr+f+nwe6rs5RpRd0EBnWKBh6Wcy+Zx2FDiop/Vv4nAN+k4 diQTf8nQr2g9x8+gNm5G+i/mRqRJGMV0+jFTKcfoYX6AR0yqw2je1B1t TzU=
+
+

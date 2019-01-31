@@ -1,0 +1,7 @@
+
+
+;dronezone.faa.gov.		IN	ANY
+
+dronezone.faa.gov.	7200	IN	CNAME	d35oy524xy1r6d.cloudfront.net.
+
+

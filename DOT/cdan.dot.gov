@@ -1,0 +1,12 @@
+
+
+;cdan.dot.gov.			IN	ANY
+
+cdan.dot.gov.		86400	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 10697 3600 1200 604800 86400
+cdan.dot.gov.		86400	IN	NS	edns3.dot.gov.
+cdan.dot.gov.		86400	IN	NS	edns1.dot.gov.
+cdan.dot.gov.		86400	IN	NS	edns2.dot.gov.
+cdan.dot.gov.		86400	IN	TXT	"v=spf1 -all"
+cdan.dot.gov.		86400	IN	A	204.68.194.135
+
+

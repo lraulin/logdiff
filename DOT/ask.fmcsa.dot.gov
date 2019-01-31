@@ -1,0 +1,7 @@
+
+
+;ask.fmcsa.dot.gov.		IN	ANY
+
+ask.fmcsa.dot.gov.	300	IN	CNAME	fmcsa.custhelp.com.
+
+

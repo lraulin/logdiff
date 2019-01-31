@@ -1,0 +1,17 @@
+
+
+;usmma.edu.			IN	ANY
+
+usmma.edu.		0	IN	TYPE65281 \# 24 00000000000000020000038400000002C0A8681AC0A8681B
+usmma.edu.		3600	IN	MX	10 spam.usmma.edu.
+usmma.edu.		3600	IN	SOA	usmma-dc4.usmma.edu. admin. 5913305 900 600 86400 3600
+usmma.edu.		3600	IN	NS	usmma-dc4.usmma.edu.
+usmma.edu.		3600	IN	NS	usmma-dc6.usmma.edu.
+usmma.edu.		3600	IN	NS	usmma-dc3.usmma.edu.
+usmma.edu.		3600	IN	NS	usmma-dc5.usmma.edu.
+usmma.edu.		600	IN	A	10.78.24.28
+usmma.edu.		600	IN	A	10.78.24.25
+usmma.edu.		600	IN	A	10.78.16.25
+usmma.edu.		600	IN	A	10.78.16.28
+
+

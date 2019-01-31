@@ -1,0 +1,12 @@
+
+
+;escsupportservice.esc.gov.	IN	ANY
+
+escsupportservice.esc.gov. 86400 IN	A	162.58.38.46
+escsupportservice.esc.gov. 86400 IN	RRSIG	A 8 3 86400 20190221010601 20190122005834 1716 esc.gov. Z/mVMypZo0A9511DTTPwou3D0WG3kJhVn3HdCSXW4k3CyzZ/ZyzVgMXV mzLT7BFf7jcP8EQi4AgPItqyuIBTBGLEKN2plHp6yiJvrB6+/sT092ez iB46qyTMwVqwT80Ayhbzzmozjkq0dsexIy3ST93HYDqFiY+yqCKYjoQs Jrg=
+escsupportservice.esc.gov. 86400 IN	RRSIG	A 8 3 86400 20190221010601 20190122005834 54276 esc.gov. X+HrsOjQj/L+yxmkbazAMsiB3RSP+kz/6qwjDeRt4PNGufXW1UakD4md JSpbq+Ufb2K0auQvFJTYkdhxeV0RTupsNxGWvbrHKvTwnMMmKj1AkCgi MS/XHReZHGmIeEZ5HfnOGIulCP6pRp1pwkbkRUwEOkUIXEV0ChEDgRyi aJg=
+escsupportservice.esc.gov. 3600	IN	NSEC	escsupportservices.esc.gov. A RRSIG NSEC
+escsupportservice.esc.gov. 3600	IN	RRSIG	NSEC 8 3 3600 20190221010601 20190122005834 1716 esc.gov. cmTt3J9DZOUF7wc+F+iOzfMuztFf+krcCTPrq4h1dcKtrVj9QOcFICue wygnpci+9kQA9VKy2RY/J5FENzWvvTojvo8P0uaseTsM6/dBXdSRxCG4 aduslAOL91HdytUFrrX41y15HYpgwTksOw8ByaTt8AbD9acwrMfU9y/p PnM=
+escsupportservice.esc.gov. 3600	IN	RRSIG	NSEC 8 3 3600 20190221010601 20190122005834 54276 esc.gov. MBwx3jfhgHq/Fjy5siL/nJrpYv0GzYXzwq1HmtkVvZi6OCkhllPP4qTj M/r2iP8pihawWKQPhU9KllHPWTWHvkCODTW4l6qgX6tfOkSmUy2Wqax1 ifM1F1sOZIRqkX/mibW5N6vXCqNxM49EDp+vb6cm3LmZoXsBR0PNQvF5 VN0=
+
+

@@ -1,0 +1,10 @@
+
+
+;damis.dot.gov.			IN	ANY
+
+damis.dot.gov.		3600	IN	A	152.122.41.174
+damis.dot.gov.		3600	IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 61893 dot.gov. QR8DwQsm3m1qcTukwgs8wSOBZwz3hI9vqwzYA6cKE4xjSgwnPGj7y8DW JvRvwpb/bljeKhK5X3NWigGBptrq2fhgrpXvVMFyAx4gjvUx0B0Bh/PT mGOwuRxxRfATeMR7zrl9F274nrK7r6xCoKLzOM4ScqYQPdz74kJPGpaZ Bfk=
+damis.dot.gov.		900	IN	NSEC	www.damis.dot.gov. A RRSIG NSEC
+damis.dot.gov.		900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. SAxu1y32GSfgV00//HSnsEcpCqTSGmi+QDb49V0+SnHlXk2EqmNUIgrw PFSv/fAkJgsEYn3mJgzNzCk0Z93uOc8gtaF6x/iF/nmecgTnkxUmQ9SU JN6wPC1pQ/Xl+RDej+ds2fjfMYHDveknb4jSyW2eys7/71AnPUv311pE ePQ=
+
+

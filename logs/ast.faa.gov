@@ -1,0 +1,7 @@
+
+
+;ast.faa.gov.			IN	ANY
+
+ast.faa.gov.		7200	IN	CNAME	chhredirect.faa.gov.
+
+

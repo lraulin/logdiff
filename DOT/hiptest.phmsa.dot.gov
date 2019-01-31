@@ -1,0 +1,7 @@
+
+
+;hiptest.phmsa.dot.gov.		IN	ANY
+
+hiptest.phmsa.dot.gov.	3600	IN	CNAME	PHMHQNWAS024.phmsa.dot.gov.
+
+

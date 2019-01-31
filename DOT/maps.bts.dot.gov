@@ -1,0 +1,7 @@
+
+
+;maps.bts.dot.gov.		IN	ANY
+
+maps.bts.dot.gov.	3600	IN	CNAME	btsgiszcs003.cloudapp.net.
+
+

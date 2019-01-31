@@ -1,0 +1,7 @@
+
+
+;cms.bts.dot.gov.		IN	ANY
+
+cms.bts.dot.gov.	86400	IN	CNAME	admin.dot.gov.edgekey.net.
+
+

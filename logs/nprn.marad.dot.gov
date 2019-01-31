@@ -1,0 +1,8 @@
+
+
+;nprn.marad.dot.gov.		IN	ANY
+
+nprn.marad.dot.gov.	3600	IN	AAAA	2001:19e8:d4:1::20
+nprn.marad.dot.gov.	3600	IN	A	204.238.19.20
+
+

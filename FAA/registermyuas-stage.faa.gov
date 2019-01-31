@@ -1,0 +1,12 @@
+
+
+;registermyuas-stage.faa.gov.	IN	ANY
+
+registermyuas-stage.faa.gov. 3600 IN	NSEC	_8e11e87b872eed5a23631e03d1192725.registermyuas-stage.faa.gov. CNAME RRSIG NSEC
+registermyuas-stage.faa.gov. 3600 IN	RRSIG	NSEC 8 3 3600 20190204010105 20190125005605 55174 faa.gov. Yc/9+WjnablK/7o401eT04mg7Wl17EbBEdVGn8RmvurlivcSGtHdh84V mo61oFTo/I/hNYnqwcgGpUon/rmXw0RPbiNdfhuWKTPlZWHKyfcDoB71 zzBIWiB8MVvVaSUmR87zoGWhabo9EVlx8dP8ggqpAIDnDL+n+MxJlglf kOyeDptAeYTPqw2rG8hMGuIU/xo0/SyIHGH4JccVAu3LEBYXsUZhqjfU /OejA2ikgZM+oSQz9g5WpPUghb+WJo76KwHUoA9lV/Ps+yQaykAXODVD BBXE7YuQkA8pokjc/4WjCBZyM3ROQfu/T/qjyUhU9TdcD/Wo4f5RoIxJ 9s/GSg==
+registermyuas-stage.faa.gov. 3600 IN	RRSIG	NSEC 8 3 3600 20190204010108 20190125005608 53536 faa.gov. QQt9G953BiKW3EAI93Q7nfoIbel5711jo7qzfUFey5wm/kb3KWeRufZS NfSTi18jEf1aCYnqx9tEtPJNxJEzzsgOyWkSLeC953SPjzAMlDYuaY42 yP1kRKGCD+agq4T2WCJRjyq7f+S/2apB+Q4vZ+jMHk0QoqqDOTQaTrRu wFZbKHvJNae2ZMDgcZjGkDrNAVdVbAG7rU6eqWMW3HYE2x9MqgmaXAjo pvoJxc2zerBkGh+QA49Du49DY4J9CljmIobAyK93WrOwWsOcvk+ZjIfd mz02xoeJQQKCDY/6Jcy0YOR2oRM8LHzeaj+Hw1Bc/2h0ZR2v9t4WQgbA YeRN4g==
+registermyuas-stage.faa.gov. 300 IN	CNAME	d38w61gvlnbvfy.cloudfront.net.
+registermyuas-stage.faa.gov. 300 IN	RRSIG	CNAME 8 3 300 20190204010105 20190125005605 55174 faa.gov. W3jmT3zlbi7MP4CdXZ7u1KZGTCD1mAuswcqTASlgK5+NIswjWJlVrs3x vH/Xntzle07lkt/9i+OU+v0W+bj+pBe+63ENFEi1JPU5WlSbQ7O0N639 agRywG6b9TeMDR1rA2mOLlnFKXy4aliEurCp5WVmwieZ3pbD1Td/Bc2Q b3CmpZeqzId2a3nLU4oqJoSj089IOSlGOh4A/OqS3EncRT4ZpNworOfK k1zw+5uDFjsX2dIXNO6wqjwMfzpN6bWU/rg4FZdgXwoqeP8uXi3E+Mtx zjs0lFZyc29+c4sCgXrWrLchJiygTQkDxmEf+mtDZP3DcLiIZF0YkmkU sRskgA==
+registermyuas-stage.faa.gov. 300 IN	RRSIG	CNAME 8 3 300 20190204010108 20190125005608 53536 faa.gov. LhW9a9b4DlLNUMwGbSxMLJE7gkzyUWHxCKKJF1E1M85TfiPmtvoD3O2q r04m0JwW7PXmSIsNxnEi1QCMX+1tV5cyFCeVldfWgxcelmb+KZTNLx+o 64RuHghvO9IC2P54nvmPdQ3rkYgp1Xs8a7aUWTwx558owee2rRWPgYOX VqS1gwkjoIti+UAVqYDLNqRAH1/5qxv/8MZ9ennO6b4PNBGtMAbo3BHV gVgUlmOoKsfGHdxsGrCJFX5Y+memsEK2VYxfhmLgX1zHxV1ztHkE2WQq 8kQmjBr73m/qh2ZrEng6+ntHbVzYjGT5x0hLgML76mdSGmZ+RT5hxqWi 9/QizQ==
+
+

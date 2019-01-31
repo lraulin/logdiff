@@ -1,0 +1,10 @@
+
+
+;cdm.fly.faa.gov.		IN	ANY
+
+cdm.fly.faa.gov.	3600	IN	NSEC	cdmmail.fly.faa.gov. CNAME RRSIG NSEC
+cdm.fly.faa.gov.	3600	IN	RRSIG	NSEC 8 4 3600 20190203092422 20190124090053 49546 fly.faa.gov. oS6BZxyX5vL2/alcebJqpmit/rOnx6yvU4zNy0S+fIrmxZ2EU3Ales5j XXU6+6BAytsHjkcUoRbH+q5y1EPtbct4SNxR8td7Xe2Zk7Brv1cKrQot U0fIhBqbFaYCcN4ZL01VuhG9Lf1Y4/t6rgVE1xBEuFSsUxQPDQKG/iN6 dOabvAY8Fle/72l/HqFd2wTBYhgTcsSlPGX9/suUw7AadQoRzMc/ZHHj crE4rl9L1NVgnLBSurCpvO7TEX+Lj74nOizSEmm8TnL6OJ0yzGgzbnba 2iROAV7Lce1soto3MS/Gfz0LsKiJ4Pix70u/hU8g1jNjgAe7+44LQ1di zP74iA==
+cdm.fly.faa.gov.	300	IN	CNAME	cdm.fly.faa.gov.edgekey.net.
+cdm.fly.faa.gov.	300	IN	RRSIG	CNAME 8 4 300 20190203092422 20190124090053 49546 fly.faa.gov. pETvgw88tKtLWEyA6HSvXZ5eVSzZBKSv2k3sDpCd/3KGgBjOK8zJ9CNf woUY043dLXZ2S7p2REQv9ObnEpjbRkuoonM1uiJTc4DrHQziEYI83dlR 2tcJxQOkoFUtiqbIdgZgKzYzP2byZlHUCKrg6+Titxdsrura10xwpq/c RVhJ2Y4nH0HhPPgDqP7o6Vnc2jm55hwWK+LyMNCPXxMKYcTVNXAkR/hz mRpminhYCuQml4JYxnqnea/fSj3NVwFirC1Hv3iAE/Fnf52faTwfzwmL M/Jbrwth7rWOEN9GXiq8rf0ICfogxTBaOp97ewPnd2hSw3BV0IYjGVWs eEzO/g==
+
+

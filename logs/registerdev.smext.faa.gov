@@ -1,0 +1,8 @@
+
+
+;registerdev.smext.faa.gov.	IN	ANY
+
+registerdev.smext.faa.gov. 30	IN	RRSIG	A 8 4 30 20190203102430 20190127102430 18693 smext.faa.gov. QC7oUUwJ/2euh0j2YKuys5ysEzj8+lvJkncjf9+aqxVlrmVJc5ilqDAq CpDAKYyv6Mfaf4pwbDkrt/9od+jn5w7VYKYLFA0F3PzZ523yqEkj6Zre 8h0KE3cQvIY3LpNs9/QOW5oKqc9Axwy6erGnpsfdz0+qfh/wO6KpmCBI gUMnsvJs1tJl44VCesyI8f0aPz15A7gNMWpGjEl7RQoKaQf3hBpDKy4o Gb6NRCkh55YbFOpmXduurSmCDJXS1wvraJQSCPamM/MMvuDdRrGw+vnL jpacVhrIXwXvSuRF+FtW6WE1ovtXX/JTZLDAJg+XPdx0lIGfvHduW21d boNR7g==
+registerdev.smext.faa.gov. 30	IN	A	155.178.203.40
+
+

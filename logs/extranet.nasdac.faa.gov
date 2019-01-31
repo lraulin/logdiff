@@ -1,0 +1,7 @@
+
+
+;extranet.nasdac.faa.gov.	IN	ANY
+
+extranet.nasdac.faa.gov. 7200	IN	CNAME	extranet.asias.faa.gov.
+
+

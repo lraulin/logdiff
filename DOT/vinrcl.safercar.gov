@@ -1,0 +1,10 @@
+
+
+;vinrcl.safercar.gov.		IN	ANY
+
+vinrcl.safercar.gov.	900	IN	CNAME	vinrcl.safercar.gov.edgekey.net.
+vinrcl.safercar.gov.	900	IN	RRSIG	CNAME 8 3 900 20190726230000 20190109010000 7284 safercar.gov. ZVoW6yJKiHjl1msDZPGIgfNmid9HqOkW9MIglXvHSFPl6WFKfpOx4N+D NSHu/i3QdzGN8ocZf/5PBQJqSwHDRfrtWGtaeykvMEEN7ScAv9upIB3X /xp3LNrZ5aoXhsY75iCjUjgBxhg7AMWbu+y2ZsKRqX25F5xdiWgIP5UL 3iA=
+vinrcl.safercar.gov.	900	IN	NSEC	awverify.vinrcl.safercar.gov. CNAME RRSIG NSEC
+vinrcl.safercar.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 7284 safercar.gov. MmN7DlvOZKSclLCqSnnYzN/7lJrGd/mLiRiqi81NUJlZv/sZ98OErb41 OeylQcXvTx6BJnIpLQKtuHqkUC76rTtw1vlE1dC/bh3TzN/uIPzHItmM h4uht5go8blUKGNhGst4UUNRwWiPG3kl2wyH+w2sNfUeUfoZWfP/yBPw DCY=
+
+

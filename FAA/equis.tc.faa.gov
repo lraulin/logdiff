@@ -1,0 +1,10 @@
+
+
+;equis.tc.faa.gov.		IN	ANY
+
+equis.tc.faa.gov.	3600	IN	NSEC	eqx.tc.faa.gov. CNAME RRSIG NSEC
+equis.tc.faa.gov.	3600	IN	RRSIG	NSEC 8 4 3600 20190203090740 20190124090103 30781 tc.faa.gov. ipi8Z6U9HJbfNgbutYdg/xPxa3yhv+6m1X3/a5RgpX9KoCQ2GIeuEyaB USeOhA/DauUjc5CVIdUIaay+ZDcPFdMTVqcqnXMZbCh5ZFE9eiC89S4m xJyJ7QYFEFQB04w3yHkfBmFXn4Qds6Hf4jPY0gwUgxu2rUyOhZb6CJzb B87Y984KrTqH87w2YnQNLD2QUKw8O7iqGzbYkVO7eFF4H/N0DmP94HxA bShuudNRCTtK8WpUs793PiEB05RL6VD8VFpT+urp+od20/Z6BOcOFavb nMh/sA0SUaHM2KsyVlGohmDTBk30IHQljP1gedbhrlqmiI0gRBHGebUo tD8Ytg==
+equis.tc.faa.gov.	900	IN	CNAME	equis.tc.faa.gov.edgekey.net.
+equis.tc.faa.gov.	900	IN	RRSIG	CNAME 8 4 900 20190203095539 20190124090100 30781 tc.faa.gov. RZ1oe3XpgE2jzO5TJ6sHtTf4ymxe4zwHityku1JdALWH+c1h1h7v879L /3rg5b+khXzFloXVbcUOfzAj/CBHGn3lB8Orck2qEb8RzG2qLCtyfZon OnuiCOtoimsqH+fI03ENJCYRrihSN6Uyp9kG7RJZYUXJGXg1B9wsa4ef 3FFGkt6BYKzgJxqbsy0zNk/ZonTPqhk+hmdK3JW9bjsMYDpqP0ZRKYlM LICPvMtpS7euomOZp+la7ckx4M9FcI5oqOxdFZUSx/i7rMhlHFZSJNU6 ECokHJwpGcsaBw9HWg5sW/+sRJFf4x5V3ybrmBQ0DZWuAtf7wuFhiwTM pPZ0wQ==
+
+

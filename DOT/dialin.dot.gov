@@ -1,0 +1,10 @@
+
+
+;dialin.dot.gov.			IN	ANY
+
+dialin.dot.gov.		900	IN	NSEC	diy.dot.gov. CNAME RRSIG NSEC
+dialin.dot.gov.		900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. ewiv52ELoNbr6vxy6MAQi7czIfYRewMR6att5MUX7GgIplTk1XcYEGTw bLN6hKztABbfwZLDPpLISaVlstxnGcKG4XeyynSD7vos8msgGJ45UYqd cTBPl7zL3S18Pa0WfsgmmeJ6UFTOHLR46O5Xkzvw3nXeJ5U5kiQsFl+h cWM=
+dialin.dot.gov.		3600	IN	CNAME	meet.dot.gov.
+dialin.dot.gov.		3600	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 61893 dot.gov. HpQKTfitc3vap2hXA5BuJ+A5QaOtFappCIa/c6eAdigmRu8vCNZ7RxbT lxyIWuF5GhZ9/jSZrapesWg8sr0zLWX0OMuElSUH4LkaVT3Ykn7MS/10 3MnV646qhgEz4d5PxvOCa5UVIgrF2KWF5syesD7Igh1ny/Y6BT79b1kZ eYc=
+
+

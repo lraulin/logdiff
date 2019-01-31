@@ -1,0 +1,10 @@
+
+
+;dothqevdi017vg.dot.gov.		IN	ANY
+
+dothqevdi017vg.dot.gov.	900	IN	NSEC	DOTHQNBOM001.dot.gov. A RRSIG NSEC
+dothqevdi017vg.dot.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. Qolfs9ZAy5LzsRg93tsl+Xse+Sp7Q0TjyyKUi+A9VSla7sibKmhOhA+7 vc8cKc/Jd+QNlReWIj/TtOR2ad6J4slbNk4n6p0m42mgo+kgQTgK0x8d UfrwzzAsopGYR1tnpWPu/IoxSNVErZV3OuiUTzjT0IYOK1lJAYIKF+Ky iuw=
+dothqevdi017vg.dot.gov.	3600	IN	A	204.68.194.22
+dothqevdi017vg.dot.gov.	3600	IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 61893 dot.gov. Rzq8DMl5SmukmP5ZWc2lWqEI19+Pkds6IQSnT3XpiZEkQpLQnjeQZzLU mc1Vu5ul5HUMuOn2SwACppBbph+2eBfW0prBF8aVHD3CwcAPB+wcucLc PBuLHxiFufmt7qieuzB+lHKc1+S/IysJqtmHze1mLfytQWzLyw5D16B1 zsA=
+
+

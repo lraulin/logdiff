@@ -1,0 +1,10 @@
+
+
+;skynet.nhtsa.gov.		IN	ANY
+
+skynet.nhtsa.gov.	900	IN	NSEC	sql1.nhtsa.gov. A RRSIG NSEC
+skynet.nhtsa.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. FUWaZaTKNURqN0HpVyLSWb6qcMIn2UpY9UZUe9iRn8ClVPgXtCnJMY4i cvJIDDuwuA7epHjX1iVUl77yH/Hf4o+81rlsT1mTwrhoW2OWbWi+On61 ixrm3cMTIGEXUFj1nxVHxTbvCqIH6X4HoO07MYc3sZmghSle0c31Lwzz Dg0=
+skynet.nhtsa.gov.	3600	IN	A	204.68.194.106
+skynet.nhtsa.gov.	3600	IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 5286 nhtsa.gov. mprkbxxcyOqc24l2Q638SadjB6zxb/7yprgXpQlIfqnO+SxzO5J0N8Fm OWqzELFReiNpT6hQeoVtVGoPA32Ti7QDIK4U45e6TjfSoMUGxhkx8GKg 14ajuM7v5t5McowrE2pfPjtp5Hz1v0D+9z+HXV9o/pkNQzYPsueiiEn/ YGY=
+
+

@@ -1,0 +1,10 @@
+
+
+;vdi.dot.gov.			IN	ANY
+
+vdi.dot.gov.		3600	IN	CNAME	f5ltmvpn-dmz-vip.dot.gov.
+vdi.dot.gov.		3600	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 61893 dot.gov. L1z6mgnC3kOK8oxgs+6aA8lrVewpsB1usknTLoW1R27MODZWCyIt5OBe mBl25rVE9jkg2SYw3kDkPcU55RyJLze1ViSmkMhJ5XqoGiRqtjpnlDZA dTcYIW09uUl9JNn8hXTc0gGy4ciFaOnqGjU0ai7t2IyaGPUSzhTNzBVw Cu0=
+vdi.dot.gov.		900	IN	NSEC	vdi-dr.dot.gov. CNAME RRSIG NSEC
+vdi.dot.gov.		900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. VQaBT9EDtPnz6s7Xfv2AKeSfGKZuUWjvp/LO3i1r6a8I/mUtEo8vlzFe czH5arBdWagkQDAb4E1snSnhnv6BEzWZVzeB1sYK7jP6ISLbH+FwsRMO MvPcoNNlUKn1YDRD4rYnlC6/cUqOFJ6jV9XkG1MUgip5BCfY5rPifOoy xH8=
+
+

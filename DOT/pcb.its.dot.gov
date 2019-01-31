@@ -1,0 +1,7 @@
+
+
+;pcb.its.dot.gov.		IN	ANY
+
+its.dot.gov.		900	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2010146926 3600 1200 604800 900
+
+

@@ -1,0 +1,10 @@
+
+
+;civilrights.dot.gov.		IN	ANY
+
+civilrights.dot.gov.	900	IN	NSEC	origin-legacy.civilrights.dot.gov. CNAME RRSIG NSEC
+civilrights.dot.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. v8+aag3j4MYNskm8XklsxGGH10+mHnyu9mtYClzej5ca2CnDy9PYaN3R 9swWNW1ZNmR/Sucoakj4ZYmOHt9v9tgkFJT8udboGkcbNHy3WJbSqSxy /5Aetltu6bg/qgddbGDdbWCuTCd6DMcBK/vJUH6/PCbNo+6S2IfTb9cO Nsw=
+civilrights.dot.gov.	3600	IN	CNAME	www.redirect.dot.gov.edgekey.net.
+civilrights.dot.gov.	3600	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 61893 dot.gov. u+X/HAwLGIMFM+ViNmgiWJM09AzfS8GoBAktR2GME7GpRyezyOcIWK41 B2TfIlDK/WT8pHCKDa4mPkx1iTtQ8QYaMuh5DBY7GzMCl8h8ffhAMRCm EdrEhUxDbLulvOVXZ3qNo+cUKJuVd2S+UCaw1PplhI60BvhzuCvtWWPZ 9w0=
+
+

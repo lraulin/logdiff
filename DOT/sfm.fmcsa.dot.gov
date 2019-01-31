@@ -1,0 +1,7 @@
+
+
+;sfm.fmcsa.dot.gov.		IN	ANY
+
+sfm.fmcsa.dot.gov.	3600	IN	CNAME	www.secure.dot.gov.edgekey.net.
+
+

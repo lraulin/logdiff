@@ -1,0 +1,10 @@
+
+
+;airporttech.tc.faa.gov.		IN	ANY
+
+airporttech.tc.faa.gov.	3600	IN	NSEC	ftp.airporttech.tc.faa.gov. CNAME RRSIG NSEC
+airporttech.tc.faa.gov.	3600	IN	RRSIG	NSEC 8 4 3600 20190203093643 20190124090055 30781 tc.faa.gov. BE/MOXOViNUx+rkD19mZANr7IxiEYW+SURKOyfJbGWFvGp7eucASSByD K52qf2Ewrk1J81InZTPHwc8xpzo9b5vmOCv8gvEEUvFv0A0+NEH55bRi wbYnZyHFXSdWQS6oyUlXgkyXB6VM2FV3BRAftDwkhWP0hsRBB98jr+eI BLHHAic1TL1bEwfzoJbhUB0WTmB5vyRRT9atdY1jGXk8ImiMFDKuj9Ta +LhiV1VQA7Y/lSGiB6jrj3ilB7O1cSe4N3rbGK/JJ1Q9ijDHvj9wDPK7 PblLQGAUgS7pxXKV1HHfNdOrgtV1R4RYiwvUiZ//QNL8p8q3+lsguSl/ A+73SQ==
+airporttech.tc.faa.gov.	300	IN	CNAME	www.airporttech.tc.faa.gov.edgekey.net.
+airporttech.tc.faa.gov.	300	IN	RRSIG	CNAME 8 4 300 20190203095803 20190124090055 30781 tc.faa.gov. ebPjnBbCS2owSduLVgwyI6SnPsmZRFzKkwRXLNnpLeqZoT1J6bliudS9 hZ+zaqdEnnGAHhJ/EIrHHChqAebb9XyOrlyPKR+a7JdZh3dDtIw4AvLC lCbvF1UZfYA7QesHkkKkaa+X6rNcni9FocYpKd57AmAohNkU7ygkvJDk gTbtIcMLmXKGvEpmTLA520H8VbCbaoPxXx5xkh57xqVOS4QBJIIVdFR+ sHvxZpsa1m/eFQ7FlxP0/QvxpvyyYV+xaAn0gCLHYYs2ZViOcMyh7GtZ rVBDXW+82ka2dEVDO9K+pMQmXSRaqkZaDrAViAgp2N57oHsKnRX5BvyO PAR/WA==
+
+

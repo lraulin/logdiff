@@ -1,0 +1,7 @@
+
+
+;mcsac.fmcsa.dot.gov.		IN	ANY
+
+mcsac.fmcsa.dot.gov.	60	IN	CNAME	natss-prod-fmcsapublic-ws.fmcsa.dot.gov.
+
+

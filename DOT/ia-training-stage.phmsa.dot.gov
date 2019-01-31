@@ -1,0 +1,8 @@
+
+
+;ia-training-stage.phmsa.dot.gov. IN	ANY
+
+ia-training-stage.phmsa.dot.gov. 3600 IN A	204.68.196.15
+ia-training-stage.phmsa.dot.gov. 3600 IN AAAA	2001:19e8:d:2:204:68:196:15
+
+

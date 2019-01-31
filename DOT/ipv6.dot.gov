@@ -1,0 +1,10 @@
+
+
+;ipv6.dot.gov.			IN	ANY
+
+ipv6.dot.gov.		3600	IN	CNAME	ipv6.dot.gov.edgesuite.net.
+ipv6.dot.gov.		3600	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 61893 dot.gov. XKJVx9xsa+ozYAV8Bd2p1eFd3ucM80LhoHSo+dMILJctzqCkLOhi62xM svo1prl1Gx0HWK7wgsj3qB6Oz7usamTUlZAs1oU9tE/ewJbNzHzJxT1u CAoxfqHoCG/c/QIm4anZzagq+PUO/v61NCuDx/4oLJ3qdDFis4hfhMLb TE4=
+ipv6.dot.gov.		900	IN	NSEC	ire1-gi3-5.dot.gov. CNAME RRSIG NSEC
+ipv6.dot.gov.		900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. lcXlanD7Yl+erfxlTcnFhbN3+YVCvAK8wHLJg8IArwqf0wZ5ckb7eKDV RZlYF3AsdkbB8l1sUGSDxRhtA7NsufHNyHhqxhIsu063AZFBEu07Sv9Q V+yh4xu3spUY60SKTQgfe6dFgarkKpgguRqHO6xgsM7NI6MBpcWpPtFh VzA=
+
+

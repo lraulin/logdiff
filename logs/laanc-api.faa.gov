@@ -1,0 +1,7 @@
+
+
+;laanc-api.faa.gov.		IN	ANY
+
+laanc-api.faa.gov.	7200	IN	CNAME	d3388xttzof59j.cloudfront.net.
+
+

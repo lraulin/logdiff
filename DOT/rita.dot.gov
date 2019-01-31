@@ -1,0 +1,12 @@
+
+
+;rita.dot.gov.			IN	ANY
+
+rita.dot.gov.		3600	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2010153027 3600 1200 604800 900
+rita.dot.gov.		3600	IN	NS	edns2.dot.gov.
+rita.dot.gov.		3600	IN	NS	edns3.dot.gov.
+rita.dot.gov.		3600	IN	NS	edns1.dot.gov.
+rita.dot.gov.		3600	IN	TXT	"v=spf1 -all"
+rita.dot.gov.		86400	IN	A	204.68.195.241
+
+

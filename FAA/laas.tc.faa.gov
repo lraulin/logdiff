@@ -1,0 +1,10 @@
+
+
+;laas.tc.faa.gov.		IN	ANY
+
+laas.tc.faa.gov.	3600	IN	NSEC	labnet.tc.faa.gov. CNAME RRSIG NSEC
+laas.tc.faa.gov.	3600	IN	RRSIG	NSEC 8 4 3600 20190203095134 20190124090057 30781 tc.faa.gov. Hrj3r3eHwWFBy2lpgnOrRt8F7gc7wpXjNy3UnOOusdBncrXDm/5CBZUz 9FN1XcPuCC4p79KrMgaSI6uDNtzmECXEJuGCQStcG0Bx92gnkNTkjlaH t0oMkKG2ANsp0vqQRPTO+Qh4fRYS7MieQWMIzS05pBObx8arFlp7cmUy HhbrIzo5989xvbmoc8dT5loXSjQGTNOOx9OZxTQHkEHt14zmzsYrSgTP mw5kT9flefXxAkWZ0xtqcr1cx7NbQdYMrDuBbj+S/R89ozgyBuUaapky NId6/yNyULom1SwFFyKEDot+xeBVMMy9/7aFdCUgSOorc7pV9zQEMGzn 6n9qFQ==
+laas.tc.faa.gov.	900	IN	CNAME	laas.tc.faa.gov.edgesuite.net.
+laas.tc.faa.gov.	900	IN	RRSIG	CNAME 8 4 900 20190203095356 20190124090057 30781 tc.faa.gov. j4Fumr9uGifTYohXbyc5eeaRUU5KFhH1HL7pjcohKnm/8D3HcYuMvSzJ xghA1J2jaESP+sq4DwHYOrYoiyhMdiW7URtOFkbAfgtqQcd48IqnWH4q gtn6nlRuDfwTLwVZV53VLl63fmg4b6a3IKEuFPB1zRpPO19cdaBtMfbL UpIj9xQpDCRYG1Vu/UEopr42qiU5Rh54cn8cRnSB7XvYOApcL+p70RvP JHYrTodoS9ltb0S+mtqRaMc8ES9Wmd7T5BWBQyDwunjQYtHoi1ZfoA4n bIEIt3Yexh21l2Zc4QucD9Vw9GOE9pSZrCt26NtzAGJq6EYg2oTan8OF wlsW/g==
+
+

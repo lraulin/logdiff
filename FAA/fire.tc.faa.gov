@@ -1,0 +1,10 @@
+
+
+;fire.tc.faa.gov.		IN	ANY
+
+fire.tc.faa.gov.	3600	IN	NSEC	origin-www.fire.tc.faa.gov. A RRSIG NSEC
+fire.tc.faa.gov.	3600	IN	RRSIG	NSEC 8 4 3600 20190203091445 20190124090112 30781 tc.faa.gov. i9fUxQEmWE1sdvGjT4LKHa84H3aFsRkQINVayx6ygwxn+AllWl73t1Fw IpPUhTyODroc5vAcJHjuY7y2Wh1IDMY8OnqL54M0X3mjvQ1Zrtf+S+O1 tvj+P7wYXGbRU9NHnCQoo3fLcLmNCffTFA7phXDgpQFA5dmklgxtvJmc HKq4DwsgPrvS8c4+6sg5Va9k2Q2AzQK77ropMfQuToXX0WzKfTeQ3XJb ekRYaOvwEUzq06LYiLrr5ubMYwR987aDKH1ml2MfvAu4V+fI/YEDGeCk F55gDh06Uco9cKfpKu9+9wdpeXxq2p1yhyeXeUB9sJBhQUp0A9us0AUF EZMkpQ==
+fire.tc.faa.gov.	900	IN	A	155.178.136.36
+fire.tc.faa.gov.	900	IN	RRSIG	A 8 4 900 20190203091442 20190124090112 30781 tc.faa.gov. mprzmPOJzmLjDTnwK5VMIxI6EERSCaWIXbsIgpMXdO2AuKbHtma67A7u 0qtnlnpaCmRsfqxbjjpKNB4+yYucMTxqi/eu5FoIiqpYWR+YIYKDuaMX dwR5MrDIrjiDpvwrEMbb4GHccepASngiM2p4uBWKSCuoM3MlSUdiSsxm c2mmn7v81lDb1IYD5rmGPbyzacqX4/i3JljmsxFPbtVxI965WWBKuqGq Rro3sI3iuCEB6OCw8jkG2c91hjMZLHy2SkWGP6K5d2HtEP+ctK3z0qaf kvkPkFpJiRbH0/GcUYIFqNcNfDAZLhDetC/vgBKP8BBdbeh4vSsD6LIJ 3hRLHA==
+
+

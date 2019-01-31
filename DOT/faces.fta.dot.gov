@@ -1,0 +1,8 @@
+
+
+;faces.fta.dot.gov.		IN	ANY
+
+faces.fta.dot.gov.	3600	IN	A	204.68.196.37
+faces.fta.dot.gov.	3600	IN	TXT	"v=spf1 include:cloud_us-gov-west-1_vpc.appiancloud.com ~all"
+
+

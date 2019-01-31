@@ -1,0 +1,10 @@
+
+
+;transerve.dot.gov.		IN	ANY
+
+transerve.dot.gov.	900	IN	NSEC	transit.dot.gov. CNAME RRSIG NSEC
+transerve.dot.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. IboENpM+fj83JycCnmX5LfwsvSJgDjyuMunxUF7P5fTd4o3MBhjamvab 9mtPFxD3G0wqUynIfsEV7WfQzaOAYiTsNzzo325RaPaHjke0QIBfYEu5 PX7u9QLePvJ1J5Uux+X/Bu+MJWqTUr9UABOi9gRGedc4Wg0Wiw79ke4Y tAg=
+transerve.dot.gov.	3600	IN	CNAME	www.redirect.dot.gov.edgekey.net.
+transerve.dot.gov.	3600	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 61893 dot.gov. RBK1iOLH9WVAMkKwrJp+ke8TrpEFQTfXzpV01JGRTztbaQjDMOFLGJ3C F5Ptn2e3f/fBCkYXXAJGVzHLU0ZYkF+d8bOdpAE+DNITgJ5BacRGeuTw PanxnNrPeM2mV4wVsmm6CJotDRZvuHYrVwEJxsQkic2rZrCNT/8d6GVg XUM=
+
+

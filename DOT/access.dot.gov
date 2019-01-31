@@ -1,0 +1,11 @@
+
+
+;access.dot.gov.			IN	ANY
+
+access.dot.gov.		900	IN	NSEC	acquia-dev-fmcsa-lms.dot.gov. A RRSIG NSEC
+access.dot.gov.		900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. yXeGtKFMDUkqvE8LFYUbUxNzfRfWoHIOcFJhxrUt/yMVxZHufZek3VNx WxdmIrjhLWTw7q5zCe4eCyRXrlgI4de5vZypcoIxm/ZMa4ZkOamod/6B IwFeF6mFIfrrPAx045jnK3R6f6X74T9Z0uDElLh0LKCsyChvPC3kC5aZ bd8=
+access.dot.gov.		3600	IN	A	204.68.194.93
+access.dot.gov.		3600	IN	A	204.68.194.99
+access.dot.gov.		3600	IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 61893 dot.gov. RqjGvEo12JIX5lACPuZdgcw17Pj2EPU76Wgq0H0tjCaBJW9eddBzwN9q 6J6wAHGk92AyGrnoBwAg1zWSZkTK6Fe9csfUy0Ot3eB9+a0PcE6qxR9v aBuN78sr3VuCXmOHhwADIj86gVaKx26hBJka23cYG/uFfMu+lOUOW8fS g2Q=
+
+

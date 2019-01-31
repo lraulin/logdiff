@@ -1,0 +1,7 @@
+
+
+;mail-01.ems365.faa.gov.		IN	ANY
+
+mail-01.ems365.faa.gov.	300	IN	CNAME	006-01-f.prod.office365.us.
+
+

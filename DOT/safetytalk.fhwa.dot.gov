@@ -1,0 +1,9 @@
+
+
+;safetytalk.fhwa.dot.gov.	IN	ANY
+
+safetytalk.fhwa.dot.gov. 3600	IN	TXT	"v=spf1 mx include:service.govdelivery.com -all"
+safetytalk.fhwa.dot.gov. 3600	IN	MX	10 mx.govdelivery.com.
+safetytalk.fhwa.dot.gov. 300	IN	A	209.134.144.163
+
+

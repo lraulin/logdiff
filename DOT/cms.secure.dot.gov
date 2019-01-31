@@ -1,0 +1,10 @@
+
+
+;cms.secure.dot.gov.		IN	ANY
+
+cms.secure.dot.gov.	900	IN	NSEC	www.secure.dot.gov. CNAME RRSIG NSEC
+cms.secure.dot.gov.	900	IN	RRSIG	NSEC 8 4 900 20190726230000 20190109010000 61893 dot.gov. HQM2tFqkLWktIvEpGG8GxbNjyakNMA3POFcbNU80uUSUiC2yjUXEkqWr dAtwSiRnsyXlhf5kx9YN/87gWXeT+KyDrzjFZa3vRgRsa8vhU8MuUl05 sHH0A+NrE2ZSfUsZwkCuqd14bY1RNfJpIF8XStFolKGXn5FuSJQPSi0p /Ck=
+cms.secure.dot.gov.	3600	IN	CNAME	admin.dot.gov.edgekey.net.
+cms.secure.dot.gov.	3600	IN	RRSIG	CNAME 8 4 3600 20190726230000 20190109010000 61893 dot.gov. cEOgECeGVmLxWVFJ3/v1JkjtFpXjuGwLUMPAiH+ZGrVCa/SxauFTSwRC IGLly2esDcAcCDdQn9Z/hwPEw2jd/WGBUhkSAKVB65nqOdUX1osxLP8s w69kKmwaLyQef1Qt3nwwGSI196tdxcbTz20hfN0/Feb1iM1lhMU3GlxM e/k=
+
+

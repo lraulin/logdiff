@@ -1,0 +1,10 @@
+
+
+;rms.dot.gov.			IN	ANY
+
+rms.dot.gov.		900	IN	NSEC	SA6500E1-ext.dot.gov. A RRSIG NSEC
+rms.dot.gov.		900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. uEL9HjYKQzV/HRXiGVi85WNtp/Zggz4Kkj45cJ952DvCUIT2WdSXpK5N +pJaSDp+l1Jrmhi0xfNlHXBCk2tnceTlp9I9NVrg4H5eiyQSbohx33Uo qcUJjsNtl9CYSrL8u4e4A2T1RCoCctMdajRkWwzqxWptBvuSyFFSBOpw cgw=
+rms.dot.gov.		3600	IN	A	152.120.226.5
+rms.dot.gov.		3600	IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 61893 dot.gov. RzclvRqz/wFMSahuGOTwNDHlWuhOmhRYKPo2obo11Q2bwcwth7Bozul/ jkPTs0dVpR69Sv9xPQXStGrdzHmQKVpucp4a7tqHqDEGPOcNwQs5OwSf 48JYkReDbiyTaOuL0jip3TgFtLwgrJWotGXONFcP3Xs0/kzczFcObzw8 PUs=
+
+

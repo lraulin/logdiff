@@ -1,0 +1,10 @@
+
+
+;c3rs.bts.gov.			IN	ANY
+
+c3rs.bts.gov.		900	IN	NSEC	www.c3rs.bts.gov. CNAME RRSIG NSEC
+c3rs.bts.gov.		900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 45363 bts.gov. iBnapWXPMPg0kfhYOeLkBoYGQcXeXHtK8Jx9qsA558Ydd5cdjDukYmQQ XVKJ/aciP+YXNckKqhoa2YwDlON1JsM1h62XBTBmC63HDdC4gi9woeIi ndAtG+opgbTUzkxM8j1MsUFVxeMif4qR7iaKdgj2zD22CW5feDzd3B+w pXU=
+c3rs.bts.gov.		3600	IN	CNAME	ccdp.bts.gov.
+c3rs.bts.gov.		3600	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 45363 bts.gov. TsSTIivQiZASwnmfJ4To9tJWhKk4I79ONAseO2i0AsTXFGRmHBS2Spsj h6Bil0g37r51IzPmdnSfgnwQ4zRE7w5wwgb8RVT7W/Fxo4/ngXPhB/W+ zSTm905QnrrgXkwbTt7g1lNAp6srcDswaAR/HhfccUfSM6OB4/zqfqvp 7jc=
+
+

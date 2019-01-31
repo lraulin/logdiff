@@ -1,0 +1,7 @@
+
+
+;ftaecho2.fta.dot.gov.		IN	ANY
+
+ftaecho2.fta.dot.gov.	3600	IN	CNAME	ftawebprod.fta.dot.gov.
+
+

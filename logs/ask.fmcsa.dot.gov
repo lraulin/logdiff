@@ -1,0 +1,7 @@
+
+
+;ask.fmcsa.dot.gov.		IN	ANY
+
+ask.fmcsa.dot.gov.	75152	IN	CNAME	fmcsa.custhelp.com.
+
+

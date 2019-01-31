@@ -1,0 +1,7 @@
+
+
+;npms.phmsa.dot.gov.		IN	ANY
+
+phmsa.dot.gov.		900	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2010153140 3600 1200 604800 900
+
+

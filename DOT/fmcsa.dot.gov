@@ -1,0 +1,15 @@
+
+
+;fmcsa.dot.gov.			IN	ANY
+
+fmcsa.dot.gov.		3600	IN	NS	edns3.dot.gov.
+fmcsa.dot.gov.		3600	IN	NS	edns1.dot.gov.
+fmcsa.dot.gov.		3600	IN	NS	edns2.dot.gov.
+fmcsa.dot.gov.		3600	IN	TXT	"v=spf1 mx include:_ip4SPF.dot.gov include:_ip6SPF.dot.gov include:_O365SPF.dot.gov ~all"
+fmcsa.dot.gov.		3600	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2007150738 3600 1200 604800 900
+fmcsa.dot.gov.		300	IN	MX	10 SMTP10.dot.gov.
+fmcsa.dot.gov.		300	IN	MX	10 SMTP09.dot.gov.
+fmcsa.dot.gov.		300	IN	MX	10 SMTP08.dot.gov.
+fmcsa.dot.gov.		60	IN	A	152.122.44.63
+
+

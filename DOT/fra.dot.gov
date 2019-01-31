@@ -1,0 +1,16 @@
+
+
+;fra.dot.gov.			IN	ANY
+
+fra.dot.gov.		3600	IN	AAAA	2001:19e8:d:0:204:68:194:252
+fra.dot.gov.		3600	IN	TXT	"v=spf1 mx include:_ip4SPF.dot.gov include:_ip6SPF.dot.gov include:_O365SPF.dot.gov ~all"
+fra.dot.gov.		3600	IN	A	204.68.194.252
+fra.dot.gov.		3600	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2010153011 3600 1200 604800 900
+fra.dot.gov.		3600	IN	NS	edns3.dot.gov.
+fra.dot.gov.		3600	IN	NS	edns1.dot.gov.
+fra.dot.gov.		3600	IN	NS	edns2.dot.gov.
+fra.dot.gov.		300	IN	MX	10 smtp10.dot.gov.
+fra.dot.gov.		300	IN	MX	10 SMTP09.dot.gov.
+fra.dot.gov.		300	IN	MX	10 smtp08.dot.gov.
+
+

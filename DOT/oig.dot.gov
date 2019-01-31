@@ -1,0 +1,13 @@
+
+
+;oig.dot.gov.			IN	ANY
+
+oig.dot.gov.		3600	IN	NS	edns1.dot.gov.
+oig.dot.gov.		3600	IN	NS	edns2.dot.gov.
+oig.dot.gov.		3600	IN	NS	edns3.dot.gov.
+oig.dot.gov.		3600	IN	TXT	"v=spf1 mx include:_ip4SPF.dot.gov include:_ip6SPF.dot.gov include:_O365SPF.dot.gov ~all"
+oig.dot.gov.		3600	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2010182677 3600 1200 604800 900
+oig.dot.gov.		300	IN	MX	10 SMTP10.dot.gov.
+oig.dot.gov.		300	IN	MX	10 SMTP09.dot.gov.
+
+

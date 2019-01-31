@@ -1,0 +1,10 @@
+
+
+;aisrtower.notams.faa.gov.	IN	ANY
+
+aisrtower.notams.faa.gov. 3600	IN	NSEC	www.aisrtower-dr.notams.faa.gov. CNAME RRSIG NSEC
+aisrtower.notams.faa.gov. 3600	IN	RRSIG	NSEC 8 4 3600 20190203094333 20190124090054 60199 notams.faa.gov. vSeDsoxS6wV1fN37ibcjRlBWQxOM7sPS1TJFezGKj/HZJ6myR82diqNk A3TdeMyzzsH91rBsZL8rttvf8iAV1ZG9TQfrOJWad8886FXkR3dJ+pQC o8g6zY8LWF3qOu1fr/Jr3wYqFfCSFrkhf2z+LHA/VBrAz/WU6Z0ub9JW OCsxP8s9A0YP/8VUsLj3TlQHkTgcYF5EbiOMiaypkx/W8AVomVIGY9wM o0r98Ma3QRLqZohIWzuWpCCXSEWGcUDNWOK0OnDyRh3AD0rLDsmlFJs8 HhJuWb2RJG3B6v8IkjqpS2wu0goLNG+oIpu2XDBoi0y8jVt4oRJlKoow iHbJvA==
+aisrtower.notams.faa.gov. 900	IN	CNAME	www.aisr.nas.faa.gov.edgekey.net.
+aisrtower.notams.faa.gov. 900	IN	RRSIG	CNAME 8 4 900 20190203094333 20190124090054 60199 notams.faa.gov. ZC5wuBUO9IeDVoeOqk/tI6wTbUhulsD/238bl23uVRact5rWjYco4/PM f4HPgiSt27m0Oz8Kjdu8rcl2a4RCRHc/eZhr4Kp3BHNR+W53dCdpvAmp 8n59yqS7+2U7L4iUghn54fSYv8pdwcilj3Cb0PxOrLM/vtmQ8fBBTqeu 4sf+2bqyn3wB5Q5qxyZxE/Oj/AEjT1hIHCWOAyBlU3VTeAiYyo780ZSi Nai9CGOpgXGVf+gN8b8PxbTCXl1oQuxk4HRNhL+0lzG03Sh7fU9cMrMy Qu8qyekpDQrUrUqS/H2bUlxnCXcv+KU5eWsV3CCA344Ae3tVGQaJaXma S4VEMg==
+
+

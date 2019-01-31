@@ -1,0 +1,7 @@
+
+
+;fraipv6.fra.dot.gov.		IN	ANY
+
+fraipv6.fra.dot.gov.	3600	IN	CNAME	fraglobal.fra.dot.gov.
+
+

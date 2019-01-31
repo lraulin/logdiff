@@ -1,0 +1,8 @@
+
+
+;ftawebapps.fta.dot.gov.		IN	ANY
+
+ftawebapps.fta.dot.gov.	86400	IN	A	204.68.194.61
+ftawebapps.fta.dot.gov.	86400	IN	AAAA	2001:19e8:d::204:68:194:61
+
+

@@ -1,0 +1,7 @@
+
+
+;triprs.nhtsa.dot.gov.		IN	ANY
+
+triprs.nhtsa.dot.gov.	3600	IN	CNAME	strap.nhtsa.dot.gov.
+
+

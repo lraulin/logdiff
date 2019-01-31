@@ -1,0 +1,10 @@
+
+
+;ftp.airporttech.tc.faa.gov.	IN	ANY
+
+ftp.airporttech.tc.faa.gov. 3600 IN	NSEC	origin-www.airporttech.tc.faa.gov. A RRSIG NSEC
+ftp.airporttech.tc.faa.gov. 3600 IN	RRSIG	NSEC 8 5 3600 20190203090121 20190124090109 30781 tc.faa.gov. n7gyRNVtgztlEwN3mjPoNkdu7Aa74pd+E/Vo/QblWhMCYAOJUxw8fYSU WxuNqwKut/T2LQ/3WMHyImruCobUcHDKWW2L/NFvUurUmEh98+VznntX gUlFhXgLFCF9hBcWYA2IyaEwdl58IcMfY3NhTkadwEU6L7NiYZ2124qm PKCzPUuu1VtXX5olOOe/OhjZbqt71DGQfnkHoI/lOUsrNmNTfaDWxrJL oWCfDISHpIpKh8HE1uxvboXNWlgP70ROTzQBVHQtxT2djrOLBapyPnNp 1YvBxKm4YvX211vRbryPLBpQXUmesJmeEG/ytchPzYQcL5eT9fb/UTJ4 rySRgw==
+ftp.airporttech.tc.faa.gov. 300	IN	A	155.178.194.189
+ftp.airporttech.tc.faa.gov. 300	IN	RRSIG	A 8 5 300 20190203093907 20190124090110 30781 tc.faa.gov. K2XIU/gdgPX54AxO/1lifprh3A/EuC5D/TiaChx2T2dqdpD9rMFd/ahd Ph5mYwysDGwUSH+MzzUIzLTqr6HAL2tdhSRTAU6KDdr6Ys96piYbzKYr c4kLblyvOKkQFLCA+hQWA3ykemzGAVMqIYHdXUcWstchE7w6fo90H+Mg nOQ61l1uAksOhtY4+g9WWlFj70tEJsowWsduLY1gWNQNCI7HFiEJ9mkg AQ2a9rKxknJS3Pkm/NNXFroUAcpoDAKxHxx7FKKs7ocT8ltqrkGMLPLP wKWajAbDPjZfRwp+JpLsjy2tZdqMUrQ+oXvzkpagfySs8TLsPgJlxrYL WJLDOg==
+
+

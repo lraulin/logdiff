@@ -1,0 +1,10 @@
+
+
+;dotnet.dot.gov.			IN	ANY
+
+dotnet.dot.gov.		900	IN	NSEC	dotsp.dot.gov. CNAME RRSIG NSEC
+dotnet.dot.gov.		900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. euHTFUpu7S2uqb5s1F+7V62wupeMahAqtrZIAQP3sGooPGqIMWbUlhzn VgbtdMzGRW/razDmAlJXS4SUz9vr/Slmwf1TVY6dnY0ndZ6UNGMch5z0 o3G5kP0pq0wSqBdQTYxlhRAqJNethOHF+e5kbtLNkSJUFRhj4vSna8vo M2E=
+dotnet.dot.gov.		120	IN	CNAME	DOTHQNWAS053vg.ext.dot.gov.
+dotnet.dot.gov.		120	IN	RRSIG	CNAME 8 3 120 20190726230000 20190109010000 61893 dot.gov. GcDeE/ihO0OM1YEysSzkAlflPZNtahi1J10KwXmPhF/6MqzZyb86tASm AdNBueiK9YGYjoKWf1LaYxB5WXKziTWg3mlHHeCCW2cYzJghe9kDOD++ Z9T2buMuIzdxez+ApkgpAXuxqqz6ctNlziQMcXSSl0lKwpgm3f+OjYw+ o9I=
+
+

@@ -1,0 +1,10 @@
+
+
+;safedigging.dot.gov.		IN	ANY
+
+safedigging.dot.gov.	3600	IN	AAAA	2001:19e8:d:0:204:68:194:185
+safedigging.dot.gov.	3600	IN	RRSIG	AAAA 8 3 3600 20190726230000 20190109010000 61893 dot.gov. vQRRKUHRRiSggpM4Wy9pQ6YayIfXyN8s+6P2e+ZJtnj/ZRUFDpNEOSrL VjDi2bhUs4P0zq/Edk/6sHSBayB/cf+eE9wYA2syalqeVDQceIPy99+z R/OEkyKCTadiOvlt9uVwhakWxQWz6CuHs3T4NsfMo4M547NFX6d5B9AS IRk=
+safedigging.dot.gov.	900	IN	NSEC	www.safedigging.dot.gov. AAAA RRSIG NSEC
+safedigging.dot.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. kDSKWTx6GWRyu8NitSgXyStMs/JJgmfqfJiHF4ZPFfh7sj861//JTIl7 P/luPeVUnmnHTiVNrr5vV8aGk2axpjNmsqGOIcIPAwhFp07k/aBPbQoQ uz3N48tMX9RaAgG1gRqV9Q8dmQSCuLWTMMaXVo14NH0gNErXOVDpNZnP VeE=
+
+

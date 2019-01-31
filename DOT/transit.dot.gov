@@ -1,0 +1,10 @@
+
+
+;transit.dot.gov.		IN	ANY
+
+transit.dot.gov.	900	IN	NSEC	www.transit.dot.gov. CNAME RRSIG NSEC
+transit.dot.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. QOw1TuNT8LUm3uvWJKomhucaoIS3o299VzZsAzkIh4fSc7y7i7vEQNwR YQHacQk9N/jHLsz0VLrfufYyqawZr2Kipi/23oiRIN6br1oK33PPneZQ +Gm6aMwOFT5ZUl3I1A+wSpKLHTr+cMYiji09nf6FLVwkmCNJUycYT8Vn vC0=
+transit.dot.gov.	3600	IN	CNAME	www.fta.dot.gov.edgekey.net.
+transit.dot.gov.	3600	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 61893 dot.gov. IroDivW/gla5mUhOZ/FqWQOFsvDRsW6A85pJWt+c4hnovpWo5BOfBw14 yvER3RHBUdVTt8I2Lb/Or5qfrz4BCfD0uMhhWZK9I5OWJBULEkoOOUrs K/IE6O5mpImvDuB9SST7eP8Dqfzdoygr73UMJncYdu3gjVViaVdLhyYV H0I=
+
+

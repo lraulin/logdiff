@@ -1,0 +1,7 @@
+
+
+;cms.dot.gov.			IN	ANY
+
+cms.dot.gov.		54000	IN	CNAME	admin.dot.gov.edgekey.net.
+
+

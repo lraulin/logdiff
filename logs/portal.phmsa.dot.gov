@@ -1,0 +1,7 @@
+
+
+;portal.phmsa.dot.gov.		IN	ANY
+
+portal.phmsa.dot.gov.	86400	IN	CNAME	PHMHQNWAS036.phmsa.dot.gov.
+
+

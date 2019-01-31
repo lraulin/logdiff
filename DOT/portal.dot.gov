@@ -1,0 +1,10 @@
+
+
+;portal.dot.gov.			IN	ANY
+
+portal.dot.gov.		900	IN	NSEC	acquia-dev.portal.dot.gov. CNAME RRSIG NSEC
+portal.dot.gov.		900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. ykwyWMFuRvb2JPzvoi8wq6gOLugeqn4o5fc3+XrYSDUA80HgLrtbV4qy 7WV8TfQ+UtskzDTGLuQEv1EEScBEuWyBy0wibhaVe8nGkY2gVZ0IZ3iy +BRG60O/j1Paezde1EGeMHuNGDeGLiL3wEOyvYjGpR8rNwFW+HZxZH/C vSo=
+portal.dot.gov.		900	IN	CNAME	www.portal.dot.gov.edgekey.net.
+portal.dot.gov.		900	IN	RRSIG	CNAME 8 3 900 20190726230000 20190109010000 61893 dot.gov. fCJapIwbdr5sKbzzeSU072decmioZAnQMrce8kyf2j6IQyzOB/+OQGig t5knjH3ft/Mbn3FLwGmzPhTbbeoYKtkytf0fRIcqucFRAoqfX/Nog6+C p6Qi2S9/nykyDKIRWbC7g//iM7JrjM/+qoN5Y5gqDxKhwh3Upl+uc5CW 05s=
+
+

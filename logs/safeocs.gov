@@ -1,0 +1,8 @@
+
+
+;safeocs.gov.			IN	ANY
+
+safeocs.gov.		1168	IN	RRSIG	A 8 2 86400 20190726230000 20190109010000 43665 safeocs.gov. m5pO0eMOPmpGE8sPlyp83MTLnSScoBYyBJO2dV1vkPEd8965l3aknpFZ XltnfH8k0VCNghHsADgu/snYjnQE/NHlcHQdrGdb9BZyPe/tbQ821PIM YvrwCWuvWfKRtL7pHhp5rEEwCMWq+Ev3wH1NGW/ln0LiGPnMGmAnrfl5 z4A=
+safeocs.gov.		1168	IN	A	199.79.178.200
+
+

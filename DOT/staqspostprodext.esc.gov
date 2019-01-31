@@ -1,0 +1,12 @@
+
+
+;staqspostprodext.esc.gov.	IN	ANY
+
+staqspostprodext.esc.gov. 86400	IN	A	162.58.38.44
+staqspostprodext.esc.gov. 86400	IN	RRSIG	A 8 3 86400 20190221020159 20190122013752 1716 esc.gov. dvRPjDdCsLYAqcb+gGxVPyXlVyHA/mXNeKzXyPYuLtpBWU6UIosn4utR PwAxGMFjnnWeJJGgDMPT3hsFsZ/gl8OsZRr9jTS2lk/QgU0IiurlULYL /FQkkD9afvkhhTj5DzGe/N/4sitAhgk8hskV016WDf9EIydfWtFCZTUR yJA=
+staqspostprodext.esc.gov. 86400	IN	RRSIG	A 8 3 86400 20190221020159 20190122013752 54276 esc.gov. Vms0YYm/o0+a2C1YF6Pq37ZGfdIzjeux7TBpyXQiYt2QMsLxgA+CuGDe /1+OE5bdR/CtbjSdsuP6mFYxcJzk91+aReQ5EjGpjtsaIUufzxtnwQix iYDJi0ttUWoX//5EPTq5gV/KXdQlC7GhbttK4uyJs0EH2qd45eVw6pxq J4A=
+staqspostprodext.esc.gov. 3600	IN	NSEC	staqsprod.esc.gov. A RRSIG NSEC
+staqspostprodext.esc.gov. 3600	IN	RRSIG	NSEC 8 3 3600 20190221020159 20190122013752 1716 esc.gov. O/YFxyfLup+xF9mDIHX9uLGcVnjuIcfWBJs64q5sy0k3VqZmHfcLPIsw FvW0H9ZIXV0ZPN8iU7DRvHDgZwN+S8x0F69GYA+bfUIsh+KxQO7BlhGZ W/wJ8pvHN7SFHlNi/liQgTax3WDOxBnoFgZCfnzZ7FA2gLK4BWtFCGjg McQ=
+staqspostprodext.esc.gov. 3600	IN	RRSIG	NSEC 8 3 3600 20190221020159 20190122013752 54276 esc.gov. j51BYJekg2fCA0cj/Pes2SJgi1HgPf62EjaNwGKHvtfLaVcu6hPCORj/ g64qAN1A9NLJGtjpQ13aSTj5+GTPBUN4ehwILTeeEpfAbDxd9Zi8TKpl 5rD5oXX2H5kvCoJ42n5PyabyHUQ30MiStkP/LP9GWk34k2LIFa5lw1sh ICs=
+
+

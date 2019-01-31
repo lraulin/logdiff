@@ -1,0 +1,10 @@
+
+
+;websiteaccessibility.dot.gov.	IN	ANY
+
+websiteaccessibility.dot.gov. 900 IN	NSEC	www.dot.gov. A RRSIG NSEC
+websiteaccessibility.dot.gov. 900 IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. wVFg4yce0tdLP9EbIF8N1dBjgwJjgtzVbyLDvD2XqddzNSDuqun9xhTb TcnGVPiWpBO7GfJNiM0zBZGaLk4P9dyZsg0KiyDpCBq+gTn2TQ17utWl z1R0EBpDwjeChzys512gVQYLlKtaQEgkWOjwaGV1pIz9cwtuUvjsY84S 9ag=
+websiteaccessibility.dot.gov. 3600 IN	A	204.68.195.14
+websiteaccessibility.dot.gov. 3600 IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 61893 dot.gov. wcges55m42aQnWLj11d3Qr5KYHFJFvXsPLYgQk4jEUOE5V19j1DwPqRY jNeaeUSG+lD9pyAQxuWvh/EE8/ec1sbLEh0tin1o0vqV1uFAeeU0B3Xt JjZufQuJ/Xi2WHlgDLIYy8efBMuHiA1AIvmY//3gsIJ9gy8Ol2bY35xc VjM=
+
+

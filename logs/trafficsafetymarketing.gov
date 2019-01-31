@@ -1,0 +1,25 @@
+
+
+;trafficsafetymarketing.gov.	IN	ANY
+
+trafficsafetymarketing.gov. 3600 IN	NS	edns3.dot.gov.
+trafficsafetymarketing.gov. 3600 IN	NS	edns1.dot.gov.
+trafficsafetymarketing.gov. 3600 IN	NS	edns2.dot.gov.
+trafficsafetymarketing.gov. 3600 IN	DNSKEY	256 3 8 AwEAAeFckJW1FuDeYYzEgacZlvd5vF0xAlDjMI1y5zYK1bfRf9xqyiA7 pdA5CpjzOI73qEljUcv7dqGAidUiuKCXbOHyEv4lLuWlAKjEuwLl9gTO C+sqkAwQIB4Ryq2AZtdxSkpqyBVEFcd9as1kiKpJpaYTNp8hVU4qH6/i 5ljLfi0x
+trafficsafetymarketing.gov. 3600 IN	DNSKEY	257 3 8 AwEAAaSirIhZvJJ4o1O6IH2zAU9z0EdwWDhBbQJxU63sXfaIwSmhA2hl up1GTN6RZkzxd/nqZA+D634kbzfSGQzv03LA+cQIYtkGc4Pw8C+pMIqs exv0blQ5EXeXm9C5YJh1AERUfAykFK/kqKww74cidNmHTg4+YjLO/Nji j9q8ZBhtvk+pVoEtBMaELeK3KDaW41hqG5I2il2QapY7IIIUhTb7f/Xy u1Xw7J8UJk6j6AU7vjo42piB/OuwgZWGAxAx87PiVfyoyf9TjJHAGdwc vfgGAxrzY1tHbUzEQRKvKSsj0CqO0i90OsaXVWducHlD0jJfAznGpiYO AtKrebN03es=
+trafficsafetymarketing.gov. 3600 IN	RRSIG	DNSKEY 8 2 3600 20190726230000 20190109010000 5808 trafficsafetymarketing.gov. JPyZih9a40Agae2wxaTgUiQJmuaJZlnWJwJKcRUKDkQoEx4u9OGame5M FmWrywnEuoLVvQw/1CRF1IK/pR8NsOA0BVWflrX2AfopuknMoZlAmCHU iGrSUzh8rBCERJdqiBRmr7hEaZH+knsz8May3p/uF+ljPMp7QEb6ZGc/ IYw=
+trafficsafetymarketing.gov. 3600 IN	RRSIG	DNSKEY 8 2 3600 20190726230000 20190109010000 20845 trafficsafetymarketing.gov. k36ds0SrPmIoL0Zp3Y8tzgHG6EWtxZc2DiuKYc7Sf9pRSOuWMWgjnmGB OKf7LECxJbIzK1WzV6HtWL88fsuMSmT3c6PJLriDdXLDiQB7YE3aY0UZ R73dQRgCMj2+OX5eRKx+QWBkeRgMuOxx5JYs1d/xMNfaKUzcyomc+P6C bzi7er0NNEESk95AQFMQNUIENvIKI/n8mQN/PByAj2Co+jQuhIF3DZJk 0fH8QzqXfk9XHmpid8HHu6+76X/olHPfV0Spz7AU+w/PO9RpI942MyA1 uDbOFNMpAR/MyAv9xsnnFq/csxZYPAU+QwBVYGQaDwgT4TwnuVfWG407 ge3SGQ==
+trafficsafetymarketing.gov. 265	IN	DS	20845 8 2 37F36A02DA79AC12891F4089FF3FBE660C161CD5E6AC7BE1473C0EC4 9E13F67F
+trafficsafetymarketing.gov. 265	IN	DS	20845 8 1 BC512180A5207D80F4107ADB2FA9F5D371AE5CB9
+trafficsafetymarketing.gov. 265	IN	RRSIG	DS 8 2 3600 20190207101007 20190131101007 28157 gov. ToYmQFGDurDdND4d1BrjbqUYMfcqNpk29AkERIZ9b7lBHHempvDEdYA1 ht4dc+ardDpFji693+Ke4kLbFQXtO5iCPJE7aDr5aFFJQXbuWmrIvASV t5UF/0s9xc2uk2hbj8tLJjmXlbdnNTrD14o0Hpx4vYmPxduVlXI4Yv2I 5/w=
+trafficsafetymarketing.gov. 3600 IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 17378 3600 1200 604800 900
+trafficsafetymarketing.gov. 3600 IN	RRSIG	SOA 8 2 3600 20190726230000 20190109010000 5808 trafficsafetymarketing.gov. RIvtfq7pjeQYsnBrvBBe5S/jktbuDfbsGJEYlMmwkwONTkPmKBGDk7EN jViq+hd4291JY7gk/WYXy8zdyVSmLRRTGxXJslNik/6T4ya1iwtFWAC4 Ju+qKqAKC04swmwQ15v6d/W91MHull7Dv4n9znhOTPtR1Q7SFBmd1g7w KG4=
+trafficsafetymarketing.gov. 3600 IN	RRSIG	NS 8 2 3600 20190726230000 20190109010000 5808 trafficsafetymarketing.gov. cEFrvvDM2CPsLjSE4OXqwS66XyA6KJwiYCiPx1990MTFVnKGoU+2dzFl 9Jm3911RDSak9I2Yl4oKuHzeyWYlGphTUPVLOnLpWLhrKKHZZvi2skIP 1+J+RgqXpUynwA2nUTbeIyyynJYMcUL+JM0uQVRXV/ljviouYVNCBDv2 OHA=
+trafficsafetymarketing.gov. 300	IN	A	204.68.194.196
+trafficsafetymarketing.gov. 300	IN	RRSIG	A 8 2 300 20190726230000 20190109010000 5808 trafficsafetymarketing.gov. zFt26iSKaxyjHWXQmlf++hxzZJoT4wbyqKrlAQxn9NhA2ekJNK02eSdS oqT6wIEaeRFKCl+Z3tz+HscmfLLrXEOGQu9/+Gt0NldvQbHOdMySBHg1 RRP4H5Pmz9cwRdl2m6GsUEwkDeZhEhRFFDdAbifJFcNcBe+6Sz+1LryT +d4=
+trafficsafetymarketing.gov. 3600 IN	TXT	"v=spf1 -all"
+trafficsafetymarketing.gov. 3600 IN	RRSIG	TXT 8 2 3600 20190726230000 20190109010000 5808 trafficsafetymarketing.gov. khT8j0eCKXsZDUQaHRHeP69oevac6GDinySWxe0PmMy2m8qdKyJRKs6+ ecM2ZmAOGzmBWTowrAWTLyrhIKKdwsi8P46m0MbeR3rTgWShtIel5jAp vuKmotGxHlm1fRyIG301uE0vpxTZkX771iq6NDxsjAekz2wLVdkf6rEn wxI=
+trafficsafetymarketing.gov. 900	IN	NSEC	_dmarc.trafficsafetymarketing.gov. A NS SOA TXT RRSIG NSEC DNSKEY
+trafficsafetymarketing.gov. 900	IN	RRSIG	NSEC 8 2 900 20190726230000 20190109010000 5808 trafficsafetymarketing.gov. J9+4TmW5CxZVyEuDNcSjCOog+WDvJ9eFA0xe5xNNJeiaIwavAhwHhv9k +qsejfFLtUtQ+s592f2N+EjupUlcDF+loMBtdGr9NRtdmymydjmsUXbs ZAcTPIs2B/qAiOPxgZ8SxI81nwx0f0orh2src40omcwgFzKG1Qkk7f8T KLk=
+
+

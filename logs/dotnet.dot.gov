@@ -1,0 +1,7 @@
+
+
+;dotnet.dot.gov.			IN	ANY
+
+dotnet.dot.gov.		3600	IN	CNAME	DOTNET-F5VIP.dot.gov.
+
+

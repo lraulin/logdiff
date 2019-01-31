@@ -1,0 +1,7 @@
+
+
+;psp.fmcsa.dot.gov.		IN	ANY
+
+fmcsa.dot.gov.		900	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2007150738 3600 1200 604800 900
+
+

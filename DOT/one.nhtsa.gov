@@ -1,0 +1,10 @@
+
+
+;one.nhtsa.gov.			IN	ANY
+
+one.nhtsa.gov.		900	IN	NSEC	origin-dr-gts.nhtsa.gov. CNAME RRSIG NSEC
+one.nhtsa.gov.		900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. er0OHpuGzN9NxVio1/3vv7S3L+DWjgzUGOvGgjWw3vu//Qf8ZO38qyVp eOI1P+vokgH/w4mZjIva85sVCuk+Fa/LSrWOHXPcmhhc3qSya/texKnH W3fwTak7GhMb+ayFSrao7Ge7tPzOCG+/PSYKJweFvr9cFldngAsu81Zl iUg=
+one.nhtsa.gov.		3600	IN	CNAME	www.nhtsa.gov.edgekey.net.
+one.nhtsa.gov.		3600	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 5286 nhtsa.gov. Zplz7UuAvJBOJ2jOqsZuKgneYJ6fwUWb+I16vlG6e781K7sQAIm4Gn3S i1VhZcoM8LqJwm2udu+g56rnsMxY3lo8gWCIzh4FGL4Bz5RMeitcwFHp d8qeq1qLkosgM6MtRZWGeWJtw4uClTOSTRi2iAXtUwahxCOszx/dEDtj MC4=
+
+

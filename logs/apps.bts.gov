@@ -1,0 +1,8 @@
+
+
+;apps.bts.gov.			IN	ANY
+
+apps.bts.gov.		148	IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 45363 bts.gov. bv1K4lOENvzeCKS0/7G7qfBOnPYu5U82ticE7ZrEiSNuzmrjRc5FfaRg Sk+maenuc9P3P8l4TlNu46gxLYKuOU6jkInVe/yykveoTY24kV6SVjV+ z1kS7bfwxDU6S6uMC862lQ7/byO4Ud2snJFq9rvzzq1RQEXgbqKuWmPO moM=
+apps.bts.gov.		148	IN	A	204.68.196.17
+
+

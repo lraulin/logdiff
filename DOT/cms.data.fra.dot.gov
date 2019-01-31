@@ -1,0 +1,7 @@
+
+
+;cms.data.fra.dot.gov.		IN	ANY
+
+cms.data.fra.dot.gov.	600	IN	CNAME	admin.dot.gov.edgekey.net.
+
+

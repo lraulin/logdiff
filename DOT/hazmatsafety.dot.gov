@@ -1,0 +1,10 @@
+
+
+;hazmatsafety.dot.gov.		IN	ANY
+
+hazmatsafety.dot.gov.	900	IN	NSEC	hfcc.dot.gov. CNAME RRSIG NSEC
+hazmatsafety.dot.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. aG1YV3UzNPBQd3ZpRq4e8vO6hnucVWT5NX27eUzGe4Bn9iM03wQMg9M5 laQLMdOa4pQEhDXn8sfQVMX++8kbmKhHtIluU1qL7TytugY7AdFsOp0Q dMrISjYSfVTlwKLjySwKvCSglpBFhJxDpzpL3MWRqgvVIPIKmNDU0AbB +IY=
+hazmatsafety.dot.gov.	3600	IN	CNAME	www.phmsa.dot.gov.edgekey.net.
+hazmatsafety.dot.gov.	3600	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 61893 dot.gov. DThjs+JJ/oBaY5Xm3VEj4UYtS5cd3pddkuHsoaJ0n3lIWdtk+n+oVyxs QuRGNqrBKJtsiVmnKQ86QofAeZ3gx9l6TXHyFErK6c0lxlTx/7C7wTO8 zAgdOfQD3n8EzMBTKL0HGUiV+m3+gRbZM54vAYtHw40U1Uh7n+AEGIYo +og=
+
+

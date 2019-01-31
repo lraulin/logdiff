@@ -1,0 +1,10 @@
+
+
+;explore.dot.gov.		IN	ANY
+
+explore.dot.gov.	900	IN	NSEC	dev.explore.dot.gov. A RRSIG NSEC
+explore.dot.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. HpkY2m8E2fMC6EyRQF8N83x7hAhePtfkkjvQi5EkUrBd7zv5ua+B+tlO T3EqN2R1OG6psycoPCDvz5e5goZqA/Bl9tKLAjTjNseb+C2oZZFbzNrr tjETwccn6SD2uo0vdVOcw2xgkizvwST6lERWCN8vo3LJg4E1PSu415Nw 0ew=
+explore.dot.gov.	300	IN	A	204.69.250.17
+explore.dot.gov.	300	IN	RRSIG	A 8 3 300 20190726230000 20190109010000 61893 dot.gov. yBjzKqNcK1bsVohQP7U9Gc4DMAfQkR/2qtgwGg92LWYGGJA34FwMmT1Y 6f7tSeKRVP7Mgg+cGId5u3Z5LcZybxZVURORV6GRpP4uZ71rEHby/Zl5 c5HIL9AZHfoUwEd1rHzMkq2kfyoeJZfGfN6chXg0R1m7mXoDXp8bAu5i sSI=
+
+

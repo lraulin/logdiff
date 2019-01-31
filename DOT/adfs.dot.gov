@@ -1,0 +1,10 @@
+
+
+;adfs.dot.gov.			IN	ANY
+
+adfs.dot.gov.		120	IN	A	204.68.194.48
+adfs.dot.gov.		120	IN	RRSIG	A 8 3 120 20190726230000 20190109010000 61893 dot.gov. XLGw8SZzZzzLhafeRjiSRTcqAwkgOXUjvZlxYtjzKfrvw5x1E8XDn0A4 WhTPb2JeQkYtVSgDpZQEsuL54sDcps5GTTOr529rbTwF0IsuyQKudwEj /GtPki3kbfcI6L1TnTjuOS7yqAyuCdu46LphkLjB/WnlaUUev0fSnnlH saM=
+adfs.dot.gov.		900	IN	NSEC	advancedwireless.dot.gov. A RRSIG NSEC
+adfs.dot.gov.		900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. Fy9Nd1LwrjTMumAEZPl/OIymiq7CcS0Z04Kvqv0HKVv+GmeX0DXHwHPw gwyvPXCqdBPzCy0QutBn3tlNwXd/PgV8HeGkrtHBTCQh2vCkQGn8Vq4f QkdJelE5na+wibGzP1gTXPNH1UTmjjT8CO7hEld3SMP2BdgTrquRlV3z a2s=
+
+

@@ -1,0 +1,7 @@
+
+
+;certauth.adfs.faa.gov.		IN	ANY
+
+certauth.adfs.faa.gov.	7200	IN	A	10.22.252.10
+
+

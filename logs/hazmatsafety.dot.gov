@@ -1,0 +1,7 @@
+
+
+;hazmatsafety.dot.gov.		IN	ANY
+
+hazmatsafety.dot.gov.	3600	IN	CNAME	www.phmsa.dot.gov.edgekey.net.
+
+

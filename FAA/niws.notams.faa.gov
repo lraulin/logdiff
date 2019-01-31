@@ -1,0 +1,10 @@
+
+
+;niws.notams.faa.gov.		IN	ANY
+
+niws.notams.faa.gov.	3600	IN	NSEC	www.niws.notams.faa.gov. CNAME RRSIG NSEC
+niws.notams.faa.gov.	3600	IN	RRSIG	NSEC 8 4 3600 20190203091804 20190124090054 60199 notams.faa.gov. lsFZnrq8Jh88y6jur7OUQRtFs243eGKx8oPAvB/3upoPBBcXWmJI7GdE nN37qbQRmk57QdX2zkc8tpBpRbtIGVOczg4GqvDS9iFqe6hW1KN7YuGm iChG+reHjCO8+SLpk3K6X/pFXok6CU8U37GAcwyuLc+YguphtFIhVlO1 3mEE+1TS/AmeDOjmfIQ2/UWF6nTwJ08oGPF2LJnbDVg2cEjoo6hlsh0T E+sgcJtI44CdfDvCsCI6aqYljXC2Oib4NEYaBZw6A+sEFCvEg4hvwUmr Wpp/4aAr6IdXwBVnUeLBV1RctavqrirEQxR6RgzrFP0o+iW5zDAP4XIc AvW/vA==
+niws.notams.faa.gov.	300	IN	CNAME	www.niws.notams.faa.gov.
+niws.notams.faa.gov.	300	IN	RRSIG	CNAME 8 4 300 20190203091804 20190124090054 60199 notams.faa.gov. F15MwzOq3QWp0yC19SsLqY+8a6hgfx6kfPDv1DzjF01JYwfduXBWWCVL DL2u5zmhgln1AcH/yxGpSSidXk9A4sAOLdkxfWOGmI2HVGvq1JzRPdi3 Gzm5BJRG21OTC5vnAh1/VjNMn0Ys2wzKjr5ViJc0a642WLftMa5TM9u2 BcmQx8y5cbf5fw+PuCMzSxpt0utAixCesFCrjrrcKAb0KbKFGG+PeZnW FuvMknaNl4WB4CrrJDpxa8xk0fVIKX328CncsQVvFASKE3008JlCOYpj EGFZk1GY4uMuGpNko7yA3Av2npSXOfTSHxEi2W5QdPkSqoSd2PDNNkaq teNRlQ==
+
+

@@ -1,0 +1,10 @@
+
+
+;planning.dot.gov.		IN	ANY
+
+planning.dot.gov.	900	IN	NSEC	www.planning.dot.gov. CNAME RRSIG NSEC
+planning.dot.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. IH0oWEOzun6AsFfi7TDbao3PLmGA3CDlyydrZsaHS9NsazaOFe1i4LJ0 Garm7ArILa7Amtw1ED3f9kL4LCHkS3Ahb/nROcHRsqG1+ItgmjQ4D5jY AWsXwVtuu4UlpQrcFR+DD++diwvgSrbtBU7CfbUZ4urla2gLcDoPzMAQ GPg=
+planning.dot.gov.	3600	IN	CNAME	www.planning.dot.gov.
+planning.dot.gov.	3600	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 61893 dot.gov. hMYFIGHG3GqbvgpIT+Xi15x7LfPDT3OXkoaMl2GQQQPoXGANByGr7m9c q/GjHWQyXLg0t0rQ/jvxRN1ahiomhtXU/f3Ny7H1iIy+rodaVAQ1oYi8 BNcYrlGwlhInbfVh5quay0x9Gc/TgVAZDOW7Uv2/6x2jcwA2OxIiSf04 xMw=
+
+

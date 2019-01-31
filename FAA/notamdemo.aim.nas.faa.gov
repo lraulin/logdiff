@@ -1,0 +1,10 @@
+
+
+;notamdemo.aim.nas.faa.gov.	IN	ANY
+
+notamdemo.aim.nas.faa.gov. 3600	IN	NSEC	notamtest.aim.nas.faa.gov. A RRSIG NSEC
+notamdemo.aim.nas.faa.gov. 3600	IN	RRSIG	NSEC 8 5 3600 20190203091353 20190124090054 57624 aim.nas.faa.gov. amxGPjqJ7n9Hc4pqXNsfSrUcv/p9yGBBsQhn7QG1Nls5ML8bZ1vPOyKQ W/bQvE+E94UQfHE9FPVgNoA6uVnlPaJMshdhlgAWKluOXf9UVJxiBCcR PNaYNrIUqnUHyzisuyebvJgbnsI9/D5y6/jukDc4rYyBv3dBLUzk0/ts lp6MJ1En6qWSFvPpWcRBIh6+k296kGolCsPhC+7X5gn+48bnYy9LcB8p fD5sp67Pbr7UcTv5HNLjR7pXrL4/s/Wa7wKqrN8aicO2NgTGLT2n8iol PmekXjCwfC6r8LjuEtL/wwl06M12SXbhsikCz/Y+rsmqeh4BHivOzuel k6lalQ==
+notamdemo.aim.nas.faa.gov. 300	IN	A	155.178.204.23
+notamdemo.aim.nas.faa.gov. 300	IN	RRSIG	A 8 5 300 20190203091353 20190124090054 57624 aim.nas.faa.gov. ORLyqMX65raJ9lA6ivXEhR6s/6V34neYmyj2FYw2PTYxNXXmpw6+fqTm 4kGYjqoGiWb8CGlxRygKTadbRbN18L6KdBfDg4iGnWKkM07Ok7/ovic7 43D1tEjda1luKOLcjUMyTGUaZoApzTPnZnhDPGHVuMqgarALxA2jbV3N DoMtzO/RktsX1req8BQA38Aza8fLmG9YvcTzzMo0nwHusWzPJry6msSB aQmegRbynPDFyZZhMSHNY7hGlcdSgWMGacJr5fWOl+z6eetdtE8DSttj 9rMUbI5EB+0mFl1ptvTlupbPsqI6XHnHjRXJaiBVxfENGUTz1eflcJLK 1+pKBg==
+
+

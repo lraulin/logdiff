@@ -1,0 +1,10 @@
+
+
+;railroads.dot.gov.		IN	ANY
+
+railroads.dot.gov.	900	IN	NSEC	rdns1.dot.gov. CNAME RRSIG NSEC
+railroads.dot.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. P63cUK9GPMPJnG1b8ufvAxN3h2N1fiip1u5phmBp63n5om1IVVAc/0c+ 03Yk6khugb2PZ7mHDc+nzrjiV+AtqN59cp1OJDtbWrunUiVuBQoKb6da Hrxm92HNG+cUBrurPN6vO9sssddt/p6cWPjROzI6AvVLaoQaABtkm73P 5js=
+railroads.dot.gov.	3600	IN	CNAME	www.fra.dot.gov.edgekey.net.
+railroads.dot.gov.	3600	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 61893 dot.gov. fVLFF09lzTMvnpqRH4IvKzB/N8GB2gdBZSV5I0FBcfHcDmKHcGQXlAuE g66SkhY3aYBeaUZ4gXSHgHfQ+u1wVlITN+MtEWPJaBK9ckD6MhOyylgj LAd6zgzdmxe2bawAMHwyjcVAVXkaPa6NX4VPKturhTRp3tT7t3MggnNO Wd0=
+
+

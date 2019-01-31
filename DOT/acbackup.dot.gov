@@ -1,0 +1,10 @@
+
+
+;acbackup.dot.gov.		IN	ANY
+
+acbackup.dot.gov.	3600	IN	A	204.68.202.205
+acbackup.dot.gov.	3600	IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 61893 dot.gov. t11g9rl+PzMhvPBr/cwv+NBiA0nTzcR23widpu/ZHNTfmsfr3MUrk16x tpVOV2aZliOMquvOjYH0W3TJHgBqBejo6HGgKj17UCzWu09AibQn1dmn QANTG3BdikDPpmILuR/yUJe5fOmEQVFu5gBNQvxQbFNgjMquAX2ki+vF SpQ=
+acbackup.dot.gov.	900	IN	NSEC	access.dot.gov. A RRSIG NSEC
+acbackup.dot.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. vc23ErQkRk1sByl7pKqK0S43Fz5CIjStYD5Xkf9Tt9kbHf3iGXmq5vS4 MEyF+Dc004f32373XLtY4f4Tcfvc3D7kXhpd42QZtTYMb6BUw13rpn0I C4fxQrEXeQNCxUfbsTfgNYUX76kWTchrwbqkbBWJSDxI2EneZ5czB+B9 Y9A=
+
+

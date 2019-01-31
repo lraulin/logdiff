@@ -1,0 +1,7 @@
+
+
+;hazmatonline.phmsa.dot.gov.	IN	ANY
+
+hazmatonline.phmsa.dot.gov. 86400 IN	CNAME	phmhqnwas004.phmsa.dot.gov.
+
+

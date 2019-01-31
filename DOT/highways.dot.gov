@@ -1,0 +1,10 @@
+
+
+;highways.dot.gov.		IN	ANY
+
+highways.dot.gov.	3600	IN	CNAME	www.fhwa.dot.gov.edgekey.net.
+highways.dot.gov.	3600	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 61893 dot.gov. kitoDX0PKwYiSvpV4TfMvkDiaCxqH/KVnzpnwiLxbyamBfIkrvIMc77a eOhBIbsZWwxMZkCIOifhFjHrWT4NjSfIwmss4Q9l2kDQrRks/fnY2oN6 x9GBPr0oHA9eapFMCQ+aoCLFTay0LiSrFZCXO+0Vuai+m/Snq+wmHWKI YKM=
+highways.dot.gov.	900	IN	NSEC	hrmat.dot.gov. CNAME RRSIG NSEC
+highways.dot.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. RrPGdgEFE6WxqmWCOqfyPDgVQKpRuuJg339wN5HeFGJSGotRkv/44tXW xayuhX+K0mmSdqh9NnbmgLtDIFDGR+zIRf/B9PhCeNllvkQ/pIE9Uopx mNWJLC54bXxbHD1bqosGt73iP0xSBmgaM0PKBuxAj+UeL4cRkYH/McIy y+8=
+
+

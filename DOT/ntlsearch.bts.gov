@@ -1,0 +1,10 @@
+
+
+;ntlsearch.bts.gov.		IN	ANY
+
+ntlsearch.bts.gov.	900	IN	NSEC	Ntlsearchdev.bts.gov. CNAME RRSIG NSEC
+ntlsearch.bts.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 45363 bts.gov. DXYnkJR2G/XnvkH7kxaisnyJeNheCNwBsVv7ODv2pwPNo7Y9n74MHL8O uM0VzVnrwbj/ZFMADTyP8egvU9ahs+zC46zjvMIxMNrbCg8oHUiRi2+U 4Ptepi5mx5LrwisHxJjAviIcs5ENR8EwJlZ7ze24e6SR5BDI4CFWf0/2 XZ4=
+ntlsearch.bts.gov.	600	IN	CNAME	ntlsearchprod.azurewebsites.net.
+ntlsearch.bts.gov.	600	IN	RRSIG	CNAME 8 3 600 20190726230000 20190109010000 45363 bts.gov. g+K6NCJDY+LVJQ0X+12Fib+ovDcBn0VqVBENUNWx1Oa1rk6MZ9JRCvo4 MUfWc4khbj9AYosPSU4Jt81824CQO+2y9IBulZgvp+9ZWGMNRRilPISL p6/KQq0rgeaQpkenlViJzqu+UCXyg6LPXSlP+XpHqWL3QQPgL9rRA/jF j7o=
+
+

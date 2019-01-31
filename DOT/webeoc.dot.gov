@@ -1,0 +1,10 @@
+
+
+;webeoc.dot.gov.			IN	ANY
+
+webeoc.dot.gov.		900	IN	NSEC	webext.dot.gov. CNAME RRSIG NSEC
+webeoc.dot.gov.		900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. w8l+WP5FL1VwghWTh+nP/LZFb0g8bei/d/DLDqZ03iaIqAdTJhPi2vYa dkrySMcLFW1uksUdD6R7dVQ7uT7AeOW3vDMd7lfwAzwsPCul284HbOt3 BOgT94GC6EQ/pAV5wAwjh3BIMK/gJfMMsXhXvYzd0AhaO8SHGSgZuSfs 04w=
+webeoc.dot.gov.		3600	IN	CNAME	OSTHQNWAS093.dot.gov.
+webeoc.dot.gov.		3600	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 61893 dot.gov. Yslxjmet0Yhtx3U1HPnB0iPMrZ2cMQLwurWdmvixT5YcwasfJ0BB5esN E2f7abE03p+hafwmf0o78SiNXliV9X7rxJX181vUnduBYNChjkdedra9 ALHt1epa1nRRacMD9f/zmOcD5u6jeK0V/KA8tCXr488gt0jFKnWsMRg8 bUI=
+
+

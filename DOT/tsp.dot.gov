@@ -1,0 +1,11 @@
+
+
+;tsp.dot.gov.			IN	ANY
+
+tsp.dot.gov.		3600	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2010146871 3600 1200 604800 900
+tsp.dot.gov.		3600	IN	TXT	"v=spf1 -all"
+tsp.dot.gov.		3600	IN	NS	edns3.dot.gov.
+tsp.dot.gov.		3600	IN	NS	edns1.dot.gov.
+tsp.dot.gov.		3600	IN	NS	edns2.dot.gov.
+
+

@@ -1,0 +1,10 @@
+
+
+;avcams.faa.gov.			IN	ANY
+
+avcams.faa.gov.		86400	IN	SOA	emns1.faa.gov. helpdesk.faa.gov. 4165515148 14400 3600 1209600 3600
+avcams.faa.gov.		86400	IN	NS	emns1.faa.gov.
+avcams.faa.gov.		86400	IN	NS	emns2.faa.gov.
+avcams.faa.gov.		300	IN	A	209.165.164.194
+
+

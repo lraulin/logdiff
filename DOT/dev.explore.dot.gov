@@ -1,0 +1,10 @@
+
+
+;dev.explore.dot.gov.		IN	ANY
+
+dev.explore.dot.gov.	900	IN	NSEC	test.explore.dot.gov. CNAME RRSIG NSEC
+dev.explore.dot.gov.	900	IN	RRSIG	NSEC 8 4 900 20190726230000 20190109010000 61893 dot.gov. vPSFUV8onU8vVmVi6Vtyer4vmUQYZKqnWQpqaI27J44AMEGmbyLQeRBl KUKx0vi/duMMxkgkEwe5SGFzsEev6IPuuCBuU6nK6GX90rMcBUzsBt5m GsRlUHbmICXQG6rnS/NtS5mm11nXfu1JTEzJyQhjaf87gBNxCUewA0iP hEw=
+dev.explore.dot.gov.	3600	IN	CNAME	ostrazedwws001.ext.dot.gov.
+dev.explore.dot.gov.	3600	IN	RRSIG	CNAME 8 4 3600 20190726230000 20190109010000 61893 dot.gov. raNmaeuj6kB+jguEKySHTLiVFEuQrz5LiBFrSWKYU3qehn8BJoJbCI06 ZEsTla080yuYtRS+gv9T3Rheee4P0fDuPim9WagCT/aErVZnZA/9k8wN K75Q8Htgt0vwuQaKj+vmMFXPCk6S/KCObsq6eTuA/sXGk7KrRYNABw9f qcc=
+
+

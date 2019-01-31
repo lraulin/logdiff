@@ -1,0 +1,7 @@
+
+
+;portal.fmcsa.dot.gov.		IN	ANY
+
+portal.fmcsa.dot.gov.	3600	IN	CNAME	external.natss-aws.us.
+
+

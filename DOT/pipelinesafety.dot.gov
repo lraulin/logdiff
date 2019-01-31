@@ -1,0 +1,10 @@
+
+
+;pipelinesafety.dot.gov.		IN	ANY
+
+pipelinesafety.dot.gov.	900	IN	NSEC	plan4operations.dot.gov. CNAME RRSIG NSEC
+pipelinesafety.dot.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. Lnp1lFzfD5pGp6witADQvktGwOXuk6Q0t0iQIih4nQNMcZx5iwN2QMrO AO3bxCDrf+dLvPOny81/6eJN2uFHGLnKbwWWkrjOyGWisCveNbrwvPeC 88uSFXCmpIyXHdL/p5jsb6w/n+/Pjw6UDzwYi5bPFGiRG6zN0RUIAVGT S2w=
+pipelinesafety.dot.gov.	3600	IN	CNAME	www.phmsa.dot.gov.edgekey.net.
+pipelinesafety.dot.gov.	3600	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 61893 dot.gov. rIuWkain7ySphhjkagWI68RqW3YKrKadW+NMPgdSx+IuruXDc/nJhEXu t1YvdAliuMB80WBnvhdYrxF/oAM8Cb+EjuRJNkwOW1ABznj5Nbpl4i+z cGeQhB5krQ5I0VH0EWQCjNV9xSxPSfAOmf57i4CvMCEjHzio0sFTIpvl e34=
+
+

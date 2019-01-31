@@ -1,0 +1,10 @@
+
+
+;tfrdod.notams.faa.gov.		IN	ANY
+
+tfrdod.notams.faa.gov.	3600	IN	NSEC	www.notams.faa.gov. CNAME RRSIG NSEC
+tfrdod.notams.faa.gov.	3600	IN	RRSIG	NSEC 8 4 3600 20190203090314 20190124090054 60199 notams.faa.gov. e37KKyVYSlN3+nuxiv2Sg/lOlVRKBc9psvUUiB35dsvZ+5f7n8R4vYyF Q+tLBXZ/8Wk0Ybxfmqq1gzDPuTToG0IR5nS2/uggxVlnmd1w4UcaGSMg IMFWcmNJEXIi2+qBQrd6lcPcFPbNNL2Gv83Eocax7ii6fbuW6tXlkThU XuB4rmPL4yJM//NvqqZ9ZkXRPDeNpDtoSV7XaW2aErKD8uSPWN39ctTv 0qbrXx6ByEH1cEUtK43XcGes8KLbffq6+VPcdtbk5I6/N6mIbLgDKU9V jTjWiAmQtFEAA8EY0G4NzgYUaymTHIzHR0kTX5BH6NW7oT53SdOhC1xi zfNq9g==
+tfrdod.notams.faa.gov.	300	IN	CNAME	tfrdod.notams.faa.gov.edgekey.net.
+tfrdod.notams.faa.gov.	300	IN	RRSIG	CNAME 8 4 300 20190203090314 20190124090054 60199 notams.faa.gov. MNmTWYZqFycsCOF7Kk+owcvD6k47OuisdzDl/VDAaAcuA4n5FhjhYAxM YpIrE1Km33AUkbxR88tOuWIuHTDYI1KlYQauB296hMXlH5AFZDG3l9jM +p/UWIr/V8NL5c7AyjUUT5QfPlwsitGuXOyF0RduCJUqsgAECt6tMxe2 9sTAsiQUodeJwVV0+4mJJ9OQRYn/23nEHW9ZBtJM0f8Uid8CycXeNupY UPT5P0ntEFwcVi/BvJqtpXzvXUg31QJLpChbIr1BalnT9Evo6GbXJeXH nBqtJQ2WfzOQUMacPZmxjrPXe+HANb+a2Yfq4/EkmpFrFOEwIfjdUzZN In3SMA==
+
+

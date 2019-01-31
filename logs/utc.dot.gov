@@ -1,0 +1,7 @@
+
+
+;utc.dot.gov.			IN	ANY
+
+utc.dot.gov.		300	IN	CNAME	www.redirect.dot.gov.edgekey.net.
+
+

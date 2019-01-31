@@ -1,0 +1,10 @@
+
+
+;checkthebox.dot.gov.		IN	ANY
+
+checkthebox.dot.gov.	900	IN	NSEC	www.checkthebox.dot.gov. CNAME RRSIG NSEC
+checkthebox.dot.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. CTDwj9qIu408+r70GWP5UCeeT6Otr90Xzo3MsE99hSd+dnz+ErVDJ1d5 +otuaDX08aYhAVMKkoMMebDZ1DvN93D3swUgIZCPLd4FIFLvJTh/pbqk b55k71OmPDvpvXXbxsr6S7Nass+gXtpm3i5VoXZlp9b4jqZAlquZyPNA pSA=
+checkthebox.dot.gov.	3600	IN	CNAME	www.dot.gov.edgekey.net.
+checkthebox.dot.gov.	3600	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 61893 dot.gov. EmxOIU8glFj9ZtCfP+sVB2Rg7dieL+xSX9mWdMwDK2nGy9FBnahcFYSr Plrp6jbtSn6feh6ZO1UjVX0r6YcMOjui1Cxk9gJA4R9e6KUyifhGe1Fo axUBtpXUlCZyHIWJd9joBrQo9K5jbtw1mez9FoKZxiL4etwEEO+88t6m HH4=
+
+

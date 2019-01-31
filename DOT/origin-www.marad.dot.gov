@@ -1,0 +1,8 @@
+
+
+;origin-www.marad.dot.gov.	IN	ANY
+
+origin-www.marad.dot.gov. 3600	IN	AAAA	2001:19e8:d4:1::20
+origin-www.marad.dot.gov. 3600	IN	A	204.238.19.20
+
+

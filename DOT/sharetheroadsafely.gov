@@ -1,0 +1,22 @@
+
+
+;sharetheroadsafely.gov.		IN	ANY
+
+sharetheroadsafely.gov.	3600	IN	TXT	"v=spf1 -all"
+sharetheroadsafely.gov.	3600	IN	RRSIG	TXT 8 2 3600 20190726230000 20190109010000 25395 sharetheroadsafely.gov. E3DlAffzSxBirfMflK/pKpO4pHMmo00Fn3CoNGXAtXf5M8C846epP3Nx m1N9xjDgc4QokMdjnH5+rVwbBjVb1MLGJNpcicl3R/5FWqSh/sdxUJvn p0Q+5AIfNaO5RdOtzpoSpw7gFapx5309w/ZPTgT5gzaTbwXqOUHPJLwL Iws=
+sharetheroadsafely.gov.	3600	IN	DNSKEY	256 3 8 AwEAAbRBGLf0bOPNjPRSPKurhsRz+onHLcQub3MnjX9xejtLcQQci2OV s+59tqCVob+Mm6oDiiB6sv3xwE6Yj1edgEcxB0bIQmsOilTE1gxvYMEW yp0I+h7j8LZZlLXaq3tEPNvkIg968Thmxf1DflWl1k4Cql3+z6n/pIoo LONdO51L
+sharetheroadsafely.gov.	3600	IN	DNSKEY	257 3 8 AwEAAfAKv5wB2wMBhAS6hkBVeZ4ewVjhUK9wR2nw9baQRkozQcB5s/Qt 7P39U8NbahfSBBJHqaENe3Ek/PA2Ri3T5UtsklCWATia9QT4S9oG5PBn WWYSaeX/0ckHcKuThv+KAOXipJ4+ZhNtOdXANmD5bHN6Uei1DOMG+62i dFHIvJDZ704YL+a048pr/Y+jRbe5mQ22caLRceb9ylUORrfkRppPUKBX +pgQi+RwDyxUPg0u5rRkWkeyAEbqYh6ZRlTTjmwDQGqrBVNJq5I8/UB9 phExApeL6ZYfj+vw9KPlL167t7Fv1IZ/QnodRNtYO9s/GUD9CQYZul1b tM5m8KMBZGc=
+sharetheroadsafely.gov.	3600	IN	RRSIG	DNSKEY 8 2 3600 20190726230000 20190109010000 25395 sharetheroadsafely.gov. UG9vA9QWbpwrWETuiZZvBGhBdBdAqDQh4Uk5VU6Vdprp7V1nYWeKS1tH RzWtiwNPykLQCsJhUyVtxhjMnG8Z/JMhi9MQF/U01NpZQyR0a9Dwb+qp 2saROBaqZuaDDrNX+vxw5TFXV+MSJMssGBm3hkDwAqcIyeWkNc+9t6Wl Io4=
+sharetheroadsafely.gov.	3600	IN	RRSIG	DNSKEY 8 2 3600 20190726230000 20190109010000 64081 sharetheroadsafely.gov. veX2aou2yoiKzL5QEp4Ru0RBtAHOFlXAwr2+TkR1f73VNULCoKtwbiSe FqCzld8ZztJOwpgcPYWi1QhfxEDsFSEhdssHqEGk1Kx/+RCm/FJzPaM2 /8AnmoCEGXUedkcwRaOeIsGAhlTETEuG38jmibH9Y6YbonTzKPfyOpwb VfGmeKgbcGlaDZ/c4xH/zeScy6U9gETqy7HNfrsLvXRKwhEbEv0/FX8B OII8upYiSk+xEOC8hL416+lQjUmPzgZTbyL+btyOC1PPwvtdgLMCYc/2 MNga37Xprj4az7LyWz9goNCLOHI7+DhmDseTmJpHKxys1qvuuvIjyUZU HCh09w==
+sharetheroadsafely.gov.	3600	IN	A	52.5.106.74
+sharetheroadsafely.gov.	3600	IN	RRSIG	A 8 2 3600 20190726230000 20190109010000 25395 sharetheroadsafely.gov. owK4ROBel9VxYIhKuGBu3o2ZTZhKx9rpfSP5q/3omiv+4KQiomgYyVwQ 6vDdJXV/1a38ynN5rgwEmqjGSGX896VYDVFsTpsCcgjPDcmQX3jezMRk yBJblHS6O9UUtFgYa2FrG+Ozz+/lYdXtLXdA8UOgkjkUyq3NiTYHo6M+ XFo=
+sharetheroadsafely.gov.	3600	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2007168169 3600 1200 604800 900
+sharetheroadsafely.gov.	3600	IN	RRSIG	SOA 8 2 3600 20190726230000 20190109010000 25395 sharetheroadsafely.gov. m86VBERrggAfMjyJ2r1TlwEYRtr/sT7ZlM5cmpSyAGLxiF9UC/MoJaKp zwqEJ7Ah3KMRBWIj4ey83N6LMuj2FIw/HP1PmdZgBh899oeIU8qPKbaq bj+TKmPfBNvHxPp7O+cAPL5rtw19tM0XrnecDbKKtO4K4QOwZNELrA1l 4Cs=
+sharetheroadsafely.gov.	3600	IN	NS	edns2.dot.gov.
+sharetheroadsafely.gov.	3600	IN	NS	edns1.dot.gov.
+sharetheroadsafely.gov.	3600	IN	NS	edns3.dot.gov.
+sharetheroadsafely.gov.	3600	IN	RRSIG	NS 8 2 3600 20190726230000 20190109010000 25395 sharetheroadsafely.gov. fK3wXPiVqIJkoWR0Odgu6wpk3z5Vd81qFOYXvqiDE8syybR0TqozUw1f /en35jt8H9/m42rjsMk9lfCA/1TkTMpvNEthaCmvm0W0Rkp4o/M0vHlI yeunAWVYJIcNMUxPNoq9zaj++jORvXYqwhIZ2N8l7/sogtjkIMFUlJwC iCQ=
+sharetheroadsafely.gov.	900	IN	NSEC	_dmarc.sharetheroadsafely.gov. A NS SOA TXT RRSIG NSEC DNSKEY
+sharetheroadsafely.gov.	900	IN	RRSIG	NSEC 8 2 900 20190726230000 20190109010000 25395 sharetheroadsafely.gov. DHq+5Y6uJriwsY2ygxqH5IdNf1P+jqa1GT3s/7sPVyavszdTzUadEMPw xIOly8AxJtSmfCsia71qEfLDLBrUSgIXsz2hDtrSqjPyL947WpAEmGtv VJ7qofabsLRkg0CkcD1ajGUJeOMO+4ryFFmyYIobm/Q56LoL0J7ThP12 ErM=
+
+

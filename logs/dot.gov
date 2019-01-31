@@ -1,0 +1,33 @@
+
+
+;dot.gov.			IN	ANY
+
+dot.gov.		3600	IN	SOA	mdns1.dot.gov. hostmaster.dot.gov. 2018881335 3600 1200 604800 900
+dot.gov.		3600	IN	NS	dotazwdns002vg.ad.dot.gov.
+dot.gov.		3600	IN	NS	idns4.dot.gov.
+dot.gov.		3600	IN	NS	idns3.dot.gov.
+dot.gov.		3600	IN	NS	idns1.dot.gov.
+dot.gov.		3600	IN	NS	idns2.dot.gov.
+dot.gov.		3600	IN	NS	dotazedns002vg.ad.dot.gov.
+dot.gov.		600	IN	A	152.120.226.112
+dot.gov.		600	IN	A	152.120.206.60
+dot.gov.		600	IN	A	152.120.209.30
+dot.gov.		600	IN	A	152.120.226.38
+dot.gov.		600	IN	A	152.120.228.7
+dot.gov.		600	IN	A	152.120.228.15
+dot.gov.		600	IN	A	152.120.206.51
+dot.gov.		600	IN	A	152.120.226.8
+dot.gov.		600	IN	A	152.120.209.31
+dot.gov.		3600	IN	TXT	"DvJkvb1Hi8onaHmhg9wO0TuoOcYFUoPXwshxGuB5Vqf1uE/T+YJfJvWGLSh3gatzXD12xt3ODFXl8Xs2+jCstw=="
+dot.gov.		3600	IN	TXT	"v=spf1 -all"
+dot.gov.		3600	IN	TXT	"IiU1NzvSF8lPMl/P2weOth8GzUgN5x0oYqLALxS7OveKZOqpaic4yiBi/RVoQSbEh7s1fJalPZqs+I2vpqtvsg=="
+dot.gov.		3600	IN	TXT	"MS=ms26367269"
+dot.gov.		3600	IN	MX	10 SMTP10.dot.gov.
+dot.gov.		3600	IN	MX	10 SMTP09.dot.gov.
+dot.gov.		3600	IN	MX	10 smtp08.dot.gov.
+dot.gov.		600	IN	AAAA	2001:19e8:f4:212:a559:f83c:4221:5fb3
+dot.gov.		600	IN	AAAA	2001:19e8:1:e8:ac99:5840:e926:f1b5
+dot.gov.		600	IN	AAAA	2001:19e8:f4:212:45dd:a6ca:c1d7:a350
+dot.gov.		600	IN	AAAA	2001:19e8:1:e8:e437:7f8e:e556:b42c
+
+

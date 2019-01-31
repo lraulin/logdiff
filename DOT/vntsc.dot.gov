@@ -1,0 +1,14 @@
+
+
+;vntsc.dot.gov.			IN	ANY
+
+vntsc.dot.gov.		3600	IN	TXT	"v=spf1 mx:vntsc.dot.gov ip4:12.226.29.207 a:mailserver.vntsc.dot.gov -all"
+vntsc.dot.gov.		3600	IN	RP	mailserver.vntsc.dot.gov. vntsc.dot.gov.
+vntsc.dot.gov.		3600	IN	A	12.226.29.194
+vntsc.dot.gov.		3600	IN	SOA	ns1.vntsc.dot.gov. vntsc.dot.gov. 2018082010 3600 600 604800 3600
+vntsc.dot.gov.		3600	IN	NS	edns1.dot.gov.
+vntsc.dot.gov.		3600	IN	NS	edns2.dot.gov.
+vntsc.dot.gov.		3600	IN	NS	edns3.dot.gov.
+vntsc.dot.gov.		3600	IN	MX	10 mailserver.vntsc.dot.gov.
+
+

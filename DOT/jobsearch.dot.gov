@@ -1,0 +1,10 @@
+
+
+;jobsearch.dot.gov.		IN	ANY
+
+jobsearch.dot.gov.	3600	IN	CNAME	jsearch.monster.com.
+jobsearch.dot.gov.	3600	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 61893 dot.gov. TXZ1VLjnDzV0U4j6Y6MnDvzd6Rv0neoKRcYu1EhkGwTSZ+nBh2wkH30E 9Qjoh7Ec1o1HCRbC8os03dG48z0zYVxF9wKwnfR6BCST7lSGMmPurbeY 8Ms6me6JkdrgyE9GORtDD3aZuu3Vx8S3bpqLCjIeHe7R7RvratHaow5f qv8=
+jobsearch.dot.gov.	900	IN	NSEC	keymaster.dot.gov. CNAME RRSIG NSEC
+jobsearch.dot.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. b696m2GXV4gUQiR3nImzGqYtBbLVLfG/iXArXmXVGImmE7ylQGcWn6S4 IGUGTVqLt9e5YnXGdD8nyfA9hFt0l2qepu03KsVtURVTWBlXL8gyAREQ hSF1EUj1JIPVpnuFwp4B1a+78+cvppFeGvfnEP+lUfVqwQsrpoXbbbAl l/g=
+
+

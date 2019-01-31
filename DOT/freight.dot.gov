@@ -1,0 +1,12 @@
+
+
+;freight.dot.gov.		IN	ANY
+
+freight.dot.gov.	3600	IN	AAAA	2001:19e8:d:0:204:68:194:225
+freight.dot.gov.	3600	IN	RRSIG	AAAA 8 3 3600 20190726230000 20190109010000 61893 dot.gov. kKSfiKf0fr3gVASiqlF1757+FpdzjU1sp+ZdfxqFSEBcPx+678LaOwav rQdNq3pCp+7hYa3D+pkVui/dEvSsA5388BqXjVNvJ3wvHFotd8fKARz6 e2gzq187W6YsdT5Ycld64pwX4io35iXUAL0NsLP/MJ2d1hCTw+p/So5z Vbw=
+freight.dot.gov.	900	IN	NSEC	www.freight.dot.gov. A AAAA RRSIG NSEC
+freight.dot.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. KV7f1xLxFZJ4souNNcozmubJvFclH8vnXpiLDpclHk3LjAd6NYgCt7/2 posI2DUoMCCZxInc8FjC1eiNrgLLihguFU3V/LKvf/QdZLKoyBMYqoi1 l6wfguiqK0YKxCxrZDvooSImGHkYvvGd1YpMQdkatEFRvBexncIWQb/i TdM=
+freight.dot.gov.	3600	IN	A	204.68.194.225
+freight.dot.gov.	3600	IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 61893 dot.gov. YQb9iaKThe4PqLU/1Pxfdtny5ekC5k+3WYF0EjJmaMprvFjSDHOE6y4J jhAbrqgl1TSpiQORmaQmmY76pH8va6L7EaXDqcHYQs3OTnppYiBa67Nr JM0rpoW8iiSLQsoCwyaFJcMZ+e75cohIwRPmELfDao/N6KnbPjTy/2xk aJI=
+
+

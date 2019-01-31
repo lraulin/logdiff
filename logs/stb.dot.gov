@@ -1,0 +1,13 @@
+
+
+;stb.dot.gov.			IN	ANY
+
+stb.dot.gov.		3600	IN	NS	edns3.dot.gov.
+stb.dot.gov.		3600	IN	NS	edns2.dot.gov.
+stb.dot.gov.		3600	IN	NS	edns1.dot.gov.
+stb.dot.gov.		3600	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 37992 21600 3600 604800 600
+stb.dot.gov.		3600	IN	TXT	"MS=ms20119734"
+stb.dot.gov.		3600	IN	TXT	"v=spf1 ip4:67.133.53.196/27 ip4:65.148.42.181 ip4:65.148.42.185 mx include:spf.protection.outlook.com -all"
+stb.dot.gov.		300	IN	MX	10 lmail.stb.gov.
+
+

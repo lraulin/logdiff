@@ -1,0 +1,7 @@
+
+
+;webmail.faa.gov.		IN	ANY
+
+webmail.faa.gov.	7200	IN	CNAME	mail.office365.com.
+
+

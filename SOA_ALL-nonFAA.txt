@@ -1,0 +1,168 @@
+
+
+;911.gov.			IN	SOA
+
+911.gov.		3600	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2010128223 3600 1200 604800 900
+
+
+
+
+;atcreform.gov.			IN	SOA
+
+atcreform.gov.		84929	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2815 21600 3600 604800 600
+
+
+
+
+;bts.gov.			IN	SOA
+
+bts.gov.		3600	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2007170609 3600 1200 604800 900
+
+
+
+
+;distracteddriving.gov.		IN	SOA
+
+distracteddriving.gov.	3600	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2010120112 3600 1200 604800 900
+
+
+
+
+;distraction.gov.		IN	SOA
+
+distraction.gov.	3600	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 26024 3600 1200 604800 900
+
+
+
+
+;dot.gov.			IN	SOA
+
+dot.gov.		2023	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2010153094 3600 1200 604800 900
+
+
+
+
+;dotideahub.gov.			IN	SOA
+
+dotideahub.gov.		86400	IN	SOA	emns1.faa.gov. helpdesk.faa.gov. 2019012501 14400 3600 1209600 3600
+
+
+
+
+;ems.gov.			IN	SOA
+
+ems.gov.		395	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2010120174 3600 1200 604800 900
+
+
+
+
+;esc.gov.			IN	SOA
+
+esc.gov.		86400	IN	SOA	avatar.esc.gov. AMC-Internet-DNS-Admin.faa.gov. 2018121191 10800 3600 1209600 3600
+
+
+
+
+;faa.gov.			IN	SOA
+
+faa.gov.		300	IN	SOA	emns1.faa.gov. helpdesk.faa.gov. 4165524275 14400 3600 1209600 3600
+
+
+
+
+;faasafety.gov.			IN	SOA
+
+faasafety.gov.		86400	IN	SOA	avatar.esc.gov. AMC-Internet-DNS-Admin.faa.gov. 2019012525 10800 3600 1209600 3600
+
+
+
+
+;jccbi.gov.			IN	SOA
+
+jccbi.gov.		85273	IN	SOA	avatar.esc.gov. AMC-Internet-DNS-Admin.faa.gov. 2018120879 10800 3600 1209600 3600
+
+
+
+
+;nhtsa.gov.			IN	SOA
+
+nhtsa.gov.		3600	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2010139801 3600 1200 604800 900
+
+
+
+
+;protectyourmove.gov.		IN	SOA
+
+protectyourmove.gov.	3600	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2007167855 3600 1200 604800 900
+
+
+
+
+;safecar.gov.			IN	SOA
+
+safecar.gov.		85072	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2293 21600 3600 604800 600
+
+
+
+
+;safeocs.gov.			IN	SOA
+
+safeocs.gov.		86400	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 5661 21600 3600 604800 600
+
+
+
+
+;safercar.gov.			IN	SOA
+
+safercar.gov.		3600	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2010120412 3600 1200 604800 900
+
+
+
+
+;safertruck.gov.			IN	SOA
+
+safertruck.gov.		2273	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2010120183 3600 1200 604800 900
+
+
+
+
+;sharetheroadsafely.gov.		IN	SOA
+
+sharetheroadsafely.gov.	2473	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2007168169 3600 1200 604800 900
+
+
+
+
+;smarterskies.gov.		IN	SOA
+
+smarterskies.gov.	86400	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2823 21600 3600 604800 600
+
+
+
+
+;strongports.gov.		IN	SOA
+
+strongports.gov.	3600	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 8426 3600 1200 604800 900
+
+
+
+
+;trafficsafetymarketing.gov.	IN	SOA
+
+trafficsafetymarketing.gov. 3600 IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 17346 3600 1200 604800 900
+
+
+
+
+;transportation.gov.		IN	SOA
+
+transportation.gov.	3600	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2007171871 3600 1200 604800 900
+
+
+
+
+;usmma.edu.			IN	SOA
+
+usmma.edu.		86400	IN	SOA	ns10.dnsmadeeasy.com. dns.dnsmadeeasy.com. 2009010497 43200 3600 1209600 180
+
+

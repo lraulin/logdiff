@@ -1,0 +1,10 @@
+
+
+;airconsumer.dot.gov.		IN	ANY
+
+airconsumer.dot.gov.	3600	IN	A	204.68.195.162
+airconsumer.dot.gov.	3600	IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 61893 dot.gov. HtnoEQ+qs08ueaXR2cfuGOiC66skFNaIzrf+AOB6nGjgnMVLdg9EOJeq hiLHr0niVPLuyOyl0f/ifh44ehRAtoxFwdTGjBOZJts3lJ95PxrV0mpH Y+AsoEF5+mgJ51Wp4HkzoxGgsNRo/Trp+AeRMOZYBw0SdXwSUundBwmA 9fk=
+airconsumer.dot.gov.	900	IN	NSEC	AMIRDMZTEST2.dot.gov. A RRSIG NSEC
+airconsumer.dot.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. hOHFX6BmZbkuWNZ7bPbk5fLAmABGi1WruHzZNCxuORKetqzAz1w6UXL3 iEBYXwaiQAVCMxlJChExmPQJsQzvPo3XBpZPxQBgS/cKORHtWXHpKfuf URGy51g94p9GU68pHdg4zG8Yd3jUbNBA6Pnt8Vk1Rc4r7hnkYbsQW2Xd HIk=
+
+

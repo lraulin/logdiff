@@ -1,0 +1,7 @@
+
+
+;aisrtest.nas.faa.gov.		IN	ANY
+
+aisrtest.nas.faa.gov.	300	IN	CNAME	www.aisrtest.nas.faa.gov.
+
+

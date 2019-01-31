@@ -1,0 +1,7 @@
+
+
+;crashstats.nhtsa.dot.gov.	IN	ANY
+
+crashstats.nhtsa.dot.gov. 3600	IN	CNAME	vPic.nhtsa.dot.gov.
+
+

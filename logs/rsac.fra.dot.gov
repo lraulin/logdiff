@@ -1,0 +1,7 @@
+
+
+;rsac.fra.dot.gov.		IN	ANY
+
+rsac.fra.dot.gov.	1500	IN	CNAME	fra-global.fra.dot.gov.
+
+

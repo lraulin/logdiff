@@ -1,0 +1,10 @@
+
+
+;oetcrt.dot.gov.			IN	ANY
+
+oetcrt.dot.gov.		900	IN	NSEC	oig.dot.gov. A RRSIG NSEC
+oetcrt.dot.gov.		900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. Zxy0qrG5LbHd6+9735kGoKZggPkGh3TBtGgIdUtULIeQ5gb48aZeFVVJ mPnAlcpyCyWKTNYiXXtzzqL9+RaNqoVGoFSu4k//HaDveXh0Sy+Hjff6 u63TqHEovN/D/i5I1xpmsgPgr7We3syp5TRtE/oaYPuHF2WTyVDU7jh3 XqM=
+oetcrt.dot.gov.		3600	IN	A	204.68.194.161
+oetcrt.dot.gov.		3600	IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 61893 dot.gov. pdRAoeUuv7/1dt2nRZxMSzmz+f8WsLgVaHC4JJVl6UN6EqgNYVzTB5V5 0kHzFEWuwZAZpRHm9/TCeFCDBf7019EOpmoMCc5GscfQlxc5I8vk1s90 0cJGz8Zs3zo3RqyuQl+z4dU38qnf4y82MjAOrvbdCcyS0Tt3mxvmUInx wFs=
+
+

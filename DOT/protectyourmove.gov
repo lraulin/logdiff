@@ -1,0 +1,20 @@
+
+
+;protectyourmove.gov.		IN	ANY
+
+protectyourmove.gov.	3600	IN	DNSKEY	256 3 8 AwEAAfVstRjZRssu5npODrqxRfrgiLJblCTVYbnHqEmKxREW8kOSbcOF tNO24MTU+qlVrwyTiv6jI8NB/rkdBv6MhP0D+fgkILRAra5EhyrvVg/F tlrJsdvI3uV69zJm12rAU8/byHhQ70B8D9FLLPehZ46wKlxZ4dWkJpxR wT6/4d5p
+protectyourmove.gov.	3600	IN	DNSKEY	257 3 8 AwEAAbJHrrRLDzCQUEqlLtIU7pdi1wyJyeHvFRq3xR8Zv90aK+4xUI+5 WtJIJdrXFbA5SyzITlPybPfGYCe/cs1tipBAoXSN2WSs4hfBHi51nFfM 5HisueAqm66iGlIuF5n6F07l4CJlLz8WLUj3cTkzws266V3luhMzaNxp Jnr0LRaeg9oY3xleknXSUjvGFWuaKRPJdwX5nSs6rurPoToXoI3Oq6YQ YPgSpxuOC5Q0OGVsZY9DQ9kusoywmDHfymQQ2Kt4MXeOJ8HUFgkc/y+T hN8U8NtQ706zHBBcYyngYbgzgD6naeVT5XZujqDXe1bGeEfo4RPokJbU KAgkZLPKFzk=
+protectyourmove.gov.	3600	IN	RRSIG	DNSKEY 8 2 3600 20190726230000 20190109010000 28698 protectyourmove.gov. Kchahdgyz7lyCCKIKoe8SFtwvkeCQ6xj1l/v7tfv5ERIAlsYO6g1oUGE CjUYCHx9B5LD//EapNzXElMdi8Exnf+qVP8V94rLndI1Rv0A0sfH7sxn ddAfA7jakERW/ueg+APlATYA271SDyn/lZY997b9p8FfWs4vKK7s6d8M s+8=
+protectyourmove.gov.	3600	IN	RRSIG	DNSKEY 8 2 3600 20190726230000 20190109010000 60025 protectyourmove.gov. Y470bN4GHO3gRSugF5rEXppR2AOHxPajXddXBIoluKcBH3TefkSatwr0 xxEFOSRy8TAYY3TI1VHpxXup8f12O1C7GWGK77SVZuB0IwUvAd3zUsKi 3DsGsn3v+8jQn17AanF49GMARulpIuwfSj4u8gLmmFCWfIDQbFLnliuh NV2S5PJmwc6PCMxW1VwALWXMK/GHq+O2OQLPjXfBFH/U3kKT/sLt6+k4 ep64+5C2gFnsjnZvhHOB+309j2GdcJqk7UAlObngIlW8BiRmDThVNICQ yzOa6X23/URkIRajSuHXNZICXoHhTbgfXJrWdOWYYA66CZqHh65DxxwE lDx6yA==
+protectyourmove.gov.	3600	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2007167855 3600 1200 604800 900
+protectyourmove.gov.	3600	IN	RRSIG	SOA 8 2 3600 20190726230000 20190109010000 28698 protectyourmove.gov. rAlBUzrlAzLa7f17xYQAgOXp8CI2MnaYL4vTl8b9XJzHljEvxdHF9wx1 WT6PKsZtDtAEgTVWZe5ufBiUSGLAHrzjACzkQGHWrhNWR5uQ42gulOCw KSEihrHcRC856VOhvAW+A/07m8vNSwPhx/hRFpiwNhxs/qj8C4DrbD9r MOc=
+protectyourmove.gov.	3600	IN	NS	edns2.dot.gov.
+protectyourmove.gov.	3600	IN	NS	edns1.dot.gov.
+protectyourmove.gov.	3600	IN	NS	edns3.dot.gov.
+protectyourmove.gov.	3600	IN	RRSIG	NS 8 2 3600 20190726230000 20190109010000 28698 protectyourmove.gov. XmT00P6EV5IM07p05B4pJeEifqykRxQ99ASlUu4KaEyqaomC4W5T9sfK GIAS8wjg3ANViUY7LZ2mazoC++yjqz9PJpynJMYMzELOGKjUytoFEhig WHawsTZcmGtKJCLg3w8qr3nkGBmzJE9VYZ+KDQHqLOVMhlCSGUKqDU3P biA=
+protectyourmove.gov.	3600	IN	TXT	"v=spf1 -all"
+protectyourmove.gov.	3600	IN	RRSIG	TXT 8 2 3600 20190726230000 20190109010000 28698 protectyourmove.gov. K4b9drAf/6FSIkYxegLbbYzr5tMgk2sRMKa+KmLFWcVqC/nVIx02IHvM dx92Ib5Y4rag3uXwHgis26Q4okQn7QRU+SyRsaPuckfy5Cu7/xdVgHJ2 iVODypVCot7WhQw8c2lOnLOW1Gt1jkM0XtpRYr1gxjGKaIw4QahkkOlF y/Q=
+protectyourmove.gov.	900	IN	NSEC	_dmarc.protectyourmove.gov. NS SOA TXT RRSIG NSEC DNSKEY
+protectyourmove.gov.	900	IN	RRSIG	NSEC 8 2 900 20190726230000 20190109010000 28698 protectyourmove.gov. 3NN9HMGWKfwhXHyVEilb8ibH1yXbHsG8njZSypzHKtwU8os70ImHi8Bl 6c2bBAyASmVZY3LIpssPCnGt2WTJFw8tMZ5TQ+5E+FnZY91qySFaJe1p 4O9RSbCbH8n9Od3vAviu5o1h2ih8UuOmBKO9Rw+UqK+y3mgP0aVp0gpY DHo=
+
+

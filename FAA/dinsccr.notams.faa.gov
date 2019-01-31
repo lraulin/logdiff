@@ -1,0 +1,10 @@
+
+
+;dinsccr.notams.faa.gov.		IN	ANY
+
+dinsccr.notams.faa.gov.	3600	IN	NSEC	www.dinsccr.notams.faa.gov. CNAME RRSIG NSEC
+dinsccr.notams.faa.gov.	3600	IN	RRSIG	NSEC 8 4 3600 20190203093852 20190124090054 60199 notams.faa.gov. vlxHzIf37uQNNayv1vK3iLilNixk5IxqZ0UOmWrkcOhkGeukyZLIl47Y CB7xbrvpcnuwwT9hYFsCzoDRSDnAvswUFi++IcyqT8frGOJbjmt++hQP RxuyZOzghmdSqpNOdlQi/4M4nDpsDUpMyoxiLmT+xdO7/2sGRlCtbUMf 2dVvUUfzjHMmnpVPMkiwdZ13AFMOCkMLjQ0einO1GZuPybgUCeuxrubN pnPWrXDpPWSDar8qscctTtNZ7qT9E7kQLUeH+HGB0nAmLi9KqNXahXq+ 1YC/RijD6qQi/v3nCGZxlT9hHOxmX7G5J2myiLtEw+ROh3lOOsitEIZ2 UYMMPg==
+dinsccr.notams.faa.gov.	300	IN	CNAME	www.dinsccr.notams.faa.gov.
+dinsccr.notams.faa.gov.	300	IN	RRSIG	CNAME 8 4 300 20190203093852 20190124090054 60199 notams.faa.gov. VGQefBQ4w2pjtC0d+z1i6as376OxOrVVOq0pNxzwvQ5VSENLdWLeXRq6 BUQ5JEQiPNf+d1671I4eQ0AimFcWW0TGkpV2ttZ8i942yAMl43nWbNye Bw/kAcRmrXIhrheBnTV0DYj3jtU2jvyHPH04JZ1QE2YaUkhK83pR+2wc bKcjMMCXYECq8XrX20aX/G+JocT75d3Xc/Oa4Xr035ZjMUM+v5Ojs0Hh dx8Bdmw3EooUjUM1qkzHOUPVqOuHIFsFv5Fdh+Ve9JaDE/xU2Vzdt/v7 ++zloNZTJkz+gltgZXfuFQZQ98+gaodXaTC3N1qMWSBqY///vOHWAgaV l5IO0A==
+
+

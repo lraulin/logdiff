@@ -1,0 +1,10 @@
+
+
+;dothqevdi015vg.dot.gov.		IN	ANY
+
+dothqevdi015vg.dot.gov.	3600	IN	A	204.68.194.20
+dothqevdi015vg.dot.gov.	3600	IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 61893 dot.gov. TfVwjwnconvfYiilHsTM5WjjTIf4sbms9vu6GsiIHy0g+w8gNQ0Opwf8 pq/4+rep3gNf73pQ+7mJ45QcW/P706qMPaCCHQ3K/QVtO8+LMSxNgggc d8cLJRfsz+aZeiYVrw+TLG0Lz7A6QNBzF5WlQgL1pJQWpIepUCuhyu/X L7c=
+dothqevdi015vg.dot.gov.	900	IN	NSEC	DOTHQEVDI016VG.dot.gov. A RRSIG NSEC
+dothqevdi015vg.dot.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. hnmMnRLD/YkBHIarXdFhEi9gFogprCfkUYy2kGwL1clLPV7OPGzDjWu6 +flUA7Ljq75gmogkAltm/1A07zSY9iYMamDrqLbePMKDg6m92dIdjxvp Whz7WXmbvzYbSetBLuTGgarKA6iW4H8RPJ+B5wGF5pwkBEGjLPO9is1g /QE=
+
+

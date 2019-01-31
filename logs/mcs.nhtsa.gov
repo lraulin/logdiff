@@ -1,0 +1,10 @@
+
+
+;mcs.nhtsa.gov.			IN	ANY
+
+mcs.nhtsa.gov.		900	IN	NSEC	mcsdev.nhtsa.gov. A RRSIG NSEC
+mcs.nhtsa.gov.		900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. P3JZZ/EPDg/WBs1tmnHksBOAiOdy6D8/q45DblOu89lqGlFz6M5eqMZ+ NANI530cPPO08yh5fzQizqlEBpjnUFXbdFKSbF14n1A3XmG1w7pA74l5 iAl4Iy7PNG6ktrdeEZ/FuLGK7Z9KGAcguulWUwAhombfPTrfm+e5LCUB mCM=
+mcs.nhtsa.gov.		3600	IN	A	204.68.194.245
+mcs.nhtsa.gov.		3600	IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 5286 nhtsa.gov. TmTikxcjhz0iPmStN1wSKpCXZcsf7kVWlmArZUFjtjsLH0vw4I4Kz4/3 F+ofkVseFeu+SrfmmcOD/+qtDXJH498bqz1j4PuXmVKgLK81DQBhJZ2p kSGeuVGGoDH7lPPj7DmgUaimVoLnmuP0tdGjAPq2SSGn7frXqXW7iaJ3 sE4=
+
+

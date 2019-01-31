@@ -1,0 +1,8 @@
+
+
+;transportation.gov.		IN	ANY
+
+transportation.gov.	2114	IN	RRSIG	A 8 2 3600 20190726230000 20190109010000 42633 transportation.gov. V0vgEACoKBuQH9zYWPLqB/YvHiCtTddUiaEzqhLaADj9gdWTDRYRR0tD wkBIx3pjuBd7Pf6rbBbo4a9AkHvViIKkSKcJlwST3/U0LqNDH6o7aKZr FU2djhnXWyZsUfoIZqF4WU0tw5hvUS0b+1fxynPjblWKbfCA4TdntFu0 puw=
+transportation.gov.	2114	IN	A	204.68.196.12
+
+

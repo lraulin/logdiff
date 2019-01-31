@@ -1,0 +1,8 @@
+
+
+;ntl.bts.gov.			IN	ANY
+
+ntl.bts.gov.		450	IN	RRSIG	CNAME 8 3 600 20190726230000 20190109010000 45363 bts.gov. h6Fpq7/VC5OTD7U+I40vuv6WA5Yqi0RKcZI6i1p42YKM4nlIFs87jJQx CSWBrYn7IUUacQOXkQ1gqdkE32UGnfVwtKXXcP1njdnd/yN/7eE98wKm dS19t2UmEkzgSw6aF25QN4iz1fNa7zDJp5E6GBl7oNCuntf/r2uaLAy7 /cc=
+ntl.bts.gov.		450	IN	CNAME	www.bts.dot.gov.edgekey.net.
+
+

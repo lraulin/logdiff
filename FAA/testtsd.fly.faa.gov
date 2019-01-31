@@ -1,0 +1,10 @@
+
+
+;testtsd.fly.faa.gov.		IN	ANY
+
+testtsd.fly.faa.gov.	3600	IN	NSEC	tsd.fly.faa.gov. CNAME RRSIG NSEC
+testtsd.fly.faa.gov.	3600	IN	RRSIG	NSEC 8 4 3600 20190203093700 20190124090054 49546 fly.faa.gov. Bg5XOh05dAO+lkH9jRnjOg+znDNNZkUyE39QN52KOxnIiiNQ54hxfJYp dyIC4yWgysYR7VWjs0EVeBaHDGa5MHCIrbwPItn/Xs15oOVcNQODOU5V RfE4tnfKYE9/G6SSqccFy7GT5npbYmiP9CwyQasvuvKKvdODM6+LgnxU tQ6VGTjqgciUMdjGJsSIO+MPA1HaSkM2az4Dpi7balPhZx9sS8oozu3h qoIT7F/OBroEoQmW25NAf1w6ghdpVkrjz7jQLPycqDr6EfXhp0VCelvi 7ksp5x27Ni020qWZGMdfW0fCyOk+Y2hFjBcOQMyUSMfUXTTIXY2qDrm4 0v4Ajg==
+testtsd.fly.faa.gov.	900	IN	CNAME	testtsd.fly.faa.gov.edgekey.net.
+testtsd.fly.faa.gov.	900	IN	RRSIG	CNAME 8 4 900 20190203093700 20190124090054 49546 fly.faa.gov. qoOqddzXufYY6llh25Bi85K+2SLDR194/8SsRg9Xkx6w9JFpJwg/+4vr zCoUcAkThJoMg7DO06wXuFKH50/3vAxSMfLfmV3YRYWcTZXiwMBfKrO6 dqQJ48N1q0wARW24ZPPjj8CQjAE+1ag7Gf7rpcPvLXKnPaoJBI4yU9dl Ok5to6yQrHPiJdaLwhXN8wwNh0tT+NYChKuADUsWLlsg1Das70Objsp8 cvYOhL+JWQuHwLdl8fAKe5WYP1nEoM3zu0LdQ618E/jpVZfsNq6VkVq1 HGw0olnaqbVyvepEMGTP1HJ0B33O2wv/vtNrLBlCSJA0ckqledluu2Hf JEw1Xw==
+
+

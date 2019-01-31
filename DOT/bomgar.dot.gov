@@ -1,0 +1,10 @@
+
+
+;bomgar.dot.gov.			IN	ANY
+
+bomgar.dot.gov.		3600	IN	A	204.68.194.42
+bomgar.dot.gov.		3600	IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 61893 dot.gov. rrdNdpxrEEhD18232Ema6iEA9eSk6eyPbxRbfXx/XQwV8PH2WtyQWXfm muwjxytxN+IogAk9vpf+OFR61UHyIKV9XfNLoRLE8AMh4T4rwUJWuXUB F6YRAkocfhww8cgnaXqGNnWZWEs7R4pBTVA2cL/WriDy+DZ5NUV06zpC nac=
+bomgar.dot.gov.		900	IN	NSEC	bomgar-ap.dot.gov. A RRSIG NSEC
+bomgar.dot.gov.		900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. TJXLdPfWfp7LXByEA2sZ0tfq2i3E8xap0GhVmn4pYuzWi4Wu1pR7xvXf pmfn5qRM3oozd9AbJbVJ5rDMgtIKwjEl3k8swQFlkbGxn5C8ylXgp+iK 2vvqhfI6tkFPhkpltwoiufHzXAyN/mxAiLRlhC+5X6uM1Hp778VUbnAv 60I=
+
+

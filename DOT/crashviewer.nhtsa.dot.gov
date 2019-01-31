@@ -1,0 +1,7 @@
+
+
+;crashviewer.nhtsa.dot.gov.	IN	ANY
+
+crashviewer.nhtsa.dot.gov. 3600	IN	CNAME	vPic.nhtsa.dot.gov.
+
+

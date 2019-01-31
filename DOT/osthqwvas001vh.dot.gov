@@ -1,0 +1,10 @@
+
+
+;osthqwvas001vh.dot.gov.		IN	ANY
+
+osthqwvas001vh.dot.gov.	900	IN	NSEC	osthsalbe001-dmz.dot.gov. A RRSIG NSEC
+osthqwvas001vh.dot.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 61893 dot.gov. trHRWD/1nY/dy7UvnZKXIXAmm2bF1/8tXpwpcPT2C0ixyJC8iVPSXkNl aUtsj5ibVAiMhQKoj/nOFtmARTmGpIKAdo6j6BiTbp43JrW5EyhbqdR+ Vx8bu/nZUxyEgrKML5ZhMT5yUCDq0014Hm35BgB7v/40pCTZoKiLlbKL ZjY=
+osthqwvas001vh.dot.gov.	3600	IN	A	204.68.194.178
+osthqwvas001vh.dot.gov.	3600	IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 61893 dot.gov. YOn9XQqL497+wFWPPtu33WRBexgIicpPZSs8SiqGHb51iQR0jTgj2Qz5 T8EMcmRRr9bbefqVYpegfPCY+YS8Rstj/VK9gyCqkcwmCfhjAqBGhC41 D3YHR+2gBjmSpMnQ4UD3EeSADh3yC0qe501U/xealFbKNKXoEHAWJFac vzw=
+
+

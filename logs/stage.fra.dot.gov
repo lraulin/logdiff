@@ -1,0 +1,7 @@
+
+
+;stage.fra.dot.gov.		IN	ANY
+
+stage.fra.dot.gov.	1500	IN	CNAME	fra-global.fra.dot.gov.
+
+

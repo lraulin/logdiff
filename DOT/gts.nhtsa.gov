@@ -1,0 +1,10 @@
+
+
+;gts.nhtsa.gov.			IN	ANY
+
+gts.nhtsa.gov.		900	IN	NSEC	gtsdatabase.nhtsa.gov. A RRSIG NSEC
+gts.nhtsa.gov.		900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. NHsVvQ2EtuuoNhkIuVENcmaV0Wj7dHHpGPJ1xCK80PnQ9cN8xERdrAt+ 7q8dgoadz4sTurCUUhqZjFV8wDYL3FTiYs3OnZ2ET+zh9u3VAQze6+gP 84FaNANolo4kfY7n/QiC4dHHTpvEduYYxh1+YCZKIoU9g0FBCNZueyi7 eQI=
+gts.nhtsa.gov.		3600	IN	A	204.68.194.153
+gts.nhtsa.gov.		3600	IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 5286 nhtsa.gov. ohji4Q/aLbhbscR1qqzn7rJnV+xm/pv3dFlzzH7WErdX3E8lNdoBWlVv eZ6V41S3EznE5sriueWdr0jMS+EMKErlxtHjM1wvyj/u+XQMQef2zrAr Mmba19bs0n2CegLdXOA+BY7vKPG4IPzP5utHjaHVnDrMQjwQJlFge249 ZFs=
+
+

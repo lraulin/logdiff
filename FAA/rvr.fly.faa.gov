@@ -1,0 +1,10 @@
+
+
+;rvr.fly.faa.gov.		IN	ANY
+
+rvr.fly.faa.gov.	3600	IN	NSEC	staging.fly.faa.gov. CNAME RRSIG NSEC
+rvr.fly.faa.gov.	3600	IN	RRSIG	NSEC 8 4 3600 20190203094753 20190124090054 49546 fly.faa.gov. PeCpXYEl900BLoig+XrNTPauMbhyfza5NebhTc8Rn0d4GUUG16PAhBpN e6mRZfSiGJAE/Zoqqe7TopFXoaQsV9ERwxdcg/1/saTSeucNvFp6iar5 SkTRlyUc22Ofg7U0JbOpnbbxRlcJlPUl2EljVPgG/t9jlAmbnanwIfiw cHHyLuY/PuLzu+93WRLs0EIPSJxLwLQAUkbKJ538Y7qq7soZJXpx2XOO OT++JeYeDeX6fsJYBnyw2Iz5pr4iuGT84zv3UPUj5lH2jPQDqn3tMnms qFkGu/b34qS+FsAVx1AsVlrkB8l+70OqH2VeI6lcsnalr7YY/Mr62v/2 U6UbmA==
+rvr.fly.faa.gov.	900	IN	CNAME	rvr.fly.faa.gov.edgekey.net.
+rvr.fly.faa.gov.	900	IN	RRSIG	CNAME 8 4 900 20190203094753 20190124090054 49546 fly.faa.gov. q1F0718yXbw1vS+EL2CpUzr1ErVmR+J1TNWdFPFhp+FVaE9KZ0qTPQ7h vDuE7u4jvubdUsKYgSDBrbikRWOewjkIoIyIytQhkVuUzHH0pWuh2O4+ mopN4NIUQaxJ6uAJMUKb0R76Q+gXB7dTod6LCA04968GOOI6YCAy5RYm BSO3zgFlX1V2+rQKQLX+dLFrvck0pl+u2ysY1uZLDR7joiz7oDxujmb0 70qc1RFZqyYkfOdyuK0GRFYyJ1A9R5XiWLyb6xlGGdOnK2s6CetlGrld BKTlNvcewp8Otmrnhv2Ui4Jyw9zSP0OyxBvOzaddjJF2qxFpKRispYob FE3wiQ==
+
+

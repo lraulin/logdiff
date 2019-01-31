@@ -1,0 +1,15 @@
+
+
+;phmsa.dot.gov.			IN	ANY
+
+phmsa.dot.gov.		86400	IN	SOA	mdns1.dot.gov. hostmaster.dot.gov. 2010413721 21600 3600 604800 86400
+phmsa.dot.gov.		86400	IN	NS	idns3.dot.gov.
+phmsa.dot.gov.		86400	IN	NS	dotazwdns002vg.ad.dot.gov.
+phmsa.dot.gov.		86400	IN	NS	dotazedns002vg.ad.dot.gov.
+phmsa.dot.gov.		86400	IN	NS	idns4.dot.gov.
+phmsa.dot.gov.		86400	IN	NS	idns2.dot.gov.
+phmsa.dot.gov.		86400	IN	NS	idns1.dot.gov.
+phmsa.dot.gov.		300	IN	MX	10 SMTP08.dot.gov.
+phmsa.dot.gov.		300	IN	MX	10 SMTP10.dot.gov.
+
+

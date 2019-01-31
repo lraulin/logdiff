@@ -1,0 +1,8 @@
+
+
+;hazmatgrants.phmsa.dot.gov.	IN	ANY
+
+hazmatgrants.phmsa.dot.gov. 3600 IN	AAAA	2001:19e8:d:0:204:68:194:187
+hazmatgrants.phmsa.dot.gov. 3600 IN	A	204.68.194.187
+
+

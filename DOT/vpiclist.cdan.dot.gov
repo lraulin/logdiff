@@ -1,0 +1,7 @@
+
+
+;vpiclist.cdan.dot.gov.		IN	ANY
+
+vpiclist.cdan.dot.gov.	300	IN	CNAME	EDTservice.cdan.dot.gov.
+
+

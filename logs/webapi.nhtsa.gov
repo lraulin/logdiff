@@ -1,0 +1,10 @@
+
+
+;webapi.nhtsa.gov.		IN	ANY
+
+webapi.nhtsa.gov.	3600	IN	A	204.68.194.196
+webapi.nhtsa.gov.	3600	IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 5286 nhtsa.gov. PaUeydEXAvi3aIYV0BxKHJMLLjnnA27LEEq0qF8F2jG8xU+GS1G58YZT cwwuAKZVVhcNOwYIiLcSdkIdzX8JhBPteTKpYf1aJqDEo0HC2iLAN54u L/daDb0/OV+3n2ihspR7tASWVQwixSCD/smFMWsPI9cwsiJbP6DU3tou xnI=
+webapi.nhtsa.gov.	900	IN	NSEC	webcast.nhtsa.gov. A RRSIG NSEC
+webapi.nhtsa.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. o/078ktQM2miPgBMSsxot6o04h0hdLgwj5yejWCa26lYUjH1kicRn03x CCgsiadN4hiN6UKWTnCcHQz2SZIZQwW4zPnnc2GXCsIycp1fWfq3HRQW DiGpOOhLgI9X+HZ+o+bWqIE+lb8EBEAeFaS8rlHl+dmy1v/Acg61nZHm th8=
+
+
