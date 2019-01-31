@@ -1,0 +1,7 @@
+
+
+;xml-dr.notams.faa.gov.		IN	ANY
+
+notams.faa.gov.		156	IN	SOA	faa-ms-dc12.faa.gov. 7-awa-naimes.faa.gov. 2011081086 10800 3600 604800 300
+
+

@@ -2,6 +2,6 @@
 
 ;psp.fmcsa.dot.gov.		IN	ANY
 
-fmcsa.dot.gov.		60	IN	SOA	fmcbwiwdc01v.fmcsa.dot.gov. admin.fmcsa.dot.gov. 3154965 43200 600 86400 60
+fmcsa.dot.gov.		60	IN	SOA	fmcsanwdc02v.fmcsa.dot.gov. admin.fmcsa.dot.gov. 3154973 43200 600 86400 60
 
 

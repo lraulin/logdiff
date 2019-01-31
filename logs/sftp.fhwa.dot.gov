@@ -2,6 +2,6 @@
 
 ;sftp.fhwa.dot.gov.		IN	ANY
 
-sftp.fhwa.dot.gov.	4094	IN	CNAME	fhw1xavwfsp04.fhwa.dot.gov.
+sftp.fhwa.dot.gov.	76709	IN	CNAME	fhw1xavwfsp04.fhwa.dot.gov.
 
 

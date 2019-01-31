@@ -2,6 +2,6 @@
 
 ;highways.fhwa.dot.gov.		IN	ANY
 
-highways.fhwa.dot.gov.	900	IN	CNAME	www.fhwa.dot.gov.edgekey.net.
+highways.fhwa.dot.gov.	382	IN	CNAME	www.fhwa.dot.gov.edgekey.net.
 
 

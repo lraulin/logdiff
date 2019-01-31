@@ -1,0 +1,7 @@
+
+
+;nstb.tc.faa.gov.		IN	ANY
+
+tc.faa.gov.		9257	IN	SOA	faa-al-dc00.faa.gov. nsc.faa.gov. 2006286500 10800 1800 604800 900
+
+

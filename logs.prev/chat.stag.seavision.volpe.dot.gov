@@ -1,0 +1,7 @@
+
+
+;chat.stag.seavision.volpe.dot.gov. IN	ANY
+
+chat.stag.seavision.volpe.dot.gov. 3600	IN CNAME sv2-stag-chat-external-web-elb-1667618461.us-east-1.elb.amazonaws.com.
+
+

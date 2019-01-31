@@ -2,12 +2,12 @@
 
 ;fmcsa.dot.gov.			IN	ANY
 
-fmcsa.dot.gov.		329	IN	A	169.135.90.10
-fmcsa.dot.gov.		329	IN	A	169.135.214.50
-fmcsa.dot.gov.		329	IN	A	172.29.130.241
-fmcsa.dot.gov.		329	IN	A	172.29.130.242
-fmcsa.dot.gov.		329	IN	A	172.26.95.220
-fmcsa.dot.gov.		329	IN	A	169.135.53.43
-fmcsa.dot.gov.		329	IN	A	169.135.90.97
+fmcsa.dot.gov.		352	IN	A	172.29.130.241
+fmcsa.dot.gov.		352	IN	A	169.135.214.50
+fmcsa.dot.gov.		352	IN	A	169.135.53.43
+fmcsa.dot.gov.		352	IN	A	172.29.130.242
+fmcsa.dot.gov.		352	IN	A	172.26.95.220
+fmcsa.dot.gov.		352	IN	A	169.135.90.10
+fmcsa.dot.gov.		352	IN	A	169.135.90.97
 
 

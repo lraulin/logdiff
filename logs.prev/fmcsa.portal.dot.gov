@@ -1,0 +1,7 @@
+
+
+;fmcsa.portal.dot.gov.		IN	ANY
+
+fmcsa.portal.dot.gov.	3600	IN	CNAME	www.portal.dot.gov.edgekey.net.
+
+

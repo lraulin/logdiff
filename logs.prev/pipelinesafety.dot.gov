@@ -1,0 +1,7 @@
+
+
+;pipelinesafety.dot.gov.		IN	ANY
+
+pipelinesafety.dot.gov.	3600	IN	CNAME	www.phmsa.dot.gov.edgekey.net.
+
+

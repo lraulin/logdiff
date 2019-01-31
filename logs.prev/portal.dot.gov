@@ -1,0 +1,7 @@
+
+
+;portal.dot.gov.			IN	ANY
+
+portal.dot.gov.		54000	IN	CNAME	www.portal.dot.gov.edgekey.net.
+
+

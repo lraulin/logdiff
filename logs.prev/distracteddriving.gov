@@ -1,0 +1,23 @@
+
+
+;distracteddriving.gov.		IN	ANY
+
+distracteddriving.gov.	2081	IN	NS	edns1.dot.gov.
+distracteddriving.gov.	2081	IN	NS	edns3.dot.gov.
+distracteddriving.gov.	2081	IN	NS	edns2.dot.gov.
+distracteddriving.gov.	2081	IN	DS	20974 8 2 A58C4E058946AA28C9D5C034C8E3371257F777D09B663129F389B9C8 D26DEFD8
+distracteddriving.gov.	2081	IN	DS	20974 8 1 A4657EDB0D35DB428ECCF3470E4CC4B54EF7DA73
+distracteddriving.gov.	2081	IN	RRSIG	DS 8 2 3600 20190207161007 20190131161007 28157 gov. fq7+SAI8znFcbIxvXH3/clgLhFGQhcRQ6ccBeA9q4puCwU17sWDQJPUj CeWgdautvtr8anelnlY41gv7gVxumxvz+dqTXYiAe2sS6AANElZ9jaFz ycbRpbnZqxPa2k2umL3rQ1VAL6bil8cNM8hXtTGAoYloV4HKfoBlwDCi Clk=
+distracteddriving.gov.	2081	IN	SOA	edns1.dot.gov. hostmaster.dot.gov. 2010120144 3600 1200 604800 900
+distracteddriving.gov.	2081	IN	RRSIG	SOA 8 2 3600 20190726230000 20190109010000 11571 distracteddriving.gov. t4dAj3F9S/xzQ7FEewiMhUZgAnF/arIsGOtMCwJ6UPFXQVWI5q3ANlwD 1lV9ziGtF/JUNX5e3ByFeeaMekoG3zzJrF6dhnNkNRN8paxC20XSRkQf QuB4/6IYYa7Sw9livmJ1RsoqWl/Ualj2rqCKDYbmfjGrOBTK2o1XwwyR wNg=
+distracteddriving.gov.	2081	IN	RRSIG	NS 8 2 3600 20190726230000 20190109010000 11571 distracteddriving.gov. 2c/Lf442xJpPlWudiRNq6F36vIGrxM3DnWHKiu1E2Hw6+Nup/9SAqitT O6HG3EG/YepcylW6Lf0sJQh22UHx9K/XTZniBbSI6tvYmmBMdC1+ktMW jZH2hW8Z6weh3mhFEqNzcLT1Bh10c/9LF8EB5Yuj8O1Hf8StIgof+AJX VDs=
+distracteddriving.gov.	3281	IN	A	204.68.194.196
+distracteddriving.gov.	3281	IN	RRSIG	A 8 2 4800 20190726230000 20190109010000 11571 distracteddriving.gov. 01+cbhyia5079ja3qO7rrucq4Jqk8S45MKWA9FHpmXKkvoRye2wmM2tf POn0YwV6eagObf2aH2AI9js2vUDp6cSl8v7tkfmkNByTmhaQdxymLp1Z qE3hDWXsfuPEtAhae+piZgUqhVn1YXWpykkHtZP/Ir4Jd5oVEs9JshNb OKs=
+distracteddriving.gov.	2081	IN	TXT	"v=spf1 -all"
+distracteddriving.gov.	2081	IN	RRSIG	TXT 8 2 3600 20190726230000 20190109010000 11571 distracteddriving.gov. oxPzQ7ul+yphaGyNx7WMdor3K2FTW89oY6RCw4vfru0mCnzLO7ojfOvI +REbDpz+ZKqAzYbYEfrTL68KCvi3vcKnT8MCwou/cGk8Vg2NYEZjrsJf rqcsV0ABhnFBAnVcFmbZVHc56rAh2DhEYMO5XMy+A9mlTlAe/3mNJqT4 sRk=
+distracteddriving.gov.	2081	IN	DNSKEY	257 3 8 AwEAActhXHkbTAIvzxtjE7rNzWcjcvyVtbjlgnYpjVJu99amKlOCvcng XahdOpEFtPaFFqrAXrUZ+d7GmglbUfh/aQKx8Hux3+cECs6cgKl01+PC Kzv2CBPrZnzpQw4hh1p21a78Ejas1MS9lwLK/vSUTdFhdm5DiOQx/fMZ csMkkHxGUp4kB36jeutfeJ4JWWHFzC3fh2eGPw/HjxY0CYeqauMCBO4J y8aHxKtllEmQT8TWa/d7HoPQv7HSIlQ5qB3gsTQiyAGtRp9Me62fs2VH W2xnazcp2Cgt+mLNTDHR42CTHX7lyJR079jbiuLyHtZz/kMNy6yJufzp yhn0kSgi/X8=
+distracteddriving.gov.	2081	IN	DNSKEY	256 3 8 AwEAAeOE0LZdMtgJ2c+OTepe3c//2EUD4Ftg0CITRgU1N2Tcb6KPJLJQ jmq3z4AJKj/9lo/QMUQjhAMFBLXodM3KVIkWfMGQ8rgOf1qwLSS6+29E GzWhdCqBCQmxJ6KjaQH7Rw9Xyot0Yy51U2jCXKeV5dxSh4GO1dg54p7J u2al9LZX
+distracteddriving.gov.	2081	IN	RRSIG	DNSKEY 8 2 3600 20190726230000 20190109010000 11571 distracteddriving.gov. IIUvwk6QvcQRlR3Dewe/+SEma2odjpWs6WflzmpUIgTo8qpERt4VsWBl 5OQe/qNBBPvtzvPOxnli2/U8qV+hN0amnn5cA3nz1s/jE/hhsd6fRL2f mY+OfNy3xw+UEkPm2THHq++O9GEbILVLJEgRwtC9bIlqFGIovMgwK4we vz4=
+distracteddriving.gov.	2081	IN	RRSIG	DNSKEY 8 2 3600 20190726230000 20190109010000 20974 distracteddriving.gov. sZMPcp8Ezq8027ym7nSfVhpigk8maD5EaVgrMNE4etqd5e1GX1dS3rM/ x+NrUoM+r7YVz5zjjPVX5T8W4M0d1UxClmh6HEowCOGwqBqCbH2AK7bU V0XZ/VCFILwnZR0N2T8DWmWQDCzDcId0j7RdyPdFX9v2loenqpUzQSwk ixPux+N9zaXiLzuRd4/7FErGXWRq3UvTR4NY4aMs5iY9q3hA97WSl02J anwmRpC5Hn44A69dcoD1FGWwWWg3luchchsvwk5oU/1QFs1t2T0uRZBS f8Yv7wNYaBVMKWxDilZ6nnBAD4J1GxOCEb9JGr7Agssq7D8gEY/R1qQ3 Nl6ecw==
+
+

@@ -1,0 +1,9 @@
+
+
+;escsupportservice.esc.gov.	IN	ANY
+
+escsupportservice.esc.gov. 73049 IN	A	162.58.38.46
+escsupportservice.esc.gov. 73049 IN	RRSIG	A 8 3 86400 20190209102459 20190130132423 62184 esc.gov. StM9XFs6wMK2dXukhuAxRoSIvdkV6d42FyUMhHXFXz9ELAc5DQZTcbEm BsmcNV0/cC/SrG8u6OCs3sf/ce0C1fo0ahyweZKWH+vo8In04DCcKjRP xauUy//2G+0o0DaoZUzdy8KDWbC/0UwkcyH+DwO+FJl3JzPZIztcZGSR HQs=
+escsupportservice.esc.gov. 73049 IN	RRSIG	A 8 3 86400 20190214205026 20190130132425 54276 esc.gov. KJt0DPkYDuzahzhZc++QtOD9qZXURnMh5K41t/eX9i9XPUYOdku4+w1Y xnpq+X1t7eMMpUnfmF0ggMjyrmFqdIAyQVqTo/knOxdl40VRyejV3Ryk +wGgwU5Xu/jF30frCjnVyTy+dgab3/t/Os2uzitcm0LzTTVm0PmV5186 Ikw=
+
+

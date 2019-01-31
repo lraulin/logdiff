@@ -1,0 +1,7 @@
+
+
+;cms.phmsa.dot.gov.		IN	ANY
+
+cms.phmsa.dot.gov.	86400	IN	CNAME	admin.dot.gov.edgekey.net.
+
+

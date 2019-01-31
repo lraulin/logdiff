@@ -2,9 +2,7 @@
 
 ;dredata.nhtsa.gov.		IN	ANY
 
-dredata.nhtsa.gov.	300	IN	CNAME	dredata.nhtsa.gov.edgekey.net.
-dredata.nhtsa.gov.	300	IN	RRSIG	CNAME 8 3 300 20190726230000 20190109010000 5286 nhtsa.gov. gtjuo/tr1p1PUZOnQe2jC9GsrztpFe2/x21v6+2JOVxDEfoBmN6cyfVi rGDttyXLzOwsuQrDwe4LHpVuqT91sVA+CTVbrrgLsFylbyvZAMx50B5v ar+jAYR3fQz7fmBqAfAp/sQh8Gp2ZI2YP2dqiroWIwLtcemGY3mqxsWp Suo=
-dredata.nhtsa.gov.	900	IN	NSEC	drivesober.nhtsa.gov. CNAME RRSIG NSEC
-dredata.nhtsa.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. qzXWxCD1FlwT6wIWbAnFtzBjdTiTzgES1AOahaVtEor4yQmY7xTSFKzu wgsdPzUpR3zA+YCyV1+67kpMwLF46deHRQhPUeD9L4x1xH/FK888sNH8 Jg1bzdZLp8Lv4tJcXxmcDPDf+R4WXVvX9ysnkBimvf6Dfr2Vc7r0HYoq tz4=
+dredata.nhtsa.gov.	382	IN	NSEC	drivesober.nhtsa.gov. CNAME RRSIG NSEC
+dredata.nhtsa.gov.	382	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. qzXWxCD1FlwT6wIWbAnFtzBjdTiTzgES1AOahaVtEor4yQmY7xTSFKzu wgsdPzUpR3zA+YCyV1+67kpMwLF46deHRQhPUeD9L4x1xH/FK888sNH8 Jg1bzdZLp8Lv4tJcXxmcDPDf+R4WXVvX9ysnkBimvf6Dfr2Vc7r0HYoq tz4=
 
 

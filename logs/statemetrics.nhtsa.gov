@@ -2,9 +2,7 @@
 
 ;statemetrics.nhtsa.gov.		IN	ANY
 
-statemetrics.nhtsa.gov.	3600	IN	CNAME	statemetrics.azurewebsites.net.
-statemetrics.nhtsa.gov.	3600	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 5286 nhtsa.gov. sGzSd9JU2v68+w7XlX7FLWaxd+hkc11sOLopmqt3v8cf9/A6Ddrgm5eO iGLIHCUV+UmdtKSnGJUv8LkXXisV8dNrvxEXxvEjwLryDANZ1eQ1Lg+x bjXMASFnzTHR4wjh4baxIex8xrVjzzoA3Qsix8cFnZAwBSQoYhSQfMLC iFc=
-statemetrics.nhtsa.gov.	900	IN	NSEC	awverify.statemetrics.nhtsa.gov. CNAME RRSIG NSEC
-statemetrics.nhtsa.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. hlieXU5FebYOVmO3rZA7iZ83/asfrkSr6eH+b5go8rrX8TWeYYCrlzLy Ig7CDtUWhTxMegE1dRKyh63ibw8C9Knon7x5VI28qtcUZ+u+8kd59RxE TDVINLUld/3TGBzIvgX8NqIfiPm0IEDW8Hzfgq1Te5Jnha5O7SFGGcQC FpU=
+statemetrics.nhtsa.gov.	1786	IN	CNAME	statemetrics.azurewebsites.net.
+statemetrics.nhtsa.gov.	1786	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 5286 nhtsa.gov. sGzSd9JU2v68+w7XlX7FLWaxd+hkc11sOLopmqt3v8cf9/A6Ddrgm5eO iGLIHCUV+UmdtKSnGJUv8LkXXisV8dNrvxEXxvEjwLryDANZ1eQ1Lg+x bjXMASFnzTHR4wjh4baxIex8xrVjzzoA3Qsix8cFnZAwBSQoYhSQfMLC iFc=
 
 

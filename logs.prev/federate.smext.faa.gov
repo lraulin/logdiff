@@ -1,0 +1,8 @@
+
+
+;federate.smext.faa.gov.		IN	ANY
+
+federate.smext.faa.gov.	19	IN	RRSIG	A 8 4 30 20190206232230 20190130232230 18693 smext.faa.gov. RLfniizbFil6kNCNa+M5SQdDcp1ge+k2N3f8W5RI7zoUIqx62Y22XAYI rkbJ+CYt0itEzAQSR5ZeNM74351EntH118wKbodXxZM6V2BjtV1cBtr/ UfMScUQLQiT866hKDWPTFn0FX7ZAFk8g5Gb4HUuf43QECgYd3FXIYszX Rw4o3fN7b5FaaKB/C94OCVmH3Wu3JC5ruVrFhNwSCOOF3eoXWmlUNjL0 SM+IwlUTfa9aCWZ6ysbp1bioxIHTrXZSCQp67GSBd6VxlwYeicaxW2yF +ip3KdpyvhZnm+0Bf7cI8rrGMxtmjj4eYKnP7xtEjkrk6ssfCHSa8o4/ q8Cl4g==
+federate.smext.faa.gov.	19	IN	A	155.178.203.41
+
+

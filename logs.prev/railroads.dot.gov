@@ -1,0 +1,7 @@
+
+
+;railroads.dot.gov.		IN	ANY
+
+railroads.dot.gov.	3600	IN	CNAME	www.fra.dot.gov.edgekey.net.
+
+

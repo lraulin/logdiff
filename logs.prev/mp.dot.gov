@@ -1,0 +1,7 @@
+
+
+;mp.dot.gov.			IN	ANY
+
+mp.dot.gov.		3600	IN	CNAME	DOTDMZWAS018VG.ext.dot.gov.
+
+

@@ -2,12 +2,12 @@
 
 ;seaway.dot.gov.			IN	ANY
 
-seaway.dot.gov.		86400	IN	SOA	mdns1.dot.gov. hostmaster.dot.gov. 2010410674 21600 3600 604800 86400
-seaway.dot.gov.		86400	IN	NS	idns2.dot.gov.
-seaway.dot.gov.		86400	IN	NS	dotazedns002vg.ad.dot.gov.
-seaway.dot.gov.		86400	IN	NS	idns3.dot.gov.
-seaway.dot.gov.		86400	IN	NS	idns1.dot.gov.
-seaway.dot.gov.		86400	IN	NS	dotazwdns002vg.ad.dot.gov.
+seaway.dot.gov.		86400	IN	SOA	mdns1.dot.gov. hostmaster.dot.gov. 2010410706 21600 3600 604800 86400
 seaway.dot.gov.		86400	IN	NS	idns4.dot.gov.
+seaway.dot.gov.		86400	IN	NS	idns3.dot.gov.
+seaway.dot.gov.		86400	IN	NS	dotazedns002vg.ad.dot.gov.
+seaway.dot.gov.		86400	IN	NS	dotazwdns002vg.ad.dot.gov.
+seaway.dot.gov.		86400	IN	NS	idns2.dot.gov.
+seaway.dot.gov.		86400	IN	NS	idns1.dot.gov.
 
 

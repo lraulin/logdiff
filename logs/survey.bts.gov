@@ -2,9 +2,7 @@
 
 ;survey.bts.gov.			IN	ANY
 
-survey.bts.gov.		3600	IN	A	199.79.178.200
-survey.bts.gov.		3600	IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 45363 bts.gov. TODgTbd8qjIRWjNr0KqyJoxd1LkfKPsVtSGW+idqtluJtL/zafnJ/Y+O efgrmoi1U1OHrlRY4gxqj83REt3JJCZ3PRSf0lpFTCbyqMIBYZn24805 0Qlu0VnfLRjKIWk4Sc5e+6VbjbzAplARBAlzHS3mssKGvz+rd5c4nYpl /bg=
-survey.bts.gov.		900	IN	NSEC	www.survey.bts.gov. A RRSIG NSEC
-survey.bts.gov.		900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 45363 bts.gov. SCZi5/3+X4WM7sMoI+FvDPwwNuAh7f7MtDWDoU7MCA4QcJJeTkeD3avT cWmM8y+OAzoSlppXOc/2cpKlrIHDuMBnPXLMnHjasgob3vju4VyYIVOH oxts3cAf4SQpajhVB6NxXlfzqDo3plyhEpDqdBGHcEYlAg0iYacYSsXy Z5I=
+survey.bts.gov.		1788	IN	A	199.79.178.200
+survey.bts.gov.		1788	IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 45363 bts.gov. TODgTbd8qjIRWjNr0KqyJoxd1LkfKPsVtSGW+idqtluJtL/zafnJ/Y+O efgrmoi1U1OHrlRY4gxqj83REt3JJCZ3PRSf0lpFTCbyqMIBYZn24805 0Qlu0VnfLRjKIWk4Sc5e+6VbjbzAplARBAlzHS3mssKGvz+rd5c4nYpl /bg=
 
 

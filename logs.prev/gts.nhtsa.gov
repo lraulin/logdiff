@@ -1,0 +1,8 @@
+
+
+;gts.nhtsa.gov.			IN	ANY
+
+gts.nhtsa.gov.		3256	IN	RRSIG	A 8 3 3600 20190726230000 20190109010000 5286 nhtsa.gov. ohji4Q/aLbhbscR1qqzn7rJnV+xm/pv3dFlzzH7WErdX3E8lNdoBWlVv eZ6V41S3EznE5sriueWdr0jMS+EMKErlxtHjM1wvyj/u+XQMQef2zrAr Mmba19bs0n2CegLdXOA+BY7vKPG4IPzP5utHjaHVnDrMQjwQJlFge249 ZFs=
+gts.nhtsa.gov.		3256	IN	A	204.68.194.153
+
+

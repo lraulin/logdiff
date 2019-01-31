@@ -1,0 +1,10 @@
+
+
+;api.nhtsa.gov.			IN	ANY
+
+api.nhtsa.gov.		764	IN	NSEC	api-backend.nhtsa.gov. CNAME RRSIG NSEC
+api.nhtsa.gov.		764	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. KlmA6CKboY9dpM5Tm63CcGSE7WVojJHMunA3kXN62Wk6m5zDQ8X35U6A 1btHjWSsq621V8MUmMp+3cziYJebPoW9rS+qLfIAw+/IOG6oEeviz9J1 EH3Lea+I/+DjyUsdG91qChiBaEqOvlxrDBjRUMTT8/4KNY3UxLUZGiZy BVo=
+api.nhtsa.gov.		3464	IN	CNAME	d2bgzzm2bkb8ja.cloudfront.net.
+api.nhtsa.gov.		3464	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 5286 nhtsa.gov. eTxDaDRNbAgRTkBxm5dQBbefqKvMTRcQMOwfh7b6uXAYM/h4bLMOeMJr Zd2EXw/7mkbiVQ5jhM4Xg5OvjDgM6Oot5in28C8XKkESf+aKIv4Xj+++ KIyqycZsWf2ryoeOBmdCMbcxqUjshwvdL68ZysrRfyTp2/lzfPn2WPCY sOw=
+
+

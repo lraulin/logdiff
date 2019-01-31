@@ -1,0 +1,11 @@
+
+
+;dotideahub.gov.			IN	ANY
+
+dotideahub.gov.		4549	IN	A	155.178.201.128
+dotideahub.gov.		497	IN	NS	imns4.faa.gov.
+dotideahub.gov.		497	IN	NS	imns2.faa.gov.
+dotideahub.gov.		497	IN	NS	merlin.faa.gov.
+dotideahub.gov.		497	IN	NS	imns1.faa.gov.
+
+

@@ -1,0 +1,7 @@
+
+
+;enterpriseregistration.faa.gov.	IN	ANY
+
+enterpriseregistration.faa.gov.	7200 IN	A	10.22.252.10
+
+

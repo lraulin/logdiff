@@ -2,18 +2,18 @@
 
 ;volpe.dot.gov.			IN	ANY
 
-volpe.dot.gov.		3600	IN	NS	vntsc67s01.rads.volpe.dot.gov.
-volpe.dot.gov.		3600	IN	NS	vntscexdc3.vntscex.local.
-volpe.dot.gov.		3600	IN	NS	idns1.dot.gov.
-volpe.dot.gov.		3600	IN	NS	vntsc67s02.rads.volpe.dot.gov.
-volpe.dot.gov.		3600	IN	NS	vntscexdc2.vntscex.local.
-volpe.dot.gov.		3600	IN	NS	ens2.volpe.dot.gov.
 volpe.dot.gov.		3600	IN	NS	ins1.volpe.dot.gov.
-volpe.dot.gov.		3600	IN	NS	idns2.dot.gov.
-volpe.dot.gov.		3600	IN	NS	ens1.volpe.dot.gov.
-volpe.dot.gov.		3600	IN	NS	vntscexdc1.vntscex.local.
-volpe.dot.gov.		3600	IN	NS	idns3.dot.gov.
 volpe.dot.gov.		3600	IN	NS	ins2.volpe.dot.gov.
+volpe.dot.gov.		3600	IN	NS	vntscexdc1.vntscex.local.
+volpe.dot.gov.		3600	IN	NS	vntscexdc3.vntscex.local.
+volpe.dot.gov.		3600	IN	NS	ens2.volpe.dot.gov.
+volpe.dot.gov.		3600	IN	NS	vntsc67s01.rads.volpe.dot.gov.
+volpe.dot.gov.		3600	IN	NS	vntsc67s02.rads.volpe.dot.gov.
+volpe.dot.gov.		3600	IN	NS	idns1.dot.gov.
+volpe.dot.gov.		3600	IN	NS	vntscexdc2.vntscex.local.
+volpe.dot.gov.		3600	IN	NS	ens1.volpe.dot.gov.
+volpe.dot.gov.		3600	IN	NS	idns2.dot.gov.
+volpe.dot.gov.		3600	IN	NS	idns3.dot.gov.
 volpe.dot.gov.		10800	IN	MX	10 relay.dot.gov.
 volpe.dot.gov.		3600	IN	TXT	"n2nevt5ujeiieca03e3g9gapib"
 volpe.dot.gov.		3600	IN	SOA	ins1.volpe.dot.gov. 9k_dns.volpe.dot.gov. 641108346 3600 900 3600000 900

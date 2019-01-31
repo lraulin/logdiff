@@ -2,6 +2,6 @@
 
 ;eebacs.fhwa.dot.gov.		IN	ANY
 
-eebacs.fhwa.dot.gov.	900	IN	CNAME	eebacs-264589463.us-east-1.elb.amazonaws.com.
+eebacs.fhwa.dot.gov.	117	IN	CNAME	eebacs-264589463.us-east-1.elb.amazonaws.com.
 
 

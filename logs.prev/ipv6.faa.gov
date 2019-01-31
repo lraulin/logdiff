@@ -1,0 +1,7 @@
+
+
+;ipv6.faa.gov.			IN	ANY
+
+ipv6.faa.gov.		900	IN	CNAME	ipv6.faa.gov.edgekey.net.
+
+

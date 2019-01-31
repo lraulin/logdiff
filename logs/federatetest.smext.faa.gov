@@ -2,7 +2,7 @@
 
 ;federatetest.smext.faa.gov.	IN	ANY
 
-federatetest.smext.faa.gov. 30	IN	RRSIG	A 8 4 30 20190203080510 20190127080510 18693 smext.faa.gov. HF+D+Av9DnSqhZiCFasVm/FNbWf4UV337Dyl0hMmeZr+C0WjtlOajU4z yPx6q+jCBue+r0N33myaKnWqEQz4BT9FKyZTEXSOne/qEaEad4VM+9Hs v38lyYxmpbl69pN+9+8PLw5J/y+B1hPPez47V8rIXPytpB7TZZWMgr9k t53lTTIMZyMrkCa7LBlzTwaLF4wSy0cWg3AzZe0CGLeT4+GyPTM1ydAc VzIE8rs9q5B3sWGqg8+K6PVraNyiSHhusPpAqnbWRx8Vf1HdVe5Lsbqv yV6YHs76VFV5zgaiVYU+w5s5igY/8xVQmPCEk08VKWZeaYxv3SQX9xIN +jJ9gQ==
-federatetest.smext.faa.gov. 30	IN	A	155.178.203.42
+federatetest.smext.faa.gov. 30	IN	RRSIG	A 8 4 30 20190204142720 20190128142720 18693 smext.faa.gov. wGxAIUKpx7gBGWwrfZ2stKW+3ij5X4Xi74TL254NhwEkRIVE5h8I4cMM 5zKevpsWVs6gjloXmk7K2vOFWk16hIaqBJTo7KYIAYlQvpKj9L1WxUUR hJRO51MWrwQU931+LjLEGXB4ExLzz+ndhaDYNTtEMY3iHkfRYhIAEE/1 hyu1w43i4VrCqR3chTB/n8h87qAaeJP9soUpt89JcVbK62v6t5SQBSLa Zb7OsnMaWWhdOXoPd86msGs5uqRtP3mJKxUWtXwS7+HSkIgrEwn1/9xt 3VnZn5gqmTcD8UnYfOUIBtftM+mfk40TABcU2/83a8CQDlFeKUdClE5V Q4e7Xg==
+federatetest.smext.faa.gov. 30	IN	A	162.58.33.163
 
 

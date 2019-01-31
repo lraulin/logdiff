@@ -1,0 +1,7 @@
+
+
+;transit.dot.gov.		IN	ANY
+
+transit.dot.gov.	3600	IN	CNAME	www.fta.dot.gov.edgekey.net.
+
+

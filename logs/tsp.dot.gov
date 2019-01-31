@@ -2,12 +2,12 @@
 
 ;tsp.dot.gov.			IN	ANY
 
-tsp.dot.gov.		86400	IN	SOA	mdns1.dot.gov. hostmaster.dot.gov. 2010413721 3600 1200 604800 86400
-tsp.dot.gov.		86400	IN	NS	dotazwdns002vg.ad.dot.gov.
+tsp.dot.gov.		86400	IN	SOA	mdns1.dot.gov. hostmaster.dot.gov. 2010413761 3600 1200 604800 86400
 tsp.dot.gov.		86400	IN	NS	idns3.dot.gov.
 tsp.dot.gov.		86400	IN	NS	idns1.dot.gov.
-tsp.dot.gov.		86400	IN	NS	dotazedns002vg.ad.dot.gov.
+tsp.dot.gov.		86400	IN	NS	dotazwdns002vg.ad.dot.gov.
 tsp.dot.gov.		86400	IN	NS	idns4.dot.gov.
 tsp.dot.gov.		86400	IN	NS	idns2.dot.gov.
+tsp.dot.gov.		86400	IN	NS	dotazedns002vg.ad.dot.gov.
 
 

@@ -1,0 +1,8 @@
+
+
+;epr.marad.dot.gov.		IN	ANY
+
+epr.marad.dot.gov.	3600	IN	AAAA	2001:19e8:d4:1::20
+epr.marad.dot.gov.	3600	IN	A	204.238.19.20
+
+

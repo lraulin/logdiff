@@ -1,0 +1,10 @@
+
+
+;nstrc.nhtsa.gov.		IN	ANY
+
+nstrc.nhtsa.gov.	771	IN	NSEC	NVSWEB.nhtsa.gov. CNAME RRSIG NSEC
+nstrc.nhtsa.gov.	771	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. EEHQtFXORulpYGf/0JMHtRBvDb19gx4hD+oDLyj3yA0R8QyzuQt3Zrbp I1mbu3XoiZyKwDR6dr81Ohw1B29g3Ienggq9MabgbFWcHaVpo1sJ49hD ELWl+FJQL0BxmNHsfwEeo3qwbRKVRD+Xapz2wSJpKDufRjv24ltBvO5k UZM=
+nstrc.nhtsa.gov.	171	IN	CNAME	dredata.nhtsa.gov.edgekey.net.
+nstrc.nhtsa.gov.	171	IN	RRSIG	CNAME 8 3 300 20190726230000 20190109010000 5286 nhtsa.gov. mTo32jzs2p9MuL2LYJL7HIPXqgaKiVdxvFHK60bhE+0Xo4XW7/sJo4r3 FCdCX7vE4HnnOShUL7QNs2E2xyoLJqhkbIAnYWQFzhhz1MM3hSeGzPIv yC36xiXIAG/usk6Fe2EI//EtJS+DLCnbK8SxMdFAS3CzV7z8jLJ3Yx1X UO8=
+
+

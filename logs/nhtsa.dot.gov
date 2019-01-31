@@ -2,13 +2,13 @@
 
 ;nhtsa.dot.gov.			IN	ANY
 
-nhtsa.dot.gov.		9600	IN	SOA	mdns1.dot.gov. hostmaster.dot.gov. 2010410117 3600 1200 604800 86400
-nhtsa.dot.gov.		9600	IN	NS	idns4.dot.gov.
+nhtsa.dot.gov.		9600	IN	SOA	mdns1.dot.gov. hostmaster.dot.gov. 2010410157 3600 1200 604800 86400
 nhtsa.dot.gov.		9600	IN	NS	idns2.dot.gov.
-nhtsa.dot.gov.		9600	IN	NS	idns3.dot.gov.
 nhtsa.dot.gov.		9600	IN	NS	dotazwdns002vg.ad.dot.gov.
-nhtsa.dot.gov.		9600	IN	NS	idns1.dot.gov.
 nhtsa.dot.gov.		9600	IN	NS	dotazedns002vg.ad.dot.gov.
+nhtsa.dot.gov.		9600	IN	NS	idns3.dot.gov.
+nhtsa.dot.gov.		9600	IN	NS	idns1.dot.gov.
+nhtsa.dot.gov.		9600	IN	NS	idns4.dot.gov.
 nhtsa.dot.gov.		300	IN	MX	10 SMTP08.dot.gov.
 nhtsa.dot.gov.		300	IN	MX	10 SMTP10.dot.gov.
 

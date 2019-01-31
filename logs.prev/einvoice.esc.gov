@@ -1,0 +1,9 @@
+
+
+;einvoice.esc.gov.		IN	ANY
+
+einvoice.esc.gov.	73048	IN	A	162.58.35.158
+einvoice.esc.gov.	73048	IN	RRSIG	A 8 3 86400 20190216203833 20190130132423 62184 esc.gov. FGUANEIcS/XDu7/iysciZVuNnXtMCmBQyTyavyD/OQ94SBMM6bNXW1Nn G3Vw0JzMEmmxGYpAYcifc/+oQy7qoRXFrhFDXfx2cNJdJUMnXb+XHecX p7xlnrybX71qgrRP9mQLp173fNtGa2tiTCb0dyI1rcqIh9pJTcvqgUAm SwA=
+einvoice.esc.gov.	73048	IN	RRSIG	A 8 3 86400 20190224150506 20190130132425 54276 esc.gov. iVbDOC1njvx/sRUDkilntqEsaHfgSLBh+JAPpFpcUsOilCxaQcmod4PB VMXJAHm4+Do/XTix+ujTFnbihrLqaUBSu6ls+PZF1hwkRZX2qHK3DSzd RrAegGy9X0LlvkyLvxAGhuRHJ8m1Qwjw0JQdBDA444/mpqRHo4eN63+b LTo=
+
+

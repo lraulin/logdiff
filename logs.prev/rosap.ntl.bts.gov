@@ -1,0 +1,10 @@
+
+
+;rosap.ntl.bts.gov.		IN	ANY
+
+rosap.ntl.bts.gov.	143	IN	NSEC	ntldev.bts.gov. A RRSIG NSEC
+rosap.ntl.bts.gov.	143	IN	RRSIG	NSEC 8 4 900 20190726230000 20190109010000 45363 bts.gov. HkKaj+aLr2SKpfNpcXpnYC50YYPLSN3I9zz4Ir45TTSAntiF8XQYXNsR L6TQhz/FaN+VxpFhcGlWj71kxcoVpnTEyAXCTR9vQ1MxqBb6WICDs0Mg Uv5kOqhb9MqALTed7OJcmaWPi0GMhFMVKmTlUfSuOaay4T+gYGr48B2u kjg=
+rosap.ntl.bts.gov.	172	IN	RRSIG	A 8 4 300 20190726230000 20190109010000 45363 bts.gov. PjaMULB913srzMpbbY4JsofFrlNAOaXHwgEXepdIIqSMyRLb7QpiAYD5 N5rftRjEnlSF4KTW4TIiXi8bDlbH45qZBCNw2L5QTdTJrHb7OzwsabqU IXwKn74dsb1oDbhDWdnVjvS0jKgOw1vw+SzU19T7h/AFoegUipllxt7j rYA=
+rosap.ntl.bts.gov.	172	IN	A	34.199.154.156
+
+

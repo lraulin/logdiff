@@ -1,0 +1,10 @@
+
+
+;static.nhtsa.gov.		IN	ANY
+
+static.nhtsa.gov.	775	IN	NSEC	stg-api.nhtsa.gov. CNAME RRSIG NSEC
+static.nhtsa.gov.	775	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. kAHUlwYkOb8sKG4sKhN4wPsAsK4tm9C00AYiEHQBj4W2AsdRXMakDB8H egnXLHAq0GRGwyNOY5n1P4EJqP6ckXotPqpSBS4F/a11rNIvJ4ix64Qf +8qAwpNsLJ6NHQY54DvUm8COIUfogZ66SVEvNwO/WBCU6mBG0HKIz6+g ygo=
+static.nhtsa.gov.	3475	IN	CNAME	d1gacuyv2xhfmh.cloudfront.net.
+static.nhtsa.gov.	3475	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 5286 nhtsa.gov. MjXQ0gYj5F0YQDStJcwTg45pQcU+EacUrih3WN0XFtRWwtF2P5elmd5L Yt9o8dqGZDKFVnLqUgvRtCie27zzULLfJVvoTBaEgSPirhnhWP3o7pVo 2KF884EPEASwj78sfvZAWv1UlhkImhLxrp5Xc+bznfYPIs/Q5pRJfdFL vRo=
+
+

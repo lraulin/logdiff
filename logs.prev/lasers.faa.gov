@@ -1,0 +1,7 @@
+
+
+;lasers.faa.gov.			IN	ANY
+
+lasers.faa.gov.		900	IN	CNAME	laser.faa.gov.
+
+

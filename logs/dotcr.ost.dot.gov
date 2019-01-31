@@ -2,6 +2,6 @@
 
 ;dotcr.ost.dot.gov.		IN	ANY
 
-ost.dot.gov.		86400	IN	SOA	mdns1.dot.gov. hostmaster.dot.gov. 2010470879 3600 1200 604800 86400
+ost.dot.gov.		86400	IN	SOA	mdns1.dot.gov. hostmaster.dot.gov. 2010470920 3600 1200 604800 86400
 
 

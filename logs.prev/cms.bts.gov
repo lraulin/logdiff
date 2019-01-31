@@ -1,0 +1,8 @@
+
+
+;cms.bts.gov.			IN	ANY
+
+cms.bts.gov.		155	IN	RRSIG	CNAME 8 3 300 20190726230000 20190109010000 45363 bts.gov. PwiSnSVp1UAon62OLMTFa8jzR+YIwf3GkyuB61DnFMDkrmYebAmujCnV d9ZKNKZMv9g9RiRpR91qE+9GK5VihKUGK+J6okEYnV1KySVMgBCmCQyB hv9a+NuMkh8m49XQe6pTIbPdmfSZVafwtBjxasX0iVys/Hvs+omv7QDD 4yE=
+cms.bts.gov.		155	IN	CNAME	admin.dot.gov.edgekey.net.
+
+

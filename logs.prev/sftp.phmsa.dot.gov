@@ -1,0 +1,7 @@
+
+
+;sftp.phmsa.dot.gov.		IN	ANY
+
+sftp.phmsa.dot.gov.	86400	IN	CNAME	phmhqnwas005.ad.dot.gov.
+
+

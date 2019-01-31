@@ -1,0 +1,7 @@
+
+
+;fragis.fra.dot.gov.		IN	ANY
+
+fragis.fra.dot.gov.	1500	IN	CNAME	fra-global.fra.dot.gov.
+
+

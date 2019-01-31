@@ -2,6 +2,6 @@
 
 ;cms.fhwa.dot.gov.		IN	ANY
 
-cms.fhwa.dot.gov.	664	IN	CNAME	admin.dot.gov.edgekey.net.
+cms.fhwa.dot.gov.	382	IN	CNAME	admin.dot.gov.edgekey.net.
 
 

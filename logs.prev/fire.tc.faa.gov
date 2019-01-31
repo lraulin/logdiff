@@ -1,0 +1,7 @@
+
+
+;fire.tc.faa.gov.		IN	ANY
+
+tc.faa.gov.		9267	IN	SOA	faa-az-dc02.faa.gov. nsc.faa.gov. 2006286502 10800 1800 604800 900
+
+

@@ -1,0 +1,7 @@
+
+
+;gateway.faa.gov.		IN	ANY
+
+gateway.faa.gov.	7200	IN	A	155.178.201.192
+
+

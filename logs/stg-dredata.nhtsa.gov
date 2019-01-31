@@ -2,9 +2,7 @@
 
 ;stg-dredata.nhtsa.gov.		IN	ANY
 
-stg-dredata.nhtsa.gov.	300	IN	CNAME	dredata.nhtsa.gov.edgekey.net.
-stg-dredata.nhtsa.gov.	300	IN	RRSIG	CNAME 8 3 300 20190726230000 20190109010000 5286 nhtsa.gov. Bou2wmrDtxidYTAg+B0dXuuTCZ5WuAlCobTNELPFNwmNAvkwDnsWvHTr XokVBcfwxpywOQbLZR9am8Bp9kE6dzq2f94RavK5DjzNs+jYvc1YlF1x Zcbu6QOmB11J59lSZdTUO1oTXDOas22svygA+v1NKvrrgb/xDnb5ABid TOM=
-stg-dredata.nhtsa.gov.	900	IN	NSEC	stg-nstrc.nhtsa.gov. CNAME RRSIG NSEC
-stg-dredata.nhtsa.gov.	900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. DPaC2GZoBMBNjIZzR4o4G4bakqC6htz3JkQiTRNgXEaGARakamre4Hr4 OHbSaS8k8BBP8g4OBnodFQvaAu2/jS3ZrUWDZEF2C4Vatw2yHNI7mN01 9C3yA6j5NQp9Pr02UIBkKyY1VGQMv5yFXkPf6O/X77Htt6gww/j1GOIx Si8=
+stg-dredata.nhtsa.gov.	383	IN	NSEC	stg-nstrc.nhtsa.gov. CNAME RRSIG NSEC
+stg-dredata.nhtsa.gov.	383	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. DPaC2GZoBMBNjIZzR4o4G4bakqC6htz3JkQiTRNgXEaGARakamre4Hr4 OHbSaS8k8BBP8g4OBnodFQvaAu2/jS3ZrUWDZEF2C4Vatw2yHNI7mN01 9C3yA6j5NQp9Pr02UIBkKyY1VGQMv5yFXkPf6O/X77Htt6gww/j1GOIx Si8=
 
 

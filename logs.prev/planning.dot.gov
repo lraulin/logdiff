@@ -1,0 +1,7 @@
+
+
+;planning.dot.gov.		IN	ANY
+
+planning.dot.gov.	86400	IN	CNAME	www.planning.dot.gov.
+
+

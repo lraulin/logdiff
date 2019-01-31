@@ -1,0 +1,14 @@
+
+
+;rita.dot.gov.			IN	ANY
+
+rita.dot.gov.		86400	IN	SOA	mdns1.dot.gov. hostmaster.dot.gov. 2010418133 21600 3600 604800 86400
+rita.dot.gov.		86400	IN	NS	idns2.dot.gov.
+rita.dot.gov.		86400	IN	NS	idns1.dot.gov.
+rita.dot.gov.		86400	IN	NS	dotazedns002vg.ad.dot.gov.
+rita.dot.gov.		86400	IN	NS	dotazwdns002vg.ad.dot.gov.
+rita.dot.gov.		86400	IN	NS	idns4.dot.gov.
+rita.dot.gov.		86400	IN	NS	idns3.dot.gov.
+rita.dot.gov.		86400	IN	A	204.68.195.241
+
+

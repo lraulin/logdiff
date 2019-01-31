@@ -2,13 +2,13 @@
 
 ;faa.gov.			IN	ANY
 
-faa.gov.		0	IN	SOA	imns1.faa.gov. helpdesk.faa.gov. 2019012304 10800 1800 604800 1800
+faa.gov.		0	IN	SOA	imns1.faa.gov. helpdesk.faa.gov. 2019013100 10800 1800 604800 1800
 faa.gov.		300	IN	MX	5 amcrelay1.faa.gov.
 faa.gov.		300	IN	MX	5 relay1.faa.gov.
 faa.gov.		300	IN	MX	5 relay2.faa.gov.
 faa.gov.		300	IN	MX	5 amcrelay2.faa.gov.
-faa.gov.		7200	IN	NS	imns2.faa.gov.
 faa.gov.		7200	IN	NS	merlin.faa.gov.
+faa.gov.		7200	IN	NS	imns2.faa.gov.
 faa.gov.		7200	IN	NS	imns4.faa.gov.
 faa.gov.		7200	IN	NS	imns1.faa.gov.
 faa.gov.		7200	IN	A	155.178.201.85

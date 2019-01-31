@@ -2,9 +2,9 @@
 
 ;origin-dr-gts.nhtsa.gov.	IN	ANY
 
-origin-dr-gts.nhtsa.gov. 900	IN	NSEC	origin-dr-www.nhtsa.gov. A RRSIG NSEC
-origin-dr-gts.nhtsa.gov. 900	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. NNxHsMzhYiLExZHBpOgfyBqvuqMoCdkdjm7iivAKKi6yTSsZaXiy+tAx 6iQQpB7hq/wbLuiTAQ5YYluGiQGMEP3HK4nWFOR2lGyVMvx3812wvExd VS9+zCfWrNexA2VeCCG54OQz0NyEAO2vYXhTM0R9/eEhHaBMQa3U/mSM kTo=
-origin-dr-gts.nhtsa.gov. 900	IN	A	204.238.19.95
-origin-dr-gts.nhtsa.gov. 900	IN	RRSIG	A 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. IZVdyk2XC88mJUtWgp75DCc+BzbAp5Th2e9O3TlIyT5irVMXN6x3hK2D fL4TxqD0BaGuu5lWQnxjHr8b5vizhbnpxb4Iial1PGEtZTN4Mj6/fb/F Hm4yXTVIPApBWFYXUQo09GoAT8cjBM5oIUgNYSlEjCMZuXU5QRmh7pva tgk=
+origin-dr-gts.nhtsa.gov. 383	IN	A	204.238.19.95
+origin-dr-gts.nhtsa.gov. 383	IN	RRSIG	A 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. IZVdyk2XC88mJUtWgp75DCc+BzbAp5Th2e9O3TlIyT5irVMXN6x3hK2D fL4TxqD0BaGuu5lWQnxjHr8b5vizhbnpxb4Iial1PGEtZTN4Mj6/fb/F Hm4yXTVIPApBWFYXUQo09GoAT8cjBM5oIUgNYSlEjCMZuXU5QRmh7pva tgk=
+origin-dr-gts.nhtsa.gov. 383	IN	NSEC	origin-dr-www.nhtsa.gov. A RRSIG NSEC
+origin-dr-gts.nhtsa.gov. 383	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. NNxHsMzhYiLExZHBpOgfyBqvuqMoCdkdjm7iivAKKi6yTSsZaXiy+tAx 6iQQpB7hq/wbLuiTAQ5YYluGiQGMEP3HK4nWFOR2lGyVMvx3812wvExd VS9+zCfWrNexA2VeCCG54OQz0NyEAO2vYXhTM0R9/eEhHaBMQa3U/mSM kTo=
 
 

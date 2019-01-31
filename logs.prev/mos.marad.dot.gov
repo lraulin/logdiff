@@ -1,0 +1,8 @@
+
+
+;mos.marad.dot.gov.		IN	ANY
+
+mos.marad.dot.gov.	3600	IN	A	204.238.19.20
+mos.marad.dot.gov.	3600	IN	AAAA	2001:19e8:d4:1::20
+
+

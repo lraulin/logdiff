@@ -1,0 +1,7 @@
+
+
+;learn.faa.gov.			IN	ANY
+
+learn.faa.gov.		300	IN	CNAME	faaprod.blackboard.com.
+
+

@@ -2,6 +2,6 @@
 
 ;ntcscheduler.fmcsa.dot.gov.	IN	ANY
 
-ntcscheduler.fmcsa.dot.gov. 83330 IN	CNAME	fmcsa.portal.dot.gov.
+ntcscheduler.fmcsa.dot.gov. 68292 IN	CNAME	fmcsa.portal.dot.gov.
 
 

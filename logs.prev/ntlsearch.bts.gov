@@ -1,0 +1,8 @@
+
+
+;ntlsearch.bts.gov.		IN	ANY
+
+ntlsearch.bts.gov.	186	IN	RRSIG	CNAME 8 3 600 20190726230000 20190109010000 45363 bts.gov. g+K6NCJDY+LVJQ0X+12Fib+ovDcBn0VqVBENUNWx1Oa1rk6MZ9JRCvo4 MUfWc4khbj9AYosPSU4Jt81824CQO+2y9IBulZgvp+9ZWGMNRRilPISL p6/KQq0rgeaQpkenlViJzqu+UCXyg6LPXSlP+XpHqWL3QQPgL9rRA/jF j7o=
+ntlsearch.bts.gov.	186	IN	CNAME	ntlsearchprod.azurewebsites.net.
+
+

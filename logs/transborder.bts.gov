@@ -2,7 +2,7 @@
 
 ;transborder.bts.gov.		IN	ANY
 
-transborder.bts.gov.	2262	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 45363 bts.gov. an6Sd9AieDmIxxxef2KeQOiW9/bPwlYCelLJyIaKd5IlxNjTy8pLPKTM 4g+RQLcWoj7chl7QR2ixue/Vnw5XdfqxgzBiCEs3KENojG5ZV84Is2vJ 7VDEpYap4e0aUd5P0+/d5h2gDV1ibbVZXdO1seNY3B+o3MsJKIgMo4Wy 4+0=
-transborder.bts.gov.	2262	IN	CNAME	apps.bts.gov.
+transborder.bts.gov.	1789	IN	CNAME	apps.bts.gov.
+transborder.bts.gov.	1789	IN	RRSIG	CNAME 8 3 3600 20190726230000 20190109010000 45363 bts.gov. an6Sd9AieDmIxxxef2KeQOiW9/bPwlYCelLJyIaKd5IlxNjTy8pLPKTM 4g+RQLcWoj7chl7QR2ixue/Vnw5XdfqxgzBiCEs3KENojG5ZV84Is2vJ 7VDEpYap4e0aUd5P0+/d5h2gDV1ibbVZXdO1seNY3B+o3MsJKIgMo4Wy 4+0=
 
 

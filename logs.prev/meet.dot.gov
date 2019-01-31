@@ -1,0 +1,7 @@
+
+
+;meet.dot.gov.			IN	ANY
+
+meet.dot.gov.		3600	IN	CNAME	lyncdiscover.dot.gov.
+
+

@@ -1,0 +1,7 @@
+
+
+;airporttech.tc.faa.gov.		IN	ANY
+
+tc.faa.gov.		9283	IN	SOA	faa-wp-dc01.faa.gov. nsc.faa.gov. 2006286500 10800 1800 604800 900
+
+

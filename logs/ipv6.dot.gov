@@ -2,6 +2,6 @@
 
 ;ipv6.dot.gov.			IN	ANY
 
-dot.gov.		900	IN	SOA	mdns1.dot.gov. hostmaster.dot.gov. 2018881337 3600 1200 604800 900
+dot.gov.		900	IN	SOA	mdns1.dot.gov. hostmaster.dot.gov. 2018887841 3600 1200 604800 900
 
 

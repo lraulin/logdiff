@@ -1,0 +1,7 @@
+
+
+;strap.nhtsa.dot.gov.		IN	ANY
+
+strap.nhtsa.dot.gov.	900	IN	CNAME	NHTHQNWAS294.nhtsa.dot.gov.
+
+

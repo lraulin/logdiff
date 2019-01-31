@@ -2,6 +2,6 @@
 
 ;nstb.tc.faa.gov.		IN	ANY
 
-tc.faa.gov.		10800	IN	SOA	faa-mc-dc00.faa.gov. nsc.faa.gov. 2006286500 10800 1800 604800 900
+tc.faa.gov.		7586	IN	SOA	faa-al-dc00.faa.gov. nsc.faa.gov. 2006286500 10800 1800 604800 900
 
 

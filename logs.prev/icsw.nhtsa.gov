@@ -1,0 +1,10 @@
+
+
+;icsw.nhtsa.gov.			IN	ANY
+
+icsw.nhtsa.gov.		769	IN	NSEC	idd.nhtsa.gov. CNAME RRSIG NSEC
+icsw.nhtsa.gov.		769	IN	RRSIG	NSEC 8 3 900 20190726230000 20190109010000 5286 nhtsa.gov. ZiKAhAwMyGbwcMOXz96w/VlGhKXznlTWY+F+HNAPLve9DJZbSlrpZWLo Mz0Vvcm3pERnjGcaJZH4l6X9hQqgKHpJdWFM0VLyT1UXDNsfCcLCGGEq Iv8HNz4GGAo4BDnEPKhTjDG1VOY90brZbbbF2XqWo4ilKQT0HwD1iykO Yuk=
+icsw.nhtsa.gov.		169	IN	CNAME	www.nhtsa.gov.edgekey.net.
+icsw.nhtsa.gov.		169	IN	RRSIG	CNAME 8 3 300 20190726230000 20190109010000 5286 nhtsa.gov. f6thVXu9Z+JD8YxC5MgZn2XzA5SOy4PCIPuNNExoVQS3UnNGzwdgaqHf z6xaGp0o30eC/yZ226aDPXXbGO4whnYwhBnakCr8xWCiXHtKDF5xOerY fF9iAs4WnkOA3GIjxDkp1DF8D8xsZajT/Q+Oau5ua7MO0wqrFmzeDMS0 rfc=
+
+

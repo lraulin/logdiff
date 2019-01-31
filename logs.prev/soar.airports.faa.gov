@@ -1,0 +1,7 @@
+
+
+;soar.airports.faa.gov.		IN	ANY
+
+soar.airports.faa.gov.	7200	IN	A	155.178.194.156
+
+
